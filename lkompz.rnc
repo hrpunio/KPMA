@@ -1,0 +1,45 @@
+# DTD dla dokumentu typu lista kompozytor/ow
+
+# (c) T.Przechlewski ** 2002,2012
+default namespace = "http://www.kpma.amuz.gda.pl/2012/lkompz"
+
+lista.kompozytorow =
+  element lista.kompozytorow { attlist.lista.kompozytorow, kompozytor+ }
+kompozytor =
+  element kompozytor {
+    attlist.kompozytor,
+    nazwisko,
+    imie,
+    ur?,
+    zm?,
+    notka?,
+    enotka?,
+    wkompozycje?
+  }
+nazwisko = element nazwisko { attlist.nazwisko, text }
+attlist.nazwisko &= empty
+imie = element imie { attlist.imie, text }
+attlist.imie &= empty
+ur = element ur { attlist.ur, text }
+attlist.ur &= empty
+zm = element zm { attlist.zm, text }
+attlist.zm &= empty
+notka = element notka { attlist.notka, (text | em | title | index)* }
+attlist.notka &= empty
+enotka = element enotka { attlist.enotka, (text | em | title | index)* }
+attlist.enotka &= empty
+wkompozycje = element wkompozycje { attlist.wkompozycje, wk+ }
+attlist.wkompozycje &= empty
+wk = element wk { attlist.wk, (text | em | title)* }
+attlist.wk &= empty
+em = element em { attlist.em, text }
+attlist.em &= empty
+title = element title { attlist.title, text }
+attlist.title &= empty
+index = element index { attlist.index, text }
+attlist.index &= empty
+attlist.kompozytor &=
+  attribute id { xsd:ID }?,
+  attribute email { text }?
+attlist.lista.kompozytorow &= attribute id { text }?
+start = lista.kompozytorow

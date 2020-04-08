@@ -1,0 +1,48 @@
+# Dtd do dokumentu typu lista KOMPozyCji
+
+# (c) T.Przechlewski ** 2002, 2012
+default namespace = "http://www.kpma.amuz.gda.pl/2012/lkompc"
+
+lista.kompozycji =
+  element lista.kompozycji { attlist.lista.kompozycji, kompozytor+ }
+attlist.lista.kompozycji &= empty
+kompozytor = element kompozytor { attlist.kompozytor, kompozycja+ }
+kompozycja =
+  element kompozycja {
+    attlist.kompozycja,
+    tytul,
+    krotki.tytul?,
+    xsklad*,
+    rok,
+    sklad*,
+    wydawca?,
+    nagranie?,
+    zrodlo*
+  }
+tytul = element tytul { attlist.tytul, text }
+attlist.tytul &= empty
+krotki.tytul = element krotki.tytul { attlist.krotki.tytul, text }
+attlist.krotki.tytul &= empty
+rok = element rok { attlist.rok, text }
+attlist.rok &= empty
+sklad = element sklad { attlist.sklad, text }
+attlist.sklad &= empty
+xsklad = element xsklad { attlist.xsklad, text }
+attlist.xsklad &= empty
+wydawca = element wydawca { attlist.wydawca, text }
+attlist.wydawca &= empty
+nagranie = element nagranie { attlist.nagranie, text }
+attlist.nagranie &= empty
+zrodlo = element zrodlo { attlist.zrodlo, text }
+attlist.kompozytor &= attribute id { text }
+attlist.zrodlo &= attribute data { text }?
+attlist.kompozycja &=
+  attribute typ {
+    "ad.libitum"
+    | "solo"
+    | "orkiestra"
+    | "m.kameralna"
+    | "koncerty"
+    | "i.orkiestro"
+  }
+start = lista.kompozycji

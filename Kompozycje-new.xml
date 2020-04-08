@@ -1,0 +1,8226 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE lista.kompozycji SYSTEM "lkompc.dtd" >
+<lista.kompozycji  xmlns="http://www.kpma.amuz.gda.pl/2012/lkompc">
+
+<kompozytor id='Augustyn.R'><!-- *** Augustyn:Rafał# -->
+
+<kompozycja typ="i.orkiestro">
+  <tytul>Atlantyda I na orkiestrę symfoniczną</tytul>
+  <xsklad>4 akordeony w orkiestrze</xsklad>
+  
+  <rok>1979</rok>
+  <sklad>4 acc</sklad>
+  <wydawca>manus</wydawca>
+
+</kompozycja>
+<kompozycja typ="i.orkiestro">
+ <tytul>Atlantyda II na wielką orkiestrę i chór</tytul>
+ <xsklad>4 akordeony w orkiestrze</xsklad>
+ 
+ <rok>1983</rok>
+ <sklad>4 acc</sklad>
+ <wydawca>manus</wydawca>
+ <nagranie>LP</nagranie>
+</kompozycja>
+
+</kompozytor>
+
+<kompozytor id='Baculewski.K'><!-- *** Baculewski:Krzysztof# -->
+
+<kompozycja typ="m.kameralna">
+ <tytul>Suite de cheminée</tytul>
+ <xsklad>2 akordeony</xsklad>
+ 
+ <rok>1984</rok>
+ <sklad>2 acc</sklad>
+ <wydawca>AA</wydawca>
+</kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Bagiński.Z'><!-- *** Bagiński:Zbigniew# -->
+
+<kompozycja typ="m.kameralna">
+    <tytul>Accor-dance</tytul>
+    <xsklad>saksofon i akordeon</xsklad>
+    
+    <rok/>
+    <sklad>acc, sxf</sklad>
+   </kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Bargielski.Z'><!-- *** Bargielski:Zbigniew# -->
+
+<kompozycja typ="m.kameralna">
+ <tytul>Hipopotamy</tytul>
+ <xsklad>2 akordeony</xsklad>
+ 
+ <rok>1980</rok>
+ <sklad>2 acc</sklad>
+ <wydawca>AUG</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Traumvogel</tytul>
+ <xsklad>perkusja i akordeon</xsklad>
+ 
+ <rok>1980</rok>
+ <sklad>acc, batt</sklad>
+ <wydawca>manus</wydawca>
+ <nagranie>LP, CD</nagranie>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Zapfenstreich</tytul>
+ <xsklad>3 akordeony i werbel</xsklad>
+ 
+ <rok>1980</rok>
+ <sklad>3 acc, cassa</sklad>
+ <wydawca>AUG</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Gemalte Wolken</tytul>
+    <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1982</rok>
+ <wydawca>PKW</wydawca>
+ <nagranie>CD</nagranie>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Gespräch mit einem Schatten</tytul>
+ <xsklad>2 akordeony</xsklad>
+ 
+ <rok>1982</rok>
+ <sklad>2 acc</sklad>
+ <wydawca>BM</wydawca>
+ <nagranie>CD</nagranie>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Abschiedsnacht</tytul>
+ <xsklad>kwartet smyczkowy i akordeon</xsklad>
+ 
+ <rok>1983</rok>
+ <sklad>acc, quartetto d’archi</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Drei Polnische Suiten</tytul>
+    <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1984</rok>
+ <wydawca>JP</wydawca>
+ <nagranie>CD</nagranie>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Schwarzer Spiegel</tytul>
+ <xsklad>gitara i akordeon</xsklad>
+ 
+ <rok>1984</rok>
+ <sklad>acc, chitt</sklad>
+ <wydawca>manus</wydawca>
+ <nagranie>CD</nagranie>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Garten der Leidenschaften</tytul>
+ <xsklad>sopran solo, klarnet basowy/saksofon altowy, akordeon, perkusja</xsklad>
+ 
+ <rok>1985</rok>
+ <sklad>acc, cl basso/cl contralto/sxf alto-1 esec, batt, S solo</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Versunkene Flamme</tytul>
+ <xsklad>skrzypce, wiolonczela i akordeon</xsklad>
+ 
+ <rok>1985</rok>
+ <sklad>vn, vc, acc</sklad>
+ <wydawca>manus</wydawca>
+ <nagranie>KM</nagranie>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Kurzbericht aus der Wienerwald na zespół woklany, fortepian
+(lub akordeon, lub klawesyn) i 3 flety</tytul>
+ <xsklad>3 soprany, 2 mezzosoprany, 3 barytony, akordeon, 3 flety </xsklad>
+ 
+ <rok>1986</rok>
+ <sklad>acc ossia cmb/ar/org/pf-ad lib, 3 fl-ti, voci: 3S, 2Mz, 3Brt</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Suite der Tänze und Lieder</tytul>
+ <krotki.tytul>Suite!der Tänze und Lieder</krotki.tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1986</rok>
+ <wydawca>manus</wydawca>
+ <nagranie>CD</nagranie>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Arie mit Couplet</tytul>
+ <xsklad>2 akordeony</xsklad>
+ 
+ <rok>1987</rok>
+ <sklad>2 acc</sklad>
+ <wydawca>manus</wydawca>
+ <nagranie>KM</nagranie>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Grazer Variationen</tytul>
+ <xsklad>orkiestra akordeonowa</xsklad>
+ 
+ <rok>1987</rok>
+ <sklad>12 acc</sklad>
+ <wydawca>MH</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Labirynth</tytul>
+ <xsklad>wiolonczela i akordeon</xsklad>
+ 
+ <rok>1987</rok>
+ <sklad>vc, acc</sklad>
+ <wydawca>ADU</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Kalejdoskop</tytul>
+    <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1988</rok>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="i.orkiestro">
+ <tytul>Cha-ord na orkiestrę</tytul>
+    <xsklad>1 akordeon w orkiestrze</xsklad>
+ 
+ <rok>1990</rok>
+ <sklad>1 acc</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Egad</tytul>
+ <xsklad>wibrafon i akordeon</xsklad>
+ 
+ <rok>1990</rok>
+ <sklad>acc, vbf/keyboard ad lib</sklad>
+ <wydawca>manus</wydawca>
+ <nagranie>CD</nagranie>
+</kompozycja>
+
+<kompozycja typ="orkiestra">
+ <tytul>Klangzucht</tytul>
+ <rok>1990</rok>
+ <sklad>orkiestra akordeonowa</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="koncerty">
+ <tytul>Trigonalia na na gitarę, akordeon, perkusję i orkiestrę kameralną</tytul>
+  
+ <rok>1994</rok>
+ <sklad>2fl, 2ob, 1cl, 2fg-2tr, 2cr, 2tn-batt(2 esec)-batt solo, acc solo, chit solo-archi(6, 4, 3, 2)</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="orkiestra">
+  <tytul>Klangmühle</tytul>
+  <xsklad>orkiestra akordeonowa</xsklad>
+  
+  <rok>1991</rok>
+  <sklad>orkiestra akordeonowa</sklad>
+  <wydawca/>
+  <zrodlo data="2004/07/09">Brennpunkte II, Augemus 
+  Musikverlag, Bochum 2002</zrodlo>
+</kompozycja>
+<kompozycja typ="i.orkiestro">
+  <tytul>Im Niemandsland</tytul>
+  <xsklad>2 akordeony w orkiestrze</xsklad>
+  
+  <rok>1989</rok>
+  <sklad>2 acc</sklad>
+  <zrodlo data="2004/07/09">Brennpunkte II, Augemus 
+  Musikverlag, Bochum 2002</zrodlo>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+  <tytul>Tanz am Rande des Lichtes</tytul>
+  <xsklad>2 flety, 2 klarnety, trąbka, perkusja, wiolonczela i akordeon</xsklad>
+  
+  <rok>1995</rok>
+  <sklad>acc, 2 fl, 2 cl, tr, batt, vc</sklad>
+  <zrodlo data="2004/07/09">Brennpunkte II, Augemus Musikverlag, Bochum 2002</zrodlo>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+  <tytul>Tango</tytul>
+  <xsklad>akordeon (bandoneon), skrzypce, fortepian i kontrabas</xsklad>
+  
+  <rok>1997</rok>
+  <sklad>acc (bandoneon), pfte, v-no, cb</sklad>
+  <wydawca>Bundesakademie für Musikalische Jugendbildung, Trossingen</wydawca>
+  <zrodlo data="2004/07/09">Brennpunkte II, Augemus Musikverlag, Bochum 2002</zrodlo>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+  <tytul>Tango</tytul>
+  <xsklad>flet prosty i akordeon</xsklad>
+  
+  <rok>1997</rok>
+  <sklad>acc, fl dolce</sklad>
+  <wydawca/>
+  <zrodlo data="2004/07/09">Brennpunkte II, Augemus 
+  Musikverlag, Bochum 2002</zrodlo>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+    <tytul>Jeux á Trois</tytul>
+    <xsklad>3 akordeony</xsklad>
+    
+    <rok/>
+  </kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Bauer.J'><!-- *** Bauer:Jerzy# -->
+
+  <kompozycja typ="m.kameralna">
+ <tytul>Play serious to make fun...</tytul>
+ <xsklad>flet, gitara i akordeon</xsklad>
+ <rok>1990</rok>
+ <sklad>acc, fl, chitt</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+
+<kompozycja typ="m.kameralna">
+    <tytul>Stylizacje</tytul>
+    <xsklad>2 akordeony</xsklad>
+    <rok>2002</rok>
+    <sklad>2 acc</sklad>
+  </kompozycja>
+
+<kompozycja typ="m.kameralna">
+    <tytul>Trzy stylizacje na dwa akordeony</tytul>
+    <krotki.tytul>Trzy stylizacje!na dwa akordeony</krotki.tytul>
+    <xsklad>2 akordeony</xsklad>
+    <rok>2002</rok>
+    <sklad>2 acc</sklad>
+    <nagranie>CD -- Akordeon w solowej i kameralnej twórczości kompozytorów łódzkich Vol. 1</nagranie>
+  </kompozycja>
+
+<kompozycja typ="m.kameralna">
+    <tytul>Klimaty muzyczne i żart</tytul>
+    <xsklad>skrzypce, gitara, akordeon</xsklad>
+    <rok>2004</rok>
+    <sklad>vn, chit, acc</sklad>
+  </kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Bela.M'><!-- *** Bela:Marcin# -->
+
+<kompozycja typ="m.kameralna">
+ <tytul>Harmonia z cicha</tytul>
+ <xsklad>skrzypce, klarnet, trąbka i akordeon</xsklad>
+ 
+ <rok>2000</rok>
+ <sklad>acc, vn, cl, tr</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Blecharz.W'><!-- *** Blecharz:Wojciech# -->
+
+<kompozycja typ="m.kameralna">
+  <tytul>In my Head</tytul>
+  <xsklad>wiolonczela i akordeon</xsklad>
+  
+  <rok>2007</rok>
+  <sklad>acc, vc</sklad>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+    <tytul>dim</tytul>
+    <xsklad>głos i trio intrumentalne</xsklad>
+    
+    <rok>2007</rok>
+    <sklad>vocal,acc,vc, pfte </sklad>
+  </kompozycja>
+<kompozycja typ="solo">
+    <tytul>Hypopnea</tytul>
+    
+    <rok>2010</rok>
+    <zrodlo>prawykonanie na Musica polonica Nova, 12.05.2010,
+Maciej Frąckiewicz</zrodlo>
+ </kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Bogusławski.E'><!-- *** Bogusławski:Edward# -->
+
+<kompozycja typ="m.kameralna">
+ <tytul>Divertimento II</tytul>
+ <xsklad>5 akordeonów</xsklad>
+ 
+ <rok>1981</rok>
+ <sklad>4 acc, acc basso</sklad>
+ <wydawca>AA</wydawca>
+ <nagranie>CD</nagranie>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Trzy postludia</tytul>
+    <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1982</rok>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Capriccioso</tytul>
+    <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1985</rok>
+ <wydawca>DEF</wydawca>
+</kompozycja>
+<kompozycja typ="koncerty">
+ <tytul>Concerto per accordeono, batteria e archi</tytul>
+ 
+ <rok>1985</rok>
+ <sklad>batt-acc solo-archi</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Divertimento III</tytul>
+ <xsklad>skrzypce, wiolonczela i akordeon</xsklad>
+ 
+ <rok>1986</rok>
+ <sklad>acc, vn, vc</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Continuo I</tytul>
+ <xsklad>5 akordeonów</xsklad>
+ 
+ <rok>1987</rok>
+ <sklad>4 acc, acc basso</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Continuo II</tytul>
+    <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1988</rok>
+ <wydawca>manus</wydawca>
+ <nagranie>KM</nagranie>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Musica per Ensamble d’Accord</tytul>
+ <xsklad>10 akordeonów</xsklad>
+ 
+ <rok>1989</rok>
+ <sklad>8 acc, 2 acc basso</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+    <tytul>Musica per 2 accordeoni</tytul>
+    <xsklad>2 akordeony</xsklad>
+    
+    <rok>1990</rok>
+    <wydawca>manus</wydawca>
+  </kompozycja>
+<kompozycja typ="solo">
+ <tytul>Miniatury I–III (1991–1993)</tytul>
+ 
+ <rok>1993</rok>
+ <wydawca>WSP</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+    <tytul>Studi per fisharmonica</tytul>
+    
+    <rok>1995</rok>
+    <wydawca>Edizioni Curci (Milano)</wydawca>
+  </kompozycja>
+<kompozycja typ="solo">
+    <tytul>Miniatury dziecięce</tytul>
+    <xsklad>akordeon solo</xsklad>
+    
+    <rok>1996</rok>
+  </kompozycja>
+<kompozycja typ="solo">
+ <tytul>Adagio e vivo</tytul>
+    <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1998</rok>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+    <tytul>Impromptu^II^A</tytul>
+    <xsklad>kwartet smyczkowy i akordeon</xsklad>
+    
+    <rok>1999</rok>
+    <sklad>acc, quartett d’archi</sklad>
+  </kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Pieśni Safony na żeński głos recytujący, flet, perkusję i 2 akordeony</tytul>
+ <xsklad>recit, fl, batt, 2 acc</xsklad>
+ 
+ <rok>1998</rok>
+ <sklad>2 acc, recit, fl, batt</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+    <tytul>Supplement</tytul>
+    <xsklad>akordeon solo</xsklad>
+    
+    <rok>2002</rok>
+  </kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Bonk.R'><!-- *** Bonk:Remigiusz# -->
+
+<kompozycja typ="koncerty">
+    <tytul>Toccata</tytul>
+    
+    <rok/>
+  </kompozycja>
+<kompozycja typ="m.kameralna">
+    <tytul>Trzy utwory</tytul>
+    <xsklad>kwartet smyczkowy i akordeon</xsklad>
+    
+    <rok/>
+    <sklad>acc, quartetto d’archi</sklad>
+  </kompozycja>
+<kompozycja typ="m.kameralna">
+  <tytul>Etiudy koncertowe na skrzypce i akordeon</tytul>
+  <krotki.tytul>Etiudy koncertowe</krotki.tytul>
+  <xsklad>skrzypce i akordeon</xsklad>
+  
+  <rok>2010</rok>
+  <sklad>acc, vn</sklad>
+</kompozycja>
+<kompozycja typ="solo">
+    <tytul>Suita</tytul>
+    
+    <rok>2010</rok>
+ </kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Bortnowski.M'><!-- *** Bortnowski:Marcin# -->
+
+<kompozycja typ="solo">
+ <tytul>Epitafium pamięci Andrzeja Krzanowskiego</tytul>
+    <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1991</rok>
+ <wydawca>Provi</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Fantazja</tytul>
+ <xsklad>perkusja i 2 akordeony</xsklad>
+ 
+ <rok>1992</rok>
+ <sklad>2 acc, batt-2 esec</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="i.orkiestro">
+ <tytul>Muzyka nienazwana na orkiestrę</tytul>
+    <xsklad>1 akordeon w orkiestrze</xsklad>
+ 
+ <rok>1994</rok>
+ <sklad>1 acc</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Litania-wersja B</tytul>
+ <xsklad>mezzosopran solo, klawesyn, akordeon</xsklad>
+ 
+ <rok>1995</rok>
+ <sklad>acc, cmb, Mz solo</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="koncerty">
+ <tytul>Koncert na akordeon i orkiestrę kameralną</tytul>
+ <krotki.tytul>Koncert!na akordeon i orkiestrę kameralną</krotki.tytul>
+    <xsklad>1fl, 1ob, 1cl, 1fg-1tr, 1cr, 1tn-batt-acc solo-archi(1, 1, 1, 1, 1</xsklad>
+ 
+ <rok>1996</rok>
+ <sklad>1fl, 1ob, 1cl, 1fg-1tr, 1cr, 1tn-batt-acc solo-archi(1, 1, 1, 1, 1</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Pieśni do słów G. Apollinaire’a</tytul>
+ <xsklad>alt solo, klawesyn, akordeon</xsklad>
+ 
+ <rok>1996</rok>
+ <sklad>acc, A solo, cmb</sklad>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Music for...</tytul>
+ <xsklad>perkusja i 2 akordeony</xsklad>
+ 
+ <rok>1997</rok>
+ <sklad>2acc, batt –2 esec</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Music in Lent</tytul>
+ <xsklad>kwartet smyczkowy i akordeon</xsklad>
+ 
+ <rok>2000</rok>
+ <sklad>acc, quartetto d’archi</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+    <tytul>Kawałki światła</tytul>
+    <xsklad>akordeon, klawesyn i komputer</xsklad>
+    
+    <rok>2003</rok>
+    <sklad>acc, cmb, computer</sklad>
+  </kompozycja>
+<kompozycja typ="solo">
+    <tytul>Suita snów</tytul>
+    
+    <rok>1998</rok>
+    <wydawca>Akademia Świętokrzyska Kielce</wydawca>
+  </kompozycja>
+<kompozycja typ="koncerty">
+    <tytul>I już nocy nie będzie...</tytul>
+    
+    <rok>2010</rok>
+    <zrodlo>zamówienie festiwalu Warszawska Jesień, prawykonanie 19.09.2010,
+klaudiusz Baran - akordeon, AUKSO, dyr. Marek Moś</zrodlo>
+   </kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Botor.H'><!-- *** Botor:Henryk Jan# -->
+
+<kompozycja typ="koncerty">
+    <tytul>Suita ogrodowa</tytul>
+    
+    <rok>2004</rok>
+    <sklad>A, fl, ob, acc, archi</sklad>
+  </kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Buchwald.M'><!-- *** Buchwald:Magdalena# -->
+
+<kompozycja typ="m.kameralna">
+    <tytul>Lichtfenster. Auszüge aus einem Tagebuch na trąbkę i akordeon</tytul>
+    <xsklad>trąbka i akordeon</xsklad>
+    <rok>2007</rok>
+    <sklad>tr, acc</sklad>
+  </kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Buczek.B'><!-- *** Buczek:Barbara# -->
+
+<kompozycja typ="m.kameralna">
+ <tytul>Les sons esotériques</tytul>
+ <xsklad>flet, perkusja, akordeon, taśma</xsklad>
+ 
+ <rok>1989</rok>
+ <sklad>acc, fl, batt, nastro</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Bujnowski.J'><!-- *** Bujnowski:Jacek# -->
+
+<kompozycja typ="solo">
+ <tytul>Wariacje na temat Paganiniego</tytul>
+    <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1992</rok>
+ <wydawca>manus</wydawca>
+</kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Bury.G'><!-- *** Bury:Grzegorz# -->
+
+<kompozycja typ="m.kameralna">
+ <tytul>L’ espace du dedans</tytul>
+ <xsklad>mezzosopran solo, 2 flety, akordeon i perkusja</xsklad>
+ 
+ <rok>1989</rok>
+ <sklad>acc, Mz solo, 2 fl-ti, batt</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Błażejczyk.W'><!-- *** Błażejczyk:Wojciech# -->
+
+<kompozycja typ="m.kameralna">
+    <tytul>Music for 4</tytul>
+    <xsklad>klarnet, akordeon, gitara elektryczna i wiolonczela</xsklad>
+    <rok>2010</rok>
+    <sklad>cl b, vc, acc, chit(el)</sklad>
+    <zrodlo>utwór napisany dla Scontri Ensemble</zrodlo>
+  </kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Błażewicz.M'><!-- *** Błażewicz:Marcin# -->
+
+<kompozycja typ="m.kameralna">
+    <tytul>Can you hear it</tytul>
+   <xsklad>akordeon i kwartet smyczkowy</xsklad>
+    
+    <rok>2001</rok>
+    <sklad>acc, quartetto d’archi</sklad>
+  </kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Chołoniewski.M'><!-- *** Chołoniewski:Marek# -->
+
+<kompozycja typ="m.kameralna">
+ <tytul>Follow Salzach</tytul>
+ <xsklad>flet, perkusja, akordeon, live electronic</xsklad>
+ 
+ <rok>1989</rok>
+ <sklad>acc, fl, batt, live el</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Like Breathing</tytul>
+ <xsklad>obój, klarnet, skrzypce, kontrabas, akordeon, fortepian, live electronic</xsklad> 
+ 
+ <rok>1991</rok>
+ <sklad>acc, ob, cl, vn, cb, pf, live el</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Cienciała.W'><!-- *** Cienciała:Wiesław# -->
+
+<kompozycja typ="solo">
+ <tytul>Cadenza</tytul>
+    <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1988</rok>
+ <wydawca>manus</wydawca>
+ <nagranie>KM</nagranie>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Short Story</tytul>
+ <xsklad>5 akordeonów</xsklad>
+ 
+ <rok>1989</rok>
+ <sklad>4 acc, acc basso</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+    <tytul>Variants no 2</tytul>
+    <xsklad>kwartet smyczkowy i akordeon</xsklad>
+    
+    <rok/>
+    <sklad>acc, quartetto d’archi</sklad>
+  </kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Cwojdziński.A'><!-- *** Cwojdziński:Andrzej# -->
+
+<kompozycja typ="m.kameralna">
+    <tytul>Suita tańców polskich op.82</tytul>
+    <xsklad>orkiestra akordeonowa</xsklad>
+    
+    <rok>2005</rok>
+  </kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Czarnecka.W'><!-- *** Czarnecka:Wiesława# -->
+
+<kompozycja typ="solo">
+ <tytul>Music A</tytul>
+    <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1982</rok>
+ <wydawca>EPNS</wydawca>
+</kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Czerniewicz.M'><!-- *** Czerniewicz:Marek# -->
+
+<kompozycja typ="m.kameralna">
+    <tytul>Cztery zapomniane fotografie</tytul>
+    <xsklad>kwintet dęty blaszany i akordeon</xsklad>
+    
+    <rok>2008</rok>
+    <sklad>acc, 2 tr,cr,tn,tb</sklad>
+   </kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Czyż.H'><!-- *** Czyż:Henryk# -->
+
+<kompozycja typ="i.orkiestro">
+ <tytul>Inge Bartsch, opera</tytul>
+    <xsklad>1 akordeon w orkiestrze</xsklad>
+ 
+ <rok>1981</rok>
+ <sklad>1 acc</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Derus.H'><!-- *** Derus:Henryk# -->
+
+<kompozycja typ="m.kameralna">
+ <tytul>Tercet</tytul>
+ <xsklad>harfa, wiolonczela i akordeon</xsklad>
+ 
+ <rok>1986</rok>
+ <sklad>acc, ar, vc</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Spotkanie z Muzą</tytul>
+    <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1991</rok>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Retrospekcja</tytul>
+ <xsklad>skrzypce, wiolonczela, wibrafon i akordeon</xsklad>
+ 
+ <rok>1994</rok>
+ <sklad>acc, vn, vc, vbf</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+    <tytul>Euphonia/</tytul>
+    <xsklad>kwartet smyczkowy i akordeon</xsklad>
+    
+    <rok>1997</rok>
+    <sklad>acc, quartetto d’archi</sklad>
+  </kompozycja>
+<kompozycja typ="m.kameralna">
+    <tytul>Sekstet akordeonowy</tytul>
+    <xsklad>kwintet dęty i akordeon</xsklad>
+    <rok>1993</rok>
+    <sklad>acc, fl, ob, cl in B, cr, fg</sklad>
+    <wydawca>manus</wydawca>
+  </kompozycja>
+<kompozycja typ="m.kameralna">
+    <tytul>Imaginatio</tytul>
+    <xsklad>wiolonczela i akordeon</xsklad>
+    <rok>1998</rok>
+    <sklad>vc, acc</sklad>
+  </kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Dobrowolski.A'><!-- *** Dobrowolski:Andrzej# -->
+
+<kompozycja typ="m.kameralna">
+ <tytul>Muzyka na 3 akordeony, harmonijkę ustną i perkusję</tytul>
+ <xsklad>harmonijka ustna, 3 akordeony, perkusja</xsklad>
+ 
+ <rok>1977</rok>
+ <sklad>3 acc, chrom/harm-1 esec, batt-3 esec</sklad>
+ <wydawca>PWM</wydawca>
+ <nagranie>LP</nagranie>
+</kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Dobrzyński.M'><!-- *** Dobrzyński:Michał# -->
+
+<kompozycja typ="m.kameralna">
+    <tytul>Concerto Erasmus</tytul>
+    <xsklad>większy skład instrumentalny</xsklad>
+    
+    <rok>2002</rok>
+    <sklad>acc, fl, vc, pfte, batt</sklad>
+  </kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Dowgiałło.Z'><!-- *** Dowgiałło:Zofia# -->
+
+<kompozycja typ="m.kameralna">
+  <tytul>Kalong na akordeon, harfę i perkusję</tytul>
+  <krotki.tytul>Kalong</krotki.tytul>
+  <xsklad>harfa, perkusja i akordeon</xsklad>
+  
+  <rok>2005</rok>
+  <sklad>acc, ar, batt</sklad>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+  <tytul>Tryptyk na baryton, wiolonczelę, akordeon i fortepian</tytul>
+  <krotki.tytul>Tryptyk</krotki.tytul>
+  <xsklad>głos, wiolonczela, akordeon i fortepian</xsklad>
+  
+  <rok>2006</rok>
+  <sklad>acc, B solo, vc, pfte</sklad>
+</kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Dowlasz.B'><!-- *** Dowlasz:Bogdan# -->
+
+<kompozycja typ="solo">
+ <tytul>Scherzino</tytul>
+    <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1972</rok>
+ <wydawca>LIM</wydawca>
+ <nagranie>KM</nagranie>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Cztery rytmy folklorystyczne</tytul>
+<xsklad>akordeon solo</xsklad>
+ 
+ <rok>1973</rok>
+ <wydawca>LIM</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Suita nr 1</tytul>
+ <krotki.tytul>Suita!nr 1</krotki.tytul>
+<xsklad>akordeon solo</xsklad>
+ 
+ <rok>1973</rok>
+ <wydawca>LIM</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Cztery rytmy folklorystyczne</tytul>
+ <xsklad>5 akordeonów</xsklad>
+ 
+ <rok>1976</rok>
+ <sklad>4 acc, acc basso</sklad>
+ <wydawca>LIM</wydawca>
+ <nagranie>KM, CD</nagranie>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Wariacje na temat piosenki dziecięcej „Mało nas”</tytul>
+ <krotki.tytul>Wariacje na temat!piosenki dziecięcej „Mało nas”</krotki.tytul>
+ 
+ <rok>1978</rok>
+ <wydawca>LIM, Ast</wydawca>
+ <nagranie>KM</nagranie>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Wariacje na temat piosenki „Mam chusteczkę”</tytul>
+ <krotki.tytul>Wariacje na temat!piosenki „Mam chusteczkę”</krotki.tytul>
+<xsklad>akordeon solo</xsklad>
+ 
+ <rok>1979</rok>
+ <wydawca>LIM</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Bajki na dobranoc</tytul>
+<xsklad>akordeon solo</xsklad>
+ 
+ <rok>1982</rok>
+ <wydawca>LIM</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Concertino</tytul>
+<xsklad>akordeon solo</xsklad>
+ 
+ <rok>1982</rok>
+ <wydawca>LIM, Ast</wydawca>
+ <nagranie>KM</nagranie>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Suita nr 2 – Opus sectile</tytul>
+ <krotki.tytul>Suita!nr 2 – Opus sectile</krotki.tytul>
+<xsklad>akordeon solo</xsklad>
+ 
+ <rok>1982</rok>
+ <wydawca>LIM, Ast</wydawca>
+ <nagranie>KM</nagranie>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Tańce robotów</tytul>
+<xsklad>akordeon solo</xsklad>
+ 
+ <rok>1982</rok>
+ <wydawca>LIM, Ast</wydawca>
+ <nagranie>KM</nagranie>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Osiem miniatur (Rozmowa, Zagadka, Lustrzane zajączki, Im dalej w las, Etiuda, Mój stary budzik, Walc, Ballada)</tytul>
+<xsklad>akordeon solo</xsklad>
+ 
+ <rok>1983</rok>
+ <wydawca>LIM</wydawca>
+</kompozycja>
+
+<kompozycja typ="m.kameralna">
+ <tytul>Palindrom</tytul>
+ <xsklad>2 akordeony</xsklad>
+  <rok>1983</rok>
+ <sklad>2 acc</sklad>
+ <wydawca>RIC</wydawca>
+</kompozycja>
+
+<kompozycja typ="solo">
+ <tytul>Wariacje na temat piosenki „Zima zła”</tytul>
+ <krotki.tytul>Wariacje na temat!piosenki „Zima zła”</krotki.tytul>
+<xsklad>akordeon solo</xsklad>
+ 
+ <rok>1985</rok>
+ <wydawca>LIM, Astra</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Triada (Walc, Tango, Folk-time)</tytul>
+ <xsklad>4 akordeony</xsklad>
+ 
+ <rok>1986</rok>
+ <sklad>4 acc</sklad>
+ <wydawca>LIM</wydawca>
+ <nagranie>KM</nagranie>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Postscriptum</tytul>
+    <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1987</rok>
+ <wydawca>Astra</wydawca>
+ <nagranie>KM</nagranie>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Scherenschnitt</tytul>
+    <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1987</rok>
+ <wydawca>ABC, PIM</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Sonatina capricciosa</tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1987</rok>
+ <wydawca>Astra</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Drei Kinderspiele</tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1988</rok>
+ <wydawca>ABC, PIM</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Drei polnische Tänze</tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1988</rok>
+ <wydawca>ABC, PIM</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>In einem alten Schloß</tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1988</rok>
+ <wydawca>ABC, PIM</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Sommer auf dem Lande</tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1988</rok>
+ <wydawca>ABC, PIM</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Sonatina minima</tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1988</rok>
+ <wydawca>ABC, PIM</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Walzer für die Oma</tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1988</rok>
+ <wydawca>ABC, PIM</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Ab hoc et ab hac</tytul>
+ <xsklad>flet, gitara i akordeon</xsklad>
+ 
+ <rok>1989</rok>
+ <sklad>acc, fl, chitt</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Śpiewające ryby</tytul>
+ <xsklad>3 akordeony</xsklad>
+ 
+ <rok>1990</rok>
+ <sklad>3 acc</sklad>
+ <wydawca>LIM</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Dialogus musarum</tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1991</rok>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Die singenden Fische</tytul>
+ <xsklad>2 akordeony</xsklad>
+ 
+ <rok>1994</rok>
+ <sklad>2 acc</sklad>
+ <wydawca>MH</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Fresk</tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1994</rok>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Toccata</tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1994</rok>
+ <wydawca>Astra</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Ballada</tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1995</rok>
+ <wydawca>Astra</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Sonoris</tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1995</rok>
+ <wydawca>Astra</wydawca>
+</kompozycja>
+<kompozycja typ="koncerty">
+ <tytul>Koncert na akordeon i małą orkiestrę</tytul>
+ <krotki.tytul>Koncert</krotki.tytul>
+    <xsklad>fl, cl-batt-acc solo–archi</xsklad>
+ 
+ <rok>1997</rok>
+ <sklad>fl, cl-batt-acc solo–archi</sklad>
+ <wydawca>Astra</wydawca>
+</kompozycja>
+<kompozycja typ="orkiestra">
+ <tytul>Es-Es-A Sanok 2000 – Logo na kwintet i orkiestrę akordeonową</tytul>
+ 
+ <rok>2000</rok>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+    <tytul>Cień Paderewskiego</tytul>
+    <xsklad>flet, skrzypce, wiolonczela, gitara i akordeon</xsklad>
+    
+    <rok>2007</rok>
+    <sklad>acc, fl, v-no, vc, chit</sklad> 
+  </kompozycja>
+<kompozycja typ="orkiestra">
+    <tytul>Playstation</tytul>
+    <xsklad>orkiestra akordeonowa</xsklad>
+    
+    <rok>2006</rok>
+    <sklad>orkiestra akordeonowa</sklad>
+  </kompozycja>
+<kompozycja typ="solo">
+  <tytul>Accosoftplay</tytul>
+  
+  <rok>2003</rok>
+  <wydawca>Astra</wydawca>
+  <zrodlo data="2004/03/03"/>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+    <tytul>Con sequenza</tytul>
+    <xsklad>sopran i akordeon</xsklad>
+    
+    <rok>2005</rok>
+    <sklad>acc, S</sklad>
+    <zrodlo>dowlasz@amuz.lodz.pl</zrodlo>
+    <!--manuskrypt -->
+  </kompozycja>
+<kompozycja typ="m.kameralna">
+    <tytul>Cordi in vento</tytul>
+    <xsklad>harfa i akordeon</xsklad>
+    
+    <rok>2005</rok>
+    <sklad>acc, ar</sklad>
+    <zrodlo>dowlasz@amuz.lodz.pl</zrodlo>
+    <!--manuskrypt -->
+  </kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Dubaj.M'><!-- *** Dubaj:Mariusz# -->
+
+<kompozycja typ="solo">
+ <tytul>Inwencja (1992–1996)</tytul>
+ <krotki.tytul>Inwencja</krotki.tytul>
+    <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1996</rok>
+ <wydawca>manus</wydawca>
+</kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Duchnowski.C'><!-- *** Duchnowski:Cezary# -->
+
+<kompozycja typ="m.kameralna">
+  <tytul>Monada I (wersja I)</tytul>
+  <krotki.tytul>Monada I</krotki.tytul>
+  <xsklad>2 skrzypiec i akordeon</xsklad>
+  
+  <rok>2001</rok>
+  <sklad>acc, 2 v-ni</sklad>
+</kompozycja>
+<kompozycja typ="i.orkiestro">
+  <tytul>Ogród Marty, opera kameralna na głos żeński, media elektroniczne i instrumenty</tytul>
+  <xsklad>1 akordeon</xsklad>
+  
+  <rok>2006</rok>
+  <sklad>1 acc</sklad>
+</kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Duchnowski.G'><!-- *** Duchnowski:Grzegorz# -->
+
+<kompozycja typ="m.kameralna">
+    <tytul>Lśnienie</tytul>
+    <xsklad>klarnet, skrzypce i akordeon</xsklad>
+    
+    <rok>2001</rok>
+  <sklad>acc, cl, vn</sklad>
+  </kompozycja>
+<kompozycja typ="m.kameralna">
+    <tytul>Narzędzie ze światła</tytul>
+    <xsklad>skrzypce, klarnet, wibrafon i akordeon</xsklad>
+    
+    <rok>2004</rok>
+    <sklad>acc, vn, cl, vbf</sklad>
+ </kompozycja>
+<kompozycja typ="m.kameralna">
+    <tytul>Radianty</tytul>
+    <xsklad>większy zespół</xsklad>
+    
+    <rok>2006</rok>
+  <sklad>acc solo, fiatti, batt</sklad>
+  </kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Dulian.J'><!-- *** Dulian:Janusz# -->
+
+<kompozycja typ="solo">
+ <tytul>Romanza, rondo brillante con spirito</tytul>
+<xsklad>akordeon solo</xsklad>
+ 
+ <rok>1983</rok>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Sonata nr 3</tytul>
+<xsklad>akordeon solo</xsklad>
+ 
+ <rok>1983</rok>
+ <wydawca>manus</wydawca>
+</kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Dąbek.M#Dowgiałło.Z'><!-- *** Dąbek:Marianna#Dowgiałło:Zofia# -->
+
+<kompozycja typ="m.kameralna">
+    <tytul>OP-MUSIC</tytul>
+    <xsklad>harfa i akordeon</xsklad>
+
+    
+
+    
+
+    <rok>2008</rok>
+    <sklad>acc, ar</sklad>
+  </kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Dębski.K'><!-- *** Dębski:Krzesimir# -->
+
+<kompozycja typ="m.kameralna">
+    <tytul>Bojan Duke of Dignac</tytul>
+    <xsklad>skrzypce i akordeon</xsklad>
+    
+    <rok>2008</rok>
+    <sklad>acc, vn</sklad>
+   </kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Długosz.M'><!-- *** Długosz:Magdalena# -->
+
+<kompozycja typ="m.kameralna">
+ <tytul>Mitclan</tytul>
+ <xsklad>taśma i akordeon</xsklad>
+ 
+ <rok>1988</rok>
+ <sklad>acc, nastro</sklad>
+ <wydawca>manus</wydawca>
+ <nagranie>LP</nagranie>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+  <tytul>DesAkorDar na akordeon, 4 puzony, perkusja i warstwę elektroakustyczną</tytul>
+  <krotki.tytul>DesAkorDar</krotki.tytul>
+  <xsklad>utwory z taśmą</xsklad>
+  
+  <rok>2008</rok>
+  <sklad>acc, 4 tr, batt, nastro</sklad>
+</kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Fotek.J'><!-- *** Fotek:Jan# -->
+
+<kompozycja typ="m.kameralna">
+ <tytul>Wisło moja (prafrazy ludowe)</tytul>
+ <xsklad>gitara i akordeon</xsklad>
+ 
+ <rok>1989</rok>
+ <sklad>acc, chitt</sklad>
+ <wydawca>AA</wydawca>
+</kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Gabryś.A'><!-- *** Gabryś:Aleksander# -->
+
+<kompozycja typ="m.kameralna">
+    <tytul>Dies irae</tytul>
+    <xsklad>większy skład</xsklad>
+    
+    <rok>2002</rok>
+    <sklad>vn, vl, vc, cb, batt, acc, pfte, gadułka</sklad>
+  </kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Gajewski.J'><!-- *** Gajewski:Jaromir# -->
+
+<kompozycja typ="solo">
+ <tytul>Miniatura</tytul>
+ 
+ <rok>2000</rok>
+ <wydawca>manus</wydawca>
+ </kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Garbal.A'><!-- *** Garbal:Aleksandra# -->
+
+<kompozycja typ="m.kameralna">
+    <tytul>Adagio pamięci Andrzeja Krzanowskiego</tytul>
+    <xsklad>wokalno-instrumentalny</xsklad>
+    
+    <rok>1999</rok>
+    <sklad>S, 2 fl, ob, fg, 3 acc, timpani, cb</sklad>
+  </kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Garr.W'><!-- *** Garr:Wiesława Alicja# -->
+
+<kompozycja typ="i.orkiestro">
+ <tytul>Komninek zgasł, opera bardzo komiczna</tytul>
+    <xsklad>3 akordeony w orkiestrze</xsklad>
+ 
+ <rok>1975</rok>
+ <sklad>3 acc</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Gordiejuk.M'><!-- *** Gordiejuk:Marian# -->
+
+<kompozycja typ="solo">
+ <tytul>Tren</tytul>
+    <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1991</rok>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Dialogi</tytul>
+ <xsklad>wiolonczela i akordeon</xsklad>
+ 
+ <rok>1997</rok>
+ <sklad>acc, vc</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Con vigore e con dolore</tytul>
+ <xsklad>wiolonczela i akordeon</xsklad>
+ 
+ <rok>1999</rok>
+ <sklad>acc, vc</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Dialogi II</tytul>
+ <xsklad>wiolonczela i akordeon</xsklad>
+ 
+ <rok>2000</rok>
+ <sklad>acc, vc</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Grudzień.J'><!-- *** Grudzień:Jacek# -->
+
+<kompozycja typ="m.kameralna">
+ <tytul>Kamienne echa</tytul>
+ <xsklad>2 akordeony</xsklad>
+ 
+ <rok>1983</rok>
+ <sklad>2 acc</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Grudziński.C'><!-- *** Grudziński:Czesław# -->
+
+<kompozycja typ="solo">
+ <tytul>Sonatina</tytul>
+    <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1955</rok>
+ <wydawca>PWM</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Preludium, w: L. Puchnowski, Szkoła miechowania i artykulacji</tytul>
+ <krotki.tytul>Preludium</krotki.tytul>
+<xsklad>akordeon solo</xsklad>
+ 
+ <rok>1960</rok>
+ <wydawca>PWM</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Fantazja</tytul>
+<xsklad>akordeon solo</xsklad>
+ 
+ <rok>1969</rok>
+ <wydawca>AA, MUZ</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>10 preludiów</tytul>
+<xsklad>akordeon solo</xsklad>
+ 
+ <rok>1974</rok>
+ <wydawca>manus</wydawca>
+</kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Gryka.A'><!-- *** Gryka:Aleksandra# -->
+
+<kompozycja typ="m.kameralna">
+ <tytul>Lien-al.</tytul>
+ <xsklad>wiolonczela, klawesyn i akordeon</xsklad>
+ 
+ <rok>2000</rok>
+ <sklad>acc, vc, cmb</sklad>
+ <wydawca>manus</wydawca>
+ </kompozycja>
+<kompozycja typ="m.kameralna">
+  <tytul>(1”) exists as...(1”)</tytul>
+  <xsklad>wiolonczela, akordeon, fortepian i perkusja</xsklad>
+  
+  <rok>2001</rok>
+  <sklad>acc, pf, batt (3 esec.), vc</sklad>
+  <!-- <sklad>acc, fl, batt (3 esec), vc, pf</sklad> -->
+  <wydawca/>
+  <zrodlo data="2004/07/09">program festiwalu „Warszawska Jesień”</zrodlo>
+</kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Grzeszczak.K'><!-- *** Grzeszczak:Krzysztof# -->
+
+<kompozycja typ="m.kameralna">
+    <tytul>Maybe Waltz</tytul>
+    <xsklad>harfa i akordeon</xsklad>
+    
+    <rok>2007</rok>
+    <sklad>acc, ar</sklad>
+  </kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Gumiela.M'><!-- *** Gumiela:Marcin# -->
+
+<kompozycja typ="m.kameralna">
+    <tytul>Trio</tytul>
+    <xsklad>klarnet, skrzypce i akordeon</xsklad>
+    
+    <rok>2003</rok>
+    <sklad>acc, cl, vn</sklad>
+  </kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Gąsior.J'><!-- *** Gąsior:Jacek# -->
+
+<kompozycja typ="solo">
+    <tytul>Drobne utwory (Wesoła pchełka, Parada krasnali)</tytul>
+    
+    <rok/>
+    <wydawca>Astra</wydawca>
+  </kompozycja>
+<kompozycja typ="solo">
+    <tytul>Suita polacca</tytul>
+    
+    <rok/>
+    <wydawca>Astra</wydawca>
+  </kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Gładysiak.M'><!-- *** Gładysiak:Marcelina# -->
+
+<kompozycja typ="m.kameralna">
+    <tytul>Po drugiej stronie lustra</tytul>
+    
+    <rok>2010</rok>
+    <zrodlo>prawykonanie Marcin Baran -- wiolonczela, Paweł Nowak -- akordeon</zrodlo>
+  </kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Głowicka.K'><!-- *** Głowicka:Katarzyna# -->
+
+<kompozycja typ="m.kameralna">
+    <tytul>Cape Adare</tytul>
+    <xsklad>saksofon i akordeon</xsklad>
+    
+    <rok>2002</rok>
+    <sklad>acc, sxf</sklad>
+  </kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Haubenstock-Ramati.R'><!-- *** Haubenstock-Ramati:Roman# -->
+
+<kompozycja typ="m.kameralna">
+    <tytul>For Boguslaw Schaeffer</tytul>
+    <xsklad>większy skład</xsklad>
+    
+    <rok>1989</rok>
+    <sklad>fl, acc, batt, keyboard, computer</sklad>
+  </kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Hawel.J'><!-- *** Hawel:Jan Wincenty# -->
+
+<kompozycja typ="m.kameralna">
+ <tytul>Concertino per cinque esecutori</tytul>
+ <xsklad>5 akordeonów</xsklad>
+ 
+ <rok>1983</rok>
+ <sklad>4 acc, acc basso</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Hosza.A'><!-- *** Hosza:Andrzej# -->
+
+<kompozycja typ="solo">
+ <tytul>Muzyka na akordeon</tytul>
+<xsklad>akordeon solo</xsklad>
+ 
+ <rok>1983</rok>
+ <wydawca>manus</wydawca>
+</kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Hundziak.A'><!-- *** Hundziak:Andrzej# -->
+
+<kompozycja typ="solo">
+ <tytul>Chorał, w: L. Puchnowski, Szkoła miechowania i artykulacji</tytul>
+ <krotki.tytul>Chorał</krotki.tytul>
+<xsklad>akordeon solo</xsklad>
+ 
+ <rok>1960</rok>
+ <wydawca>PWM</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Mała fuga, w: L. Puchnowski, Szkoła miechowania i artykulacji</tytul>
+ <krotki.tytul>Mała fuga</krotki.tytul>
+<xsklad>akordeon solo</xsklad>
+ 
+ <rok>1960</rok>
+ <wydawca>PWM</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Suita sędziejowicka, w: L. Puchnowski, Szkoła miechowania i artykulacji </tytul>
+ <krotki.tytul>Suita!sędziejowicka</krotki.tytul>
+<xsklad>akordeon solo</xsklad>
+ 
+ <rok>1960</rok>
+ <wydawca>PWM</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Solo koncertowe (Solo da concerto)</tytul>
+<xsklad>akordeon solo</xsklad>
+ 
+ <rok>1965</rok>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Śpiewy i rytmy (6 miniatur: Chorał, Melodia, Rytmy, Studium w basie, 
+Żart, Fantazja)</tytul>
+ <krotki.tytul>Śpiewy i rytmy</krotki.tytul>
+<xsklad>akordeon solo</xsklad>
+ 
+ <rok>1965</rok>
+ <wydawca>PWM</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Fantazja</tytul>
+ <xsklad>sopran solo, 5 akordeonów</xsklad>
+ 
+ <rok>1969</rok>
+ <sklad>S solo, 4 acc, acc basso</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Mała suita</tytul>
+<xsklad>akordeon solo</xsklad>
+ 
+ <rok>1974</rok>
+ <wydawca>LIM</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+    <tytul>Preludio e scherzo</tytul>
+    
+    <rok>1993</rok>
+  </kompozycja>
+<kompozycja typ="solo">
+    <tytul>Suita techniczna</tytul>
+    
+    <rok>1990</rok>
+  </kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Indyk.Z'><!-- *** Indyk:Zbigniew# -->
+
+<kompozycja typ="solo">
+ <tytul>Jeden raz</tytul>
+<xsklad>akordeon solo</xsklad>
+ 
+ <rok>1983</rok>
+ <wydawca>manus</wydawca>
+</kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Jabłoński.M'><!-- *** Jabłoński:Maciej# -->
+
+<kompozycja typ="m.kameralna">
+    <tytul>Mygoor</tytul>
+    <xsklad>fortepian i akordeon</xsklad>
+    
+    <rok>2004</rok>
+    <sklad>acc, pfte</sklad>
+  </kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Janczak.K'><!-- *** Janczak:Krzysztof Aleksander# -->
+
+<kompozycja typ="m.kameralna">
+    <tytul>TGV</tytul>
+    <xsklad>klarnet, skrzypce, wiolonczela, akordeon i fortepian</xsklad>
+    
+    <rok>2006</rok>
+    <sklad>acc, cl, vn, vc, pfte</sklad>
+  </kompozycja>
+<kompozycja typ="koncerty">
+  <tytul>Travels to Several Remote Nations of the World -- Part 1: Voyage to Liliput na akordeon chromatyczny i orkiestrę</tytul>
+  <krotki.tytul>Travels to Several Remote Nations of the World -- Part 1: Voyage to Liliput</krotki.tytul>
+  <xsklad>akordeon solo, orkiestra</xsklad>
+  
+  <rok>2007</rok>
+  <sklad/>
+  <wydawca/>
+</kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Janiak.R'><!-- *** Janiak:Rafał# -->
+
+<kompozycja typ="m.kameralna">
+    <tytul>Sourrounded Music na akordeon, wiolonczelę i live electronics</tytul>
+    <krotki.tytul>Sourrounded Music</krotki.tytul>
+    <xsklad>wiolonczela i akordeon</xsklad>
+    <xsklad>utwory z udziałem live electronic</xsklad>
+    <rok>2009</rok>
+    <sklad>vc, acc</sklad>
+</kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Kaczorowski.S'><!-- *** Kaczorowski:Sławomir# -->
+
+<kompozycja typ="m.kameralna">
+ <tytul>Unity-form</tytul>
+ <xsklad>3 akordeony</xsklad>
+ 
+ <rok>1982</rok>
+ <sklad>3 acc</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Impressio</tytul>
+ <xsklad>sopran solo, 3 akordeony</xsklad>
+ 
+ <rok>1984</rok>
+ <sklad>3 acc, S solo</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="koncerty">
+ <tytul>Koncert na akordeon i orkiestrę kameralną</tytul>
+ <krotki.tytul>Koncert!na akordeon i orkiestrę kameralną</krotki.tytul>
+    <xsklad>2fl, 2ob, 2cl-batt(2 esec)-acc solo, archi(10, 3, 3, 1)</xsklad>
+ 
+ <rok>1987</rok>
+ <sklad>2fl, 2ob, 2cl-batt(2 esec)-acc solo, archi(10, 3, 3, 1)</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Pezzo alla tango</tytul>
+ <xsklad>gitara i akordeon</xsklad>
+ 
+ <rok>1993</rok>
+ <sklad>acc, chitt</sklad>
+ <wydawca>AA</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Impresja</tytul>
+    <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1994</rok>
+ <wydawca>Astra</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Pezzo alla tango</tytul>
+ <xsklad>flet (skrzypce), gitara i akordeon</xsklad>
+ 
+ <rok>1995</rok>
+ <sklad>acc, fl ossia vn, chitt</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Scherzino</tytul>
+ <xsklad>klarnet i akordeon</xsklad>
+ 
+ <rok>1997</rok>
+ <sklad>acc, cl</sklad>
+ <wydawca>Astra</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Impromtu</tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1998</rok>
+ <wydawca>Astra</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+    <tytul>Chain</tytul>
+    <xsklad>skrzypce i akordeon</xsklad>
+    
+    <rok>2006</rok>
+    <sklad>acc, vn</sklad>
+  </kompozycja>
+<kompozycja typ="m.kameralna">
+    <tytul>Ragtime (wersja III)</tytul>
+    <xsklad>skrzypce, gitara i akordeon</xsklad>
+    
+    <rok>2000</rok>
+    <sklad>acc, vn, chitt</sklad>
+  </kompozycja>
+<kompozycja typ="solo">
+  <tytul>Kolorowe sny</tytul>
+  <xsklad/>
+  
+  <rok>2003</rok>
+  <sklad>acc solo</sklad>
+  <wydawca>Astra</wydawca>
+  <zrodlo data="2004/07/09"/>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+  <tytul>Pezzo alla tango (wersja III)</tytul>
+  <krotki.tytul>Pezzo alla tango</krotki.tytul>
+  <xsklad>skrzypce, gitara i akordeon</xsklad>
+  
+  <rok>1995</rok>
+  <sklad>acc, v-no (fl), chit</sklad>
+</kompozycja>
+<kompozycja typ="koncerty">
+    <tytul>Concerto giocoso na akordeon, fagot i orkiestrę kameralną</tytul>
+    <krotki.tytul>Concerto giocoso</krotki.tytul>
+    <rok>2011</rok>
+    <sklad>acc solo, fg solo, archi, batt (1 esec.)</sklad>
+  </kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Kalemba.Z'><!-- *** Kalemba:Zbigniew# -->
+
+<kompozycja typ="solo">
+ <tytul>Pięć etiud jazzujących</tytul>
+ 
+ <rok/>
+ <wydawca>WSP</wydawca>
+ </kompozycja>
+<kompozycja typ="solo">
+ <tytul>Wesoła suita</tytul>
+ 
+ <rok/>
+ <wydawca>WSP</wydawca>
+ </kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Karcz.J'><!-- *** Karcz:Juliusz# -->
+
+<kompozycja typ="m.kameralna">
+    <tytul>Chorał</tytul>
+    <xsklad>2 akordeony</xsklad>
+    
+    <rok>2006</rok>
+    <sklad>2 acc</sklad>
+  </kompozycja>
+<kompozycja typ="m.kameralna">
+  <tytul>Toccata</tytul>
+  <xsklad>2 akordeony</xsklad>
+  
+  <rok>2005</rok>
+  <sklad>2 acc</sklad>
+  <nagranie>CD</nagranie>
+  <zrodlo>Utwór skomponowany dla Świętokrzyskiego Duetu Akordeonowego
+  (Elwira Śliwkiewicz-Cisak, Jerzy Mądrawski; prawykonanie 2. 4. 2005 w Kielcach</zrodlo>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+    <tytul>Rapsod</tytul>
+    <xsklad>wiolonczela i akordeon</xsklad>
+    
+    <rok/>
+    <sklad>vc, acc</sklad>
+  </kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Kaszuba.B'><!-- *** Kaszuba:Barbara# -->
+
+<kompozycja typ="m.kameralna">
+ <tytul>Katarynka</tytul>
+ <xsklad>skrzypce i akordeon</xsklad>
+ 
+ <rok>1995</rok>
+ <sklad>acc, vn</sklad>
+ <wydawca>Fonola, Astra</wydawca>
+</kompozycja>
+<kompozycja typ="ad.libitum">
+ <tytul>Piccola suite da camera (na 3 instrumenty melodyczne, instrument harmoniczny i instrumenty Orffa)</tytul>
+ <krotki.tytul>Piccola suite da camera</krotki.tytul>
+    <xsklad/>
+ 
+ <rok>1996</rok>
+ <wydawca>ChMP</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Nas-troje</tytul>
+ <xsklad>skrzypce, wiolonczela i akordeon</xsklad>
+ 
+ <rok>1997</rok>
+ <sklad>acc, vn, vc</sklad>
+ <wydawca>Astra</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Skrzyp-ak, humoreska na akrzypce i akordeon</tytul>
+ <xsklad>skrzypce i akordeon</xsklad>
+ 
+ <rok>2000</rok>
+ <sklad>acc, v-no</sklad>
+ <wydawca>Fonola, Astra</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+    <tytul>Katarynka</tytul>
+    
+    <rok>1995</rok>
+   <wydawca>Astra</wydawca>
+  </kompozycja>
+<kompozycja typ="solo">
+    <tytul>Dwa wiatry</tytul>
+    
+    <rok/>
+    <wydawca>Astra</wydawca>
+  </kompozycja>
+<kompozycja typ="solo">
+  <tytul>Tanezzo</tytul>
+  <xsklad/>
+  
+  <rok>2002</rok>
+  <sklad>acc solo</sklad>
+  <wydawca>manus</wydawca>
+  <zrodlo data="2004/07/09">partytura</zrodlo>
+</kompozycja>
+<kompozycja typ="solo">
+  <tytul>Sześć Etiud</tytul>
+  <xsklad/>
+  
+  <rok>2003</rok>
+  <sklad>acc solo</sklad>
+  <wydawca>Astra</wydawca>
+  <zrodlo data="2004/07/09"/>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+    <tytul>Wariacje na temat Mozarta</tytul>
+    <xsklad>obój i akordeon</xsklad>
+    
+    <rok>2004</rok>
+    <sklad>acc, ob</sklad>
+   </kompozycja>
+<kompozycja typ="m.kameralna">
+  <tytul>Leśny strumień</tytul>
+  <xsklad>saksofon/klarnet i akordeon</xsklad>
+  
+  <rok>2005</rok>
+  <sklad>acc, sxf/cl</sklad>
+</kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Kałużny.P'><!-- *** Kałużny:Piotr# -->
+
+<kompozycja typ="m.kameralna">
+    <tytul>To Think of Bach on Fugue alike</tytul>
+    <xsklad>klarnet i akordeon</xsklad>
+    
+    <rok/>
+    <sklad>acc, cl</sklad>
+  </kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Kiesewetter.T'><!-- *** Kiesewetter:Tomasz# -->
+
+<kompozycja typ="m.kameralna">
+    <tytul>Uwertura „Baśń o szkolanej górze” na zespół akordeonowy</tytul>
+    <xsklad>orkiestra akordeonowa</xsklad>
+    
+    <rok>1968</rok>
+  </kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Knittel.K'><!-- *** Knittel:Krzysztof# -->
+
+<kompozycja typ="ad.libitum">
+ <tytul>Trzy kasety dla trzech wykonawców</tytul>
+    <xsklad>ad libitum</xsklad>
+ 
+ <rok>1986</rok>
+ <wydawca>manus</wydawca>
+</kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Kobiałka.M'><!-- *** Kobiałka:Mateusz# -->
+
+<kompozycja typ="m.kameralna">
+    <tytul>Skene</tytul>
+    <xsklad>głos, akordeon, marimba i interaktywny system komputerowy</xsklad>
+    
+    <rok>2006</rok>
+    <sklad>acc, vocal, mbf, live el</sklad>
+  </kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Kolasiński.J'><!-- *** Kolasiński:Jerzy# -->
+
+<kompozycja typ="solo">
+ <tytul>Adagio, w: L. Puchnowski, Szkoła miechowania i artykulacji</tytul>
+ <krotki.tytul>Adagio</krotki.tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1960</rok>
+ <wydawca>PWM</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Fughetta, w: L. Puchnowski, Szkoła miechowania i artykulacji</tytul>
+ <krotki.tytul>Fughetta</krotki.tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1960</rok>
+ <wydawca>PWM</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Mikroby, w: L. Puchnowski, Szkoła miechowania i artykulacji</tytul>
+ <krotki.tytul>Mikroby</krotki.tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1960</rok>
+ <wydawca>PWM</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Nad stawem, w: L. Puchnowski, Szkoła miechowania i artykulacji</tytul>
+ <krotki.tytul>Nad stawem</krotki.tytul>
+    <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1960</rok>
+ <wydawca>PWM</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Piosenka rekruta, w: L. Puchnowski, Szkoła miechowania i artykulacji</tytul>
+ <krotki.tytul>Piosenka rekruta</krotki.tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1960</rok>
+ <wydawca>PWM</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Preludium, w: L. Puchnowski, Szkoła miechowania i artykulacji</tytul>
+ <krotki.tytul>Preludium</krotki.tytul>
+    <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1960</rok>
+ <wydawca>PWM</wydawca>
+</kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Konarski.A'><!-- *** Konarski:Adrian# -->
+
+<kompozycja typ="m.kameralna">
+    <tytul>T-Rex</tytul>
+    <xsklad>kontrabas, akordeon i kwartet smyczkowy</xsklad>
+    
+    <rok>2003</rok>
+    <sklad>acc, cb, quartetto d’archi</sklad>
+  </kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Konowalski.B'><!-- *** Konowalski:Benedykt# -->
+
+<kompozycja typ="koncerty">
+    <tytul>Koncert podwójny na fortepian, akordeon i orkiestrę</tytul>
+    
+    <rok>2001</rok>
+    <sklad>pfte, acc, archi</sklad>
+  </kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Koprowski.P'><!-- *** Koprowski:Piotr Paweł (Peter Paul)# -->
+
+<kompozycja typ="koncerty">
+  <tytul>Koncert na akordeon i orkiestrę</tytul>
+  <krotki.tytul>Koncert</krotki.tytul>
+  <xsklad>akordeon solo, orkiestra</xsklad>
+  
+  <rok>1993</rok>
+  <sklad/>
+  <wydawca/>
+</kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Kostrzewa.L'><!-- *** Kostrzewa:Liliana# -->
+
+<kompozycja typ="m.kameralna">
+    <tytul>Improvivos</tytul>
+    <xsklad>klarnet basowy i akordeon</xsklad>
+    
+    <rok>2005</rok>
+    <sklad>acc, cl</sklad>
+   </kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Kosz.S'><!-- *** Kosz:Stanisław# -->
+
+<kompozycja typ="solo">
+ <tytul>Fantazja i toccata</tytul>
+<xsklad>akordeon solo</xsklad>
+ 
+ <rok>1976</rok>
+ <wydawca>manus</wydawca>
+</kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Kotuk.T'><!-- *** Kotuk:Tadeusz# -->
+
+<kompozycja typ="solo">
+ <tytul>Transludium</tytul>
+<xsklad>akordeon solo</xsklad>
+ 
+ <rok>1993</rok>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+  <!-- @tp@?  -->
+ <tytul>Utwór na klawesyn i akordeon</tytul>
+ <xsklad>klawesyn i akordeon</xsklad>
+ 
+ <rok>1993</rok>
+ <sklad>acc, cmb</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+
+<kompozycja typ="m.kameralna">
+ <tytul>Muzyka z podziemia</tytul>
+ <xsklad>skrzypce, wiolonczela i akordeon</xsklad>
+ 
+ <rok>1995</rok>
+ <sklad>acc, vn, vc</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Kowalska.J'><!-- *** Kowalska:Justyna# -->
+
+<kompozycja typ="solo">
+    <tytul>Psyche</tytul>
+    
+    <rok>2006</rok>
+  </kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Kowalski.B'><!-- *** Kowalski:Bartosz# -->
+
+<kompozycja typ="m.kameralna">
+    <tytul>Piąty błękit na akordeon i wiolonczelę</tytul>
+    <krotki.tytul>Piąty błękkit</krotki.tytul>
+    <xsklad>wiolonczela i akordeon</xsklad>
+    <rok>2010</rok>
+    <sklad>vc, acc</sklad>
+    
+    <zrodlo>prawykonanie na Musica polonica Nova,  12.05.2010, TWOgether Duo</zrodlo>
+   </kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Kozub.Z'><!-- *** Kozub:Zbigniew# -->
+
+<kompozycja typ="m.kameralna">
+    <tytul>Pięć etiud</tytul>
+    <xsklad>klarnet i akordeon</xsklad>
+    
+    <rok>2005</rok>
+    <sklad>acc, cl</sklad>
+   </kompozycja>
+<kompozycja typ="m.kameralna">
+    <tytul>Spaces of Silence</tytul>
+    <xsklad>fortepian, akordeon i organy</xsklad>
+    
+    <rok>2005</rok>
+    <sklad>acc, pfte, org</sklad>
+  </kompozycja>
+<kompozycja typ="m.kameralna">
+    <tytul>Spaces of Silence</tytul>
+    <xsklad>fortepian, organy, klarnet, akordeon, harfa i perkusja</xsklad>
+    
+    <rok>2002</rok>
+    <sklad>pfte, org, cl, acc, ar, batt</sklad>
+  </kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Kościów.A'><!-- *** Kościów:Alekdsander# -->
+
+<kompozycja typ="m.kameralna">
+ <tytul>His...est Caritas</tytul>
+ <xsklad>Utwory wokalno-instrumentalne</xsklad>
+ 
+ <rok>2000</rok>
+ <sklad>acc, S, ob, batt, quartetto d’archi</sklad>
+ <wydawca>Stokłosa Edition</wydawca>
+ </kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Kościów.A'><!-- *** Kościów:Aleksander# -->
+
+<kompozycja typ="m.kameralna">
+ <tytul>Joe Alter Dance Group</tytul>
+ <xsklad>głos, obój, akordeon, perkusja, kwartet smyczkowy</xsklad> 
+ 
+ <rok>2000</rok>
+ <sklad>acc, ob, vocal, batt, quartetto d’archi</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+  <tytul>Ilargia</tytul>
+  <xsklad/>
+  
+  <rok>2002</rok>
+  <sklad>acc solo</sklad>
+  <wydawca/>
+  <zrodlo data="2004/07/09">partytura od Klaudiusza Barana</zrodlo>
+</kompozycja>
+<kompozycja typ="i.orkiestro">
+  <tytul>Cludioculos</tytul>
+  
+  <rok>2003</rok>
+  <sklad>acc, 3 fl, tr, batt, pfte, archi</sklad>
+  <wydawca>manus</wydawca>
+  <zrodlo data="2005/01/12">prawykonanie 8.11.2003 w Sejnach, partia akordeonu – Klaudiusz Baran, 
+  orkiestra kameralna „Wratislawia”
+  pod dyr. Jana Staniendy</zrodlo>
+</kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Koźlik.Z'><!-- *** Koźlik:Zbigniew# -->
+
+<kompozycja typ="solo">
+ <tytul>Variants 1–6</tytul>
+<xsklad>akordeon solo</xsklad>
+ 
+ <rok>1982</rok>
+ <wydawca>EPNS</wydawca>
+ <nagranie>LP</nagranie>
+</kompozycja>
+<kompozycja typ="solo">
+    <tytul>Pastorałki i kolędy</tytul>
+    <xsklad>akordeon solo</xsklad>
+    
+    <rok>1989</rok>
+    <wydawca>manus</wydawca>
+  </kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Krajewski.S'><!-- *** Krajewski:Sebastian# -->
+
+<kompozycja typ="m.kameralna">
+    <tytul>Preludium w skali Śri</tytul>
+    <xsklad>wiolonczela, akordeon i instrumenty indyjskie</xsklad>
+    
+    <rok>1996</rok>
+    <sklad>acc, vc, instrumenty indyjskie</sklad>
+    <wydawca>manus</wydawca>
+  </kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Krauze.Z'><!-- *** Krauze:Zygmunt# -->
+
+<kompozycja typ="i.orkiestro">
+    <tytul>Folk Music</tytul>
+    <xsklad>2 akordeony w orkiestrze</xsklad>
+    
+    <rok>1972</rok>
+    <sklad>2 acc</sklad>
+    <wydawca>PWM, UE</wydawca>
+    <nagranie>LP</nagranie>
+  </kompozycja>
+<kompozycja typ="i.orkiestro">
+    <tytul>Fête galante et pastorale</tytul>
+    <krotki.tytul>Fete galante et pastorale@Fête galante et pastorale</krotki.tytul>
+    <xsklad>2 akordeony w orkiestrze</xsklad>
+    
+    <rok>1975</rok>
+    <sklad>2 acc</sklad>
+    <wydawca>manus</wydawca>
+  </kompozycja>
+<kompozycja typ="i.orkiestro">
+ <tytul>Koncert na fortepian i orkiestrę</tytul>
+    <xsklad>2 akordeony w orkiestrze</xsklad>
+ 
+ <rok>1976</rok>
+ <sklad>2 acc</sklad>
+ <wydawca>PWM, UE</wydawca>
+ <nagranie>LP</nagranie>
+</kompozycja>
+<kompozycja typ="i.orkiestro">
+ <tytul>Suite de danses et de chansons na klawesyn i orkiestrę</tytul>
+    <xsklad>2 akordeony w orkiestrze</xsklad>
+ 
+ <rok>1977</rok>
+ <sklad>2 acc</sklad>
+ <wydawca>UE</wydawca>
+ <nagranie>LP</nagranie>
+</kompozycja>
+<kompozycja typ="i.orkiestro">
+ <tytul>Gwiazda, opera kameralna</tytul>
+    <xsklad>1 akordeon w orkiestrze</xsklad>
+ 
+ <rok>1980</rok>
+ <sklad>1 acc</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="i.orkiestro">
+ <tytul>Arabesque na fortepian i orkiestrę</tytul>
+    <xsklad>1 akordeon w orkiestrze</xsklad>
+ 
+ <rok>1983</rok>
+ <sklad>1 acc</sklad>
+ <wydawca>manus</wydawca>
+ <nagranie>LP</nagranie>
+</kompozycja>
+<kompozycja typ="i.orkiestro">
+ <tytul>Fête galante et pastorale (II wersja)</tytul>
+ <krotki.tytul>Fete galante et pastorale (II wersja)@Fête galante et pastorale (II wersja)</krotki.tytul>
+    <xsklad>2 akordeony w orkiestrze</xsklad>
+ 
+ <rok>1984</rok>
+ <sklad>2 acc</sklad>
+ <wydawca>manus</wydawca>
+ <nagranie>LP</nagranie>
+</kompozycja>
+<kompozycja typ="i.orkiestro">
+ <tytul>Blanc et Rouge na 4 orkiestry dęte, 2 orkiestry mandolinowe, 2 orkiestry akordeonowe i 6 perkusistów</tytul>
+    <xsklad>orkiestra akordeonowa</xsklad>
+ 
+ <rok>1985</rok>
+ <sklad>acc orch</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>La riviere souterraine</tytul>
+ <xsklad>klarnet, puzon, akordeon, fortepian, gitara, wiolonczela, taśma</xsklad> 
+ 
+ <rok>1987</rok>
+ <sklad>acc, cl, tn, chit, batt, pf, v-cello, nastri</sklad>
+ <wydawca>manus</wydawca>
+ <nagranie>LP</nagranie>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+    <tytul>Bal w operze</tytul>
+    
+    <rok>2006</rok>
+  </kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Krupowicz.S'><!-- *** Krupowicz:Stanisław# -->
+
+<kompozycja typ="ad.libitum">
+ <tytul>Easter Disloyality of CD, happening na dowolny zbiór instrumentów</tytul>
+    <xsklad>ad libitum</xsklad>
+ 
+ <rok>1982</rok>
+ <wydawca>manus</wydawca>
+</kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Krzanowska.G'><!-- *** Krzanowska:Grażyna# -->
+
+<kompozycja typ="solo">
+  <tytul>Zabawy dziecięce (Deszczowy poranek, Taniec Gapy, Wycinanki, Domino, Pierwszy tornister, Gonitwa dookoła stołu, Niesforne wrotki, Bajka, Fantazje dziecięce)</tytul>
+  <krotki.tytul>Zabawy dziecięce</krotki.tytul>
+  <xsklad>akordeon solo</xsklad>
+  <rok>1979</rok>
+  <wydawca>PWM</wydawca>
+</kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Krzanowski.A'><!-- *** Krzanowski:Andrzej# -->
+
+<kompozycja typ="solo">
+ <tytul>Preludium</tytul>
+    <xsklad>akordeon solo</xsklad>
+      
+ <rok>1970</rok>
+ <wydawca>PWM</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Taniec</tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1970</rok>
+ <wydawca>PWM</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+  <tytul>Sonata</tytul>
+  <xsklad>akordeon solo</xsklad>
+  
+  <rok>1972</rok>
+  <wydawca>PWM</wydawca>
+  <nagranie>LP</nagranie>
+</kompozycja>
+<kompozycja typ="solo">
+  <tytul>Kanon</tytul>
+  <xsklad>akordeon solo</xsklad>
+  
+  <rok>1973</rok>
+  <wydawca>PWM</wydawca>
+</kompozycja>
+<kompozycja typ="koncerty">
+  <tytul>Studium I na akordeon i orkiestrę</tytul>
+  
+  <rok>1973</rok>
+  <sklad>acc solo, orch</sklad>
+  <wydawca>PWM</wydawca>
+</kompozycja>
+
+<kompozycja typ="m.kameralna">
+ <tytul>Audycja III</tytul>
+ <xsklad>recytator, sopran solo, trąbka, saksofon barytonowy, 2 akordeony, gitara elektryczna, taśma</xsklad> 
+ 
+ <rok>1974</rok>
+ <sklad>2 acc, sxf, tr, chitt(el), batt-6 esec, recit, S, nastro</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+
+<kompozycja typ="solo">
+ <tytul>Studium II</tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1974</rok>
+ <wydawca>PWM</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Audycja IV</tytul>
+ <xsklad>głos recytujący, syreny, talerze, akordeon i taśmy</xsklad>
+ 
+ <rok>1975</rok>
+ <sklad>acc, 4 p-tti, sirene, recit, 2 nastri</sklad>
+ <wydawca>PWM</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Fuga-fantazja nr 1</tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1975</rok>
+ <wydawca>PWM</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Fuga-fantazja nr 2</tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1975</rok>
+ <wydawca>PWM</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Nokturn, preludium i fuga</tytul>
+ <xsklad>5 akordeonów</xsklad>
+ 
+ <rok>1975</rok>
+ <sklad>4acc, acc basso</sklad>
+ <wydawca>PWM</wydawca>
+</kompozycja>
+
+<kompozycja typ="solo">
+ <tytul>Studium III</tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1975</rok>
+ <wydawca>PWM</wydawca>
+</kompozycja>
+<kompozycja typ="koncerty">
+ <tytul>I symfonia na orkiestrę</tytul>
+    <xsklad>5 akordeonów w orkiestrze</xsklad>
+ 
+ <rok>1975</rok>
+ <sklad>4acc, acc basso, orch</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Tryptyk</tytul>
+ <xsklad>5 akordeonów</xsklad>
+ 
+ <rok>1975</rok>
+ <sklad>4acc, acc basso</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Studium V</tytul>
+ <xsklad>5 akordeonów</xsklad>
+ 
+ <rok>1976</rok>
+ <sklad>4 acc, acc basso</sklad>
+ <wydawca>PWM</wydawca>
+ <nagranie>CD</nagranie>
+</kompozycja>
+<kompozycja typ="i.orkiestro">
+ <tytul>Audycja V, opera w 20 scenach</tytul>
+    <xsklad>światła, film, taśmy, 2 aktorzy, 2 tancerze, balet, sopran solo, 2 flety, saksofon barytonowy, 3 rogi, 2 trąbki, 2 puzony, akordeon, fortepian, perkusja, chór</xsklad>
+ 
+ <rok>1977</rok>
+ <sklad>1 acc</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="i.orkiestro">
+ <tytul>Suita z Audycji V na sopran, chór i zespół instrumentalny</tytul>
+ <krotki.tytul>Suita!z Audycji V na sopran, chór i zespół instrumentalny</krotki.tytul>
+ 
+ <rok>1978</rok>
+ <sklad>2 acc</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Transpainting, spektakl audiowizualny</tytul>
+ <xsklad>inscenizacja, rzutniki, flet, saksofon, trąbka, gitara elektryczna, akordeon, perkusja</xsklad>
+ 
+ <rok>1977</rok>
+ <sklad>3 acc, fl, sxf, tr, chit, batt-4 esec, live el</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>koncert na zepół 9 wykonawców i taśmy, wersja koncertowa Transpainting</tytul>
+ <xsklad>flet, saksofon, trąbka, gitara elektryczna, akordeon, perkusja, taśmy</xsklad>
+ 
+ <rok>1978</rok>
+ <sklad>acc, fl, sxf, tr, chitt(el), batt-4 esec, 2 nastri</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Studium IV</tytul>
+ <xsklad>2 akordeony</xsklad>
+ 
+ <rok>1978</rok>
+ <sklad>2 acc</sklad>
+ <wydawca>PWM</wydawca>
+ <nagranie>LP</nagranie>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Chorał</tytul>
+    <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1979</rok>
+ <wydawca>PWM</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Cztery bagatele</tytul>
+<xsklad>akordeon solo</xsklad>
+ 
+ <rok>1979</rok>
+ <wydawca>PWM</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Katedra</tytul>
+<xsklad>akordeon solo</xsklad>
+ 
+ <rok>1979</rok>
+ <wydawca>PWM</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Nokturn i scherzo</tytul>
+<xsklad>akordeon solo</xsklad>
+ 
+ <rok>1979</rok>
+ <wydawca>PWM</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Oda</tytul>
+    <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1979</rok>
+ <wydawca>PWM</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Sonatina nr 1</tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1979</rok>
+ <wydawca>PWM</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Tryptyk</tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1979</rok>
+ <wydawca>PWM</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Trzy medytacje</tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1979</rok>
+ <wydawca>PWM</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Alkagran czyli jedno miejsce na prawym brzegu Wisły</tytul>
+ <xsklad>5 akordeonów</xsklad>
+ 
+ <rok>1980</rok>
+ <sklad>4acc, acc basso</sklad>
+ <wydawca>PWM</wydawca>
+ <nagranie>LP</nagranie>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Chorał wersja B</tytul>
+ <xsklad>5 akordeonów</xsklad>
+ 
+ <rok>1980</rok>
+ <sklad>4 acc, acc basso</sklad>
+ <wydawca>PWM</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Sonata di concerto</tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1980</rok>
+ <wydawca>PWM</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Taniec góralski</tytul>
+ <xsklad>2 akordeony</xsklad>
+ 
+ <rok>1980</rok>
+ <sklad>2 acc</sklad>
+ <wydawca>PWM</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Toccata</tytul>
+ <xsklad>3 akordeony</xsklad>
+ 
+ <rok>1980</rok>
+ <sklad>3 acc</sklad>
+ <wydawca>PWM</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Trzy utwory</tytul>
+ <xsklad>5 akordeonów</xsklad>
+ 
+ <rok>1980</rok>
+ <sklad>4 acc, acc basso</sklad>
+ <wydawca>PWM</wydawca>
+</kompozycja>
+<kompozycja typ="i.orkiestro">
+ <tytul>11 utworów na orkiestrę dziecięcą (Melodia, Nasz dzień, Synkopy, Ćwiczenie I, Ćwiczenie II, Audycja II, Marsz, Walczyk, Śpiewy, Fuga, Bagatela</tytul>
+ <krotki.tytul>11 utworów na orkiestrę dziecięcą</krotki.tytul>
+     
+ <rok>1981</rok>
+ <sklad>1 acc</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Wiatr echo niesie po polanie</tytul>
+ <xsklad>klawesyn i akordeon</xsklad>
+ 
+ <rok>1981</rok>
+ <sklad>acc, cmb</sklad>
+ <wydawca>AA</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Wiatr echo niesie po polanie – wersja B</tytul>
+ <xsklad>2 akordeony</xsklad>
+ 
+ <rok>1981</rok>
+ <sklad>2 acc</sklad>
+ <wydawca>PWM</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Impresje zimowe</tytul>
+    <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1982</rok>
+ <wydawca>PWM</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Kalangra (20 utworów dla dzieci:Małe preludium, Walczyk, Ikar, Sygnał, Skaczące tercje, Andantino, Bagatela, Echo, Scherzo, Ostinato, Etiuda, Preludium, Inwencja, Kanon (b-a-c-h), Chorał, Marsz, Szkic, Kołysanka, Zabawa, Zaśpiew)</tytul>
+ <krotki.tytul>Kalangra</krotki.tytul>
+    <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1981</rok>
+ <wydawca>AA</wydawca>
+ <nagranie>KM</nagranie>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Adagio</tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1983</rok>
+ <wydawca>PWM</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Capriccio</tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1983</rok>
+ <wydawca>PWM</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Impresje wiosenne</tytul>
+ 
+ <rok>1983</rok>
+ <wydawca>PWM</wydawca>
+ <nagranie>KM</nagranie>
+</kompozycja>
+
+<kompozycja typ="m.kameralna">
+ <tytul>Reminiscenza</tytul>
+ <xsklad>klarnet, skrzypce, wiolonczela, akordeon</xsklad>
+ 
+ <rok>1983</rok>
+ <sklad>acc, cl, v-no, v-cello</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Trifle</tytul>
+ <xsklad>klarnet basowy i akordeon</xsklad>
+ 
+ <rok>1983</rok>
+ <sklad>acc, cl basso</sklad>
+ <wydawca>AA</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Impresje lata</tytul>
+ <xsklad>flet, klarnet i akordeon</xsklad>
+ 
+ <rok>1984</rok>
+ <sklad>acc, fl, cl</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Larghetto</tytul>
+ 
+ <rok>1984</rok>
+ <wydawca>PWM</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Niech żyje i wzrasta</tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1984</rok>
+ <wydawca>PWM</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Relief I</tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1984</rok>
+ <wydawca>PWM</wydawca>
+ <nagranie>KM</nagranie>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Fantazja w czterech częściach</tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1985</rok>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Relief II</tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1985</rok>
+ <wydawca>PWM</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Trzy etiudy</tytul> 
+<xsklad>akordeon solo</xsklad>
+ 
+ <rok>1985</rok>
+ <wydawca>BER,LIM</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Divertimento</tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1986</rok>
+ <wydawca>manus</wydawca>
+ <nagranie>KM</nagranie>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Impresje jesienne (na akordeon basowy)</tytul>
+ <krotki.tytul>Impresje jesienne</krotki.tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1986</rok>
+ <wydawca>PWM</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Relief VI (na akordeon basowy)</tytul>
+ <krotki.tytul>Relief VI</krotki.tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1986</rok>
+ <wydawca>PWM</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Cztery nowele</tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1987</rok>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Music for 11 Accordions</tytul>
+ <xsklad>11 akordenów</xsklad>
+ 
+ <rok>1987</rok>
+ <sklad>11 acc</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Nokturn</tytul>
+ <xsklad>2 akordeony</xsklad>
+ 
+ <rok>1987</rok>
+ <sklad>2 acc</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Ponad tęczą</tytul>
+ <xsklad>altówka, wibrafon i akordeon</xsklad>
+ 
+ <rok>1987</rok>
+ <sklad>acc, vbf, v-la</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>II Sonata</tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1987</rok>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Sonatina nr 2</tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1987</rok>
+ <wydawca>LIM, PWM</wydawca>
+ <nagranie>KM</nagranie>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Gakkaj (5 utworów dla dzieci: Kanon, Wspomnienie z Grecji, Marzenie, W lasku, Joy-stick)</tytul>
+ <krotki.tytul>Gakkaj</krotki.tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1988</rok>
+ <wydawca>AA</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Pejzaż sentymentalny</tytul>
+ <xsklad>2 akordeony</xsklad>
+ 
+ <rok>1988</rok>
+ <sklad>2 acc</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Relief VII</tytul>
+ <xsklad>perkusja i akordeon</xsklad>
+ 
+ <rok>1988</rok>
+ <sklad>acc, batt</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Trzy małe preludia</tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1988</rok>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Cztery małe preludia</tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1988</rok>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="orkiestra">
+ <tytul>Une petite pluie á Urmatt (Deszczyk w Urmatt)</tytul>
+    <xsklad>orkiestra akordeonowa</xsklad>
+ 
+ <rok>1988</rok>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+    <tytul>Sekstet na instrumenty dęte i akordeon</tytul>
+    <xsklad>2 trąbki, obój, klarnet, fagot, akordeon</xsklad>
+    
+    <rok>1972</rok>
+    <sklad>2 tr, ob, cl, fg, acc</sklad>
+    <wydawca>manus</wydawca>
+  </kompozycja>
+<kompozycja typ="solo">
+  <tytul>Divertimento</tytul>
+  <xsklad/>
+  
+  <rok>1986</rok>
+  <sklad>acc solo</sklad>
+  <wydawca>PWM</wydawca>
+  <zrodlo data="2004/07/09"/>
+</kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Krzanowski.A#Krzanowska.G'><!-- *** Krzanowski:Andrzej#Krzanowska:Grażyna# -->
+
+<kompozycja typ="solo">
+ <tytul>Rapsodia</tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ 
+ <rok>1983</rok>
+ <wydawca>PWM</wydawca>
+ <nagranie>KM</nagranie>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Sonata breve</tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ 
+ <rok>1983</rok>
+ <wydawca>PWM</wydawca>
+ <nagranie>KM</nagranie>
+</kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Krzyżanowski.M'><!-- *** Krzyżanowski:Marcin# -->
+
+<kompozycja typ="m.kameralna">
+ <tytul>Finees II</tytul>
+ <xsklad>flet, wiolonczela, akordeon, taśma</xsklad>
+ 
+ <rok>1988</rok>
+ <sklad>acc, fl, v-cello, live el</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Książek.P'><!-- *** Książek:Przemysław# -->
+
+<kompozycja typ="koncerty">
+ <tytul>Fantasia per fisarmonica e orchestra</tytul>
+ 
+ <rok>1993</rok>
+ <sklad>2fl, 1ob, 2fg-batt-acc solo-archi(6-8, 6-8, 4-6, 4-6, 2-4)</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Sonatina</tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1994</rok>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Burlesca</tytul>
+ <xsklad>flet i akordeon</xsklad>
+ 
+ <rok>1995</rok>
+ <sklad>acc, fl</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Sinfonia barbaria</tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1995</rok>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+    <tytul>Irga</tytul>
+    
+    <rok/>
+  </kompozycja>
+<kompozycja typ="m.kameralna">
+    <tytul>Media Luna</tytul>
+    <xsklad>gitara elektryczna, akordeon, kontrabas/gitara basowa</xsklad>
+    
+    <rok/>
+    <sklad>acc, chitt el, cb/chitt basso</sklad>
+  </kompozycja>
+<kompozycja typ="m.kameralna">
+    <tytul>Concerto Breve nr 1</tytul>
+    <xsklad>akordeon i klawesyn lub fortepian</xsklad>
+    
+    <rok/>
+    <sklad>acc, cmb/pf</sklad>
+  </kompozycja>
+<kompozycja typ="m.kameralna">
+    <tytul>Concerto Breve nr 2</tytul>
+    <xsklad>akordeon i kwartet smyczkowy</xsklad>
+    
+    <rok/>
+    <sklad>acc, quartetto d’archi</sklad>
+  </kompozycja>
+<kompozycja typ="m.kameralna">
+    <tytul>Obsessio</tytul>
+    <xsklad>akordeon i kwartet smyczkowy</xsklad>
+    
+    <rok/>
+    <sklad>acc, quartetto d’archi</sklad>
+  </kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Kulenty.H'><!-- *** Kulenty:Hanna# -->
+
+<kompozycja typ="m.kameralna">
+    <tytul>Preludium, Postludium i Psalm</tytul>
+    <xsklad>wiolonczela i akordeon</xsklad>
+    <rok>2007</rok>
+    <sklad>vc, acc</sklad>
+  </kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Kunicki.M'><!-- *** Kunicki:Marek# -->
+
+<kompozycja typ="m.kameralna">
+    <tytul>1984</tytul>
+    <xsklad>obój i akordeon</xsklad>
+    
+    <rok>2005</rok>
+    <sklad>acc, ob</sklad>
+  </kompozycja>
+<kompozycja typ="m.kameralna">
+    <tytul>Trytonus</tytul>
+    <xsklad>fortepian i akordeon</xsklad>
+    <rok>2004</rok>
+    <sklad>pfte, acc</sklad>
+  </kompozycja>
+
+<kompozycja typ="koncerty">
+    <tytul>Das Erlebnis eines sorbische Maedchen na akordeon i orkiestrę smyczkową</tytul>
+    <krotki.tytul>Das Erlebnis eines sorbische Maedchen</krotki.tytul>
+    <rok>2006</rok>
+    <sklad>acc solo, archi</sklad>
+  </kompozycja>
+<kompozycja typ="solo">
+    <tytul>Nadejście</tytul>
+    
+    <rok>2007</rok>
+  </kompozycja>
+<kompozycja typ="m.kameralna">
+  <tytul>Koncert na głos na mezzosopran, wiolonczelę, akordeon i taśmę</tytul>
+  <krotki.tytul>Koncert na głos</krotki.tytul>
+  <xsklad>utwory wokalno-instrumentalne</xsklad>
+  <xsklad>utwory z taśmą</xsklad>
+  
+  <rok>2007</rok>
+  <sklad>Mz solo, vc, acc, nastro</sklad>
+</kompozycja>
+
+</kompozytor>
+
+
+<kompozytor id='Kupczak.S'><!-- *** Kupczak:Sławomir# -->
+
+<kompozycja typ="m.kameralna">
+    <tytul>Lament -- Anafora VII</tytul>
+    <xsklad>głos, wiolonczela, fortepian, akordeon i elektronikę</xsklad>
+    
+    <rok>2009</rok>
+    <sklad>vocal, vc, pfte, acc, electronics</sklad>
+  </kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Kwiatkowski.J'><!-- *** Kwiatkowski:Julian# -->
+
+<kompozycja typ="solo">
+    <tytul>Marcowy kaprys</tytul>
+    
+    <rok/>
+    <wydawca>Astra</wydawca>
+  </kompozycja>
+<kompozycja typ="solo">
+    <tytul>Misiowe mruczanki</tytul>
+    
+    <rok/>
+  <wydawca>Astra</wydawca>
+  </kompozycja>
+<kompozycja typ="solo">
+   <tytul>Obrazki dziecięce</tytul>
+   
+   <rok/>
+   <wydawca>Astra</wydawca>
+ </kompozycja>
+<kompozycja typ="solo">
+    <tytul>Inspiracje folklorystyczne</tytul>
+    
+    <rok/>
+  <wydawca>Astra</wydawca>
+  </kompozycja>
+<kompozycja typ="solo">
+  <tytul>Małe fantazje</tytul>
+  <xsklad/>
+  
+  <rok>2003</rok>
+  <sklad>acc solo</sklad>
+  <wydawca>Astra</wydawca>
+  <zrodlo data="2004/07/09"/>
+</kompozycja>
+<kompozycja typ="solo">
+  <tytul>Pejzaże</tytul>
+  <xsklad/>
+  
+  <rok>2003</rok>
+  <sklad>acc solo</sklad>
+  <wydawca>Astra</wydawca>
+  <zrodlo data="2004/07/09"/>
+</kompozycja>
+<kompozycja typ="solo">
+  <tytul>Trzy szkice</tytul>
+  <xsklad/>
+  
+  <rok>2003</rok>
+  <sklad>acc solo</sklad>
+  <wydawca>Astra</wydawca>
+  <zrodlo data="2004/07/09"/>
+</kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Langosz.J'><!-- *** Langosz:Jan# -->
+
+<kompozycja typ="m.kameralna">
+    <tytul>Homo Niger</tytul>
+    <xsklad>5 akordeonów</xsklad>
+    
+    <rok/>
+  </kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Lasoń.A'><!-- *** Lasoń:Aleksander# -->
+
+<kompozycja typ="koncerty">
+ <tytul>Concerto „Harmonium”</tytul>
+ 
+ <rok>2000</rok>
+ <wydawca>PWM</wydawca>
+</kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Ledwoń.K'><!-- *** Ledwoń:Katarzyna# -->
+
+<kompozycja typ="solo">
+    <tytul>Obsesja</tytul>
+    
+    <rok>2010</rok>
+  </kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Majkusiak.M'><!-- *** Majkusiak:Mikołaj# -->
+
+<kompozycja typ="m.kameralna">
+ <tytul>Żywioły</tytul>
+ <xsklad>klarnet i akordeon</xsklad>
+ 
+ <rok>2001</rok>
+ <sklad>acc, cl</sklad>
+ <wydawca>manus</wydawca>
+ </kompozycja>
+<kompozycja typ="koncerty">
+ <tytul>Concerto Classico</tytul>
+ 
+ <rok>2001</rok>
+  <wydawca>manus</wydawca>
+ </kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Paura</tytul>
+ <xsklad>kwartet smyczkowy i akordeon</xsklad>
+ 
+ <rok>2001</rok>
+ <sklad>acc, quartetto d’archi</sklad>
+ <wydawca>manus</wydawca>
+ </kompozycja>
+<kompozycja typ="koncerty">
+    <tytul>FisConcerto</tytul>
+    
+    <rok>2007</rok>
+    <sklad>2acc solo, orchestra</sklad>
+    <wydawca>manus</wydawca>
+ </kompozycja>
+<kompozycja typ="m.kameralna">
+    <tytul>Concerto nevrotico</tytul>
+    <xsklad>5 akordeonów</xsklad>
+    
+    <rok>2005</rok>
+    <sklad>5 acc</sklad>
+  </kompozycja>
+<kompozycja typ="m.kameralna">
+    <tytul>Concerto nevrotico</tytul>
+    <xsklad>wokalno-instrumentalny</xsklad>
+    <xsklad>większy skład</xsklad>
+    
+    <rok>2005</rok>
+    <sklad>5 acc, S, quartetto d’archi, batt, chitt(el)</sklad>
+  </kompozycja>
+<kompozycja typ="koncerty">
+    <tytul>Concerto in E</tytul>
+    
+    <rok>2005</rok>
+    <sklad>chitt basso, acc, chitt(el), female voice, batt, samples, keyboards, archi</sklad>
+  </kompozycja>
+
+  <kompozycja typ="m.kameralna">
+    <tytul>Pięć myśli o Fryderyku</tytul>
+    <xsklad>2 akordeony</xsklad>
+    
+    <rok>2008</rok>
+<sklad>2 acc</sklad>
+  </kompozycja>
+<kompozycja typ="solo">
+    <tytul>Kaprys nr 2</tytul>
+    
+    <rok>2008</rok>
+<wydawca>manus</wydawca>
+  </kompozycja>
+<kompozycja typ="m.kameralna">
+    <tytul>Impressions</tytul>
+    <xsklad>wiolonczela i akordeon</xsklad>
+    
+    <rok/>
+    <sklad>vc, acc</sklad>
+  </kompozycja>
+
+<kompozycja typ="m.kameralna">
+    <tytul>Rhythmes of doubts na akordeon i wiolonczelę</tytul>
+    <krotki.tytul>Rhythmes of doubts</krotki.tytul>
+    <xsklad>wiolonczela i akordeon</xsklad>
+    <rok>2010</rok>
+    <sklad>vc, acc</sklad>
+    <zrodlo>prawykonanie na musica polonica nova, 12.05.2010, TWOgether Duo</zrodlo>
+  </kompozycja>
+
+<kompozycja typ="m.kameralna">
+    <tytul>One Night of Passion</tytul>
+    <xsklad>harfa i akordeon</xsklad>
+    <rok>2009</rok>
+    <sklad>ar, acc</sklad>
+    <zrodlo>na zamówienie  Duo Milonga</zrodlo>
+  </kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Maksymiuk.J'><!-- *** Maksymiuk:Jerzy# -->
+
+<kompozycja typ="i.orkiestro">
+    <tytul>jeno lotom nie wzbraniaj (z Baczyńskiego)</tytul>
+    
+    <rok>2008</rok>
+  </kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Markowska.J'><!-- *** Markowska:Jolanta# -->
+
+<kompozycja typ="m.kameralna">
+ <tytul>Postludium</tytul>
+ <xsklad>perkusja i akordeon</xsklad>
+ 
+ <rok>1985</rok>
+ <sklad>acc, batt-2 esec</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Nokturn</tytul>
+ <xsklad>skrzypce, gitara i akordeon</xsklad>
+ 
+ <rok>1995</rok>
+ <sklad>acc, vn, chitt</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Matuszewski.F'><!-- *** Matuszewski:Filip# -->
+
+<kompozycja typ="m.kameralna">
+    <tytul>In memoriam of F.Chopin</tytul>
+    <xsklad>flet, saksofon tenorowy, ksylofon, marimba, gitara elektryczna, gitara basowa i akordeon</xsklad>    
+    <rok>2002</rok>
+    <sklad>fl, sxf T, xlf, mbf, chitt el, chitt B, acc</sklad>
+  </kompozycja>
+
+<kompozycja typ="m.kameralna">
+    <tytul>Taniec weselny</tytul>
+    <xsklad>perkusja i akordeon, </xsklad>
+    
+    <rok>2004</rok>
+    <sklad>acc, batt</sklad>
+  </kompozycja>
+
+</kompozytor>
+
+<kompozytor id='Melon.T'><!-- *** Melon:Tadeusz# -->
+
+<kompozycja typ="koncerty">
+    <tytul>Ansichtskarten aus Cottbus na akordeon i smyczki</tytul>
+    
+    <rok>2006</rok>
+    <zrodlo>III Internationaler Komponistenwettbewerb  Rundfunk 
+    Berlin – Brandenburg (RBB) 16.09.2006, II nagroda, solista Klaudiusz Baran, 
+    Streichorchester des Stadttheater Cottbus, dyr. Reinhardt Petersen</zrodlo>
+  </kompozycja>
+
+</kompozytor>
+
+<kompozytor id='Michniewski.W#Gounod.C'><!-- *** Michniewski/Gounod:Wojciech/Charles# -->
+
+<kompozycja typ="m.kameralna">
+    <tytul>Wedding Tango dla Kasi i Koreczka</tytul>
+    <xsklad>głosy, kwartet smyczkowy i bandoneon</xsklad>
+    
+    <rok>2000</rok>
+    <sklad>voci, quartetto d’archi, bandoneon</sklad>
+  </kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Mitscha.A'><!-- *** Mitscha:Adam# -->
+
+<kompozycja typ="solo">
+ <tytul>Suita</tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1961</rok>
+ <wydawca>PWM</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Obrazki śląskie (Sucha lipka, Patyjok, U sąsiada, Sikoreczka, Taniec)</tytul>
+ <krotki.tytul>Obrazki śląskie</krotki.tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1963</rok>
+ <wydawca>PWM</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Miniatury</tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1968</rok>
+ <wydawca>manus</wydawca>
+</kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Moc.M'><!-- *** Moc:Michał# -->
+
+<kompozycja typ="solo">
+ <tytul>Wicher</tytul>
+ 
+ <rok>1991</rok>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Wariacje na temat kolędy „Bracia patrzcie jeno”</tytul>
+ <krotki.tytul>Wariacje na temat!kolędy „Bracia patrzcie jeno”</krotki.tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1992</rok>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Krótka ... zabawa między trzema osobami</tytul>
+ <xsklad>2 akordeony</xsklad>
+ 
+ <rok>1994</rok>
+ <sklad>2 acc</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Rapsodia amerykańska</tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1994</rok>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Arka Noego</tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1995</rok>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Trzy miniatury</tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1995</rok>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Pięciu dzielnych Apaczów</tytul>
+ <xsklad>flet i 2 akordeony</xsklad>
+ 
+ <rok>1996</rok>
+ <sklad>2 acc, fl</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Sen rusałki</tytul>
+ <xsklad>flet i 2 akordeony</xsklad>
+ 
+ <rok>1996</rok>
+ <sklad>2 acc, fl</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="koncerty">
+ <tytul>Taniec polski na akordeon i orkiestrę kameralną</tytul>
+ 
+ <rok>1996</rok>
+ <sklad>acc solo, orch</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Betelgeuse</tytul>
+ <xsklad>akordeon i taśma</xsklad>
+ 
+ <rok>2000</rok>
+ <sklad>acc, nastro</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Per Aspera</tytul>
+    
+    <rok>2004</rok>
+    <sklad>acc solo, orch da camera</sklad>
+  </kompozycja>
+<kompozycja typ="koncerty">
+    <tytul>Chipset</tytul>
+    
+    <rok>2005</rok>
+    <sklad>acc solo, orch da camera</sklad>
+  </kompozycja>
+<kompozycja typ="solo">
+  <tytul>Sześć miniatur</tytul>
+  
+  <rok>2003</rok>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+  <tytul>Trio sonata „Jantar”</tytul>
+  <xsklad>flet, wibrafon i akordeon</xsklad>
+    
+    <rok>1997</rok>
+    <sklad>acc, fl, vbf</sklad>
+  </kompozycja>
+<kompozycja typ="solo">
+    <tytul>Fantazja</tytul>
+    
+    <rok>1999</rok>
+  </kompozycja>
+<kompozycja typ="m.kameralna">
+    <tytul>Accordella</tytul>
+    <xsklad>kwartet smyczkowy i akordeon</xsklad>
+    
+    <rok>2000</rok>
+    <sklad>acc, quartetto d‘archi</sklad>
+  </kompozycja>
+<kompozycja typ="koncerty">
+    <tytul>Hommage á Astor Piazzolla</tytul>
+        
+    <rok>2000</rok>
+    <sklad>acc solo, orch</sklad>
+     </kompozycja>
+<kompozycja typ="koncerty">
+    <tytul>Chordalians &amp; Chordaliens</tytul>
+    
+    <rok/>
+    <sklad>acc solo, orch</sklad>
+  </kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Moryto.S'><!-- *** Moryto:Stanisław# -->
+
+<kompozycja typ="m.kameralna">
+ <tytul>A tre</tytul>
+ <xsklad>perkusja i 2 akordeony</xsklad>
+ 
+ <rok>1984</rok>
+ <sklad>2 acc, batt</sklad>
+ <wydawca>POM</wydawca>
+ <nagranie>LP, CD</nagranie>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Conductus</tytul>
+ <xsklad>organy i 2 akordeony</xsklad>
+ 
+ <rok>1987</rok>
+ <sklad>2 acc, org</sklad>
+ <wydawca>POM</wydawca>
+ <nagranie>LP</nagranie>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>A due</tytul>
+ <xsklad>2 akordeony</xsklad>
+ 
+ <rok>1988</rok>
+ <sklad>2 acc</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>E-la</tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1989</rok>
+ <wydawca>PIM</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Tryglif</tytul>
+ <xsklad>flet, gitara i akordeon</xsklad>
+ 
+ <rok>1993</rok>
+ <sklad>acc, fl, chitt</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Moss.P'><!-- *** Moss:Piotr# -->
+
+<kompozycja typ="m.kameralna">
+ <tytul>Demarches</tytul>
+ <xsklad>klarnet basowy i akordeon</xsklad>
+ 
+ <rok>1984</rok>
+ <sklad>acc, cl basso</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Form II</tytul>
+ <xsklad>sopran solo, saksofon altowy, akordeon i perkusja </xsklad>
+ 
+ <rok>1986</rok>
+ <sklad>acc, sxf alto, batt, S solo</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="koncerty">
+ <tytul>Koncert na akordeon i orkiestrę smyczkową</tytul>
+ <krotki.tytul>Koncert!na akordeon i orkiestrę smyczkową</krotki.tytul>
+ 
+ <rok>1987</rok>
+ <sklad>acc solo, archi</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Regards eloignées</tytul>
+ <xsklad>gitara i akordeon</xsklad>
+ 
+ <rok>1987</rok>
+ <sklad>acc, chitt</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="i.orkiestro">
+ <tytul>Musik einer Sommernacht</tytul>
+    <xsklad>2 akordeony w orkiestrze</xsklad>
+ 
+ <rok>1989</rok>
+ <sklad>2 acc</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Quartettino</tytul>
+ <xsklad>trio stroikowe i akordeon</xsklad>
+ 
+ <rok>1990</rok>
+ <sklad>acc, ob, cl, fg</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Mądrawski.J'><!-- *** Mądrawski:Jerzy# -->
+
+<kompozycja typ="solo">
+ <tytul>Suita dziecięca nr 1</tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1986</rok>
+ <wydawca>Akademia Świętokrzyska</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Suita dziecięca nr 2</tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1987</rok>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Wariacje na temat melodii starofrancuskiej</tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1987</rok>
+ <wydawca>Akademia Świętokrzyska</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Muzyka czasu i przestrzeni</tytul>
+ <xsklad>flet, wiolonczela i akordeon</xsklad>
+ 
+ <rok>1990</rok>
+ <sklad>acc, fl, vc</sklad>
+ <wydawca>Akademia Świętokrzyska</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Trzy medytacje</tytul>
+ <xsklad>flet i akordeon</xsklad>
+ 
+ <rok>1996</rok>
+ <sklad>acc, fl</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+    <tytul>Suita dziecięca nr 3</tytul>
+    
+    <rok>2007</rok>
+  </kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Naklicki.K'><!-- *** Naklicki:Krzysztof# -->
+
+<kompozycja typ="orkiestra">
+ <tytul>Andante „Niedźwiedź” i  Kanon na orkiestrę akordeonową</tytul>
+ 
+ <rok>2001</rok>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Allegro scherzando</tytul>
+ <xsklad>flet i akordeon</xsklad>
+ 
+ <rok>1991</rok>
+ <sklad>acc, fl dolce in C</sklad>
+ <wydawca>manus</wydawca>
+ </kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>ABA</tytul>
+ <xsklad>4 akordeony</xsklad>
+ 
+ <rok>1991</rok>
+ <sklad>4 acc</sklad>
+ <wydawca>manus</wydawca>
+ </kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Divertimento czyli trzy piosenki dziecięce w stylu klasycznym</tytul>
+  <krotki.tytul>Divertimento</krotki.tytul>
+ <xsklad>5 akordeonów</xsklad>
+ 
+ <rok>1990</rok>
+ <sklad>5 acc</sklad>
+ <wydawca>manus</wydawca>
+ </kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Dwie piosenki kaszubskie (Ach mój wianku, Wróbelek)</tytul>
+ <xsklad>4 akordeony</xsklad>
+ 
+ <rok>1992</rok>
+ <sklad>4 acc</sklad>
+ <wydawca>manus</wydawca>
+ </kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Krótka msza dziecieca</tytul>
+ <xsklad>Utwory wokalno-instrumentalne</xsklad>
+ 
+ <rok>1993</rok>
+ <sklad>4 acc, fl dolce in C, fl dolce in F, S solo, A solo, T solo, B solo, coro da bambino</sklad>
+ <wydawca>manus</wydawca>
+ </kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Jubilate</tytul>
+ <xsklad>Utwory wokalno-instrumentalne</xsklad>
+ 
+ <rok>2001</rok>
+ <sklad>2 acc, coro da femminile</sklad>
+ <wydawca>manus</wydawca>
+ </kompozycja>
+<kompozycja typ="orkiestra">
+ <tytul>Kanon</tytul>
+ 
+ <rok>1998</rok>
+ <wydawca>manus</wydawca>
+ </kompozycja>
+<kompozycja typ="m.kameralna">
+    <tytul>Szkice</tytul>
+    <xsklad>skrzypce i akordeon</xsklad>
+    
+    <rok>2007</rok>
+    <sklad>acc, vn</sklad>
+  </kompozycja>
+<kompozycja typ="solo">
+  <tytul>Trzy sonatiny</tytul>
+  
+  <rok/>
+  <wydawca>Astra</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+  <tytul>Utwory pedagogiczne (Suita nr 4, Suita nr 5, Wariacje na temat
+  kaszubskiej melodii ludowej „Szedł raz stary przez wieś”, Wariacje na temat
+  kaszubskiej melodii ludowej „Starość nie radość”)</tytul>
+  <xsklad/>
+  
+  <rok>2003</rok>
+  <sklad/>
+  <wydawca>Pracownia Muzyczna Gis</wydawca>
+  <zrodlo data="2004/07/09"/>
+</kompozycja>
+<kompozycja typ="solo">
+  <tytul>Album kaszubski(Do Pucka po śledzia, Szewc, Na kamyku siedziała,
+  Ze Strzelna, Wariacje na temat kaszubskiej melodii „Zaloty przy studni”,
+  Oczekiwanie, Rybacy, na morze!)</tytul>
+  <xsklad/>
+  
+  <rok>2003</rok>
+  <sklad/>
+  <wydawca>Pracownia Muzyczna Gis</wydawca>
+  <zrodlo data="2004/07/09"/>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+  <tytul>Suita nr 1</tytul>
+  <xsklad>5 akordeonów</xsklad>
+  
+  <rok>2002</rok>
+  <sklad/>
+  <wydawca>Pracownia Muzyczna Gis</wydawca>
+  <zrodlo data="2004/07/09"/>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+  <tytul>Suita nr 2</tytul>
+  <xsklad>5 akordeonów</xsklad>
+  
+  <rok>2002</rok>
+  <sklad/>
+  <wydawca>Pracownia Muzyczna Gis</wydawca>
+  <zrodlo data="2004/07/09"/>
+</kompozycja>
+<kompozycja typ="solo">
+  <tytul>Od pierwszej lekcji gram na akordeonie</tytul>
+  <xsklad/>
+  
+  <rok>2004</rok>
+  <sklad/>
+  <wydawca>Pracownia Muzyczna Gis</wydawca>
+  <zrodlo data="2004/07/09"/>
+</kompozycja>
+<kompozycja typ="orkiestra">
+  <tytul>Toccata</tytul>
+  <xsklad/>
+  
+  <rok>2003</rok>
+  <sklad>acc solo, orkiestra akordeonowa</sklad>
+  <wydawca>Pracownia Muzyczna Gis</wydawca>
+  <zrodlo data="2004/07/09"/>
+</kompozycja>
+<kompozycja typ="orkiestra">
+  <tytul>Staccato grazioso</tytul>
+  <xsklad/>
+  
+  <rok>2003</rok>
+  <sklad>acc solo, orkiestra akordeonowa</sklad>
+  <wydawca>Pracownia Muzyczna Gis</wydawca>
+  <zrodlo data="2004/07/09"/>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+  <tytul>Suita zimowa</tytul>
+  <xsklad>5 akordeonów</xsklad>
+  
+  <rok>2003</rok>
+  <sklad>5 acc</sklad>
+  <wydawca>Pracownia Muzyczna Gis</wydawca>
+  <zrodlo data="2004/07/09"/>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+  <tytul>Tryptyk kaszubski</tytul>
+  <xsklad>wiolonczela i akordeon</xsklad>
+  
+  <rok>2004</rok>
+  <sklad>acc, vc</sklad>
+  <wydawca>Pracownia Muzyczna Gis, Świnoujście</wydawca>
+  <zrodlo data="2005/01/12">prawykonanie 12.12.2004 w Świnoujściu, 
+  Anna Sawicka – wiolonczela, Elżbieta Rosińska – akordeon</zrodlo>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+  <tytul>Kołysanka</tytul>
+  <xsklad>flet, wiolonczela i akordeon</xsklad>
+  
+  <rok>2004</rok>
+  <sklad>acc, fl, vc</sklad>
+  <wydawca>Pracownia Muzyczna GIS, Świnoujście</wydawca>
+  <zrodlo data="2005/01/12"/>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+  <tytul>Toccata</tytul>
+  <xsklad>wiolonczela i akordeon</xsklad>
+  
+  <rok>2004</rok>
+  <sklad>acc, vc</sklad>
+  <wydawca>Pracownia Muzyczna GIS, Świnoujście</wydawca>
+  <zrodlo data="2005/01/12">prawykonanie 12.12.2004 w Świnoujściu, 
+  Anna Sawicka – wiolonczela, Elżbieta Rosińska – akordeon</zrodlo>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+    <tytul>Trzy szkice</tytul>
+    <xsklad>skrzypce i akordeon</xsklad>
+    
+    <rok>2006</rok>
+    <sklad>vn, acc</sklad>
+  </kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Natanson.T'><!-- *** Natanson:Tadeusz# -->
+
+<kompozycja typ="koncerty">
+ <tytul>Concertino</tytul>
+ 
+ <rok>1966</rok>
+ <sklad>batt ar-acc solo-archi</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Preludium, gawot i fuga</tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1966</rok>
+ <wydawca>MH</wydawca>
+</kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Nestoruk.P'><!-- *** Nestoruk:Paweł# -->
+
+<kompozycja typ="m.kameralna">
+ <tytul>Concertino</tytul>
+<xsklad>klarnet i akordeon</xsklad>
+ 
+ <rok>2000</rok>
+ <sklad>acc, cl</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Niziurski.M'><!-- *** Niziurski:Mirosław# -->
+
+<kompozycja typ="m.kameralna">
+ <tytul>Pierścień wielkiej damy</tytul>
+ <xsklad>2 akordeony</xsklad>
+ 
+ <rok>2001</rok>
+ <sklad>2 acc</sklad>
+ <wydawca>Astra</wydawca>
+</kompozycja>
+<kompozycja typ="koncerty">
+ <tytul>Tryptyk barokowy</tytul>
+ 
+ <rok>1994</rok>
+ <sklad>acc solo-archi</sklad>
+ <wydawca>Astra</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Suita</tytul>
+ <xsklad>flet i akordeon</xsklad>
+ 
+ <rok>1995</rok>
+ <sklad>fl, acc</sklad>
+ <wydawca>Astra</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Sonata</tytul>
+    <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1996</rok>
+ <wydawca>Astra</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Sonatina nr 1</tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1997</rok>
+ <wydawca>Astra</wydawca>
+</kompozycja>
+<kompozycja typ="koncerty">
+ <tytul>Serenada na akordeon i orkiestrę smyczkową</tytul>
+ <krotki.tytul>Serenada!na akordeon i orkiestrę smyczkową</krotki.tytul>
+ 
+ <rok>1998</rok>
+ <sklad>acc solo-archi</sklad>
+ <wydawca>Astra</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Sonatina piccola</tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1998</rok>
+ <wydawca>Akademia Świętokrzyska</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Etiudy–obrazki</tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1999</rok>
+ <wydawca>Fonola</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Sonata nr 2</tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>2000</rok>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="koncerty">
+ <tytul>Koncert na akordeon, trąbki, smyczki i perkusję</tytul>
+ <krotki.tytul>Koncert</krotki.tytul>
+ 
+ <rok>2001</rok>
+ <wydawca>manus</wydawca>
+ </kompozycja>
+<kompozycja typ="solo">
+    <tytul>Sonata nr 3</tytul>
+    
+    <rok>2006</rok>
+  </kompozycja>
+<kompozycja typ="solo">
+    <tytul>Preludia</tytul>
+    
+    <rok>2006</rok>
+  </kompozycja>
+<kompozycja typ="solo">
+  <tytul>Suita chińska</tytul>
+  <xsklad/>
+  
+  <rok>2002</rok>
+  <sklad>acc solo</sklad>
+  <wydawca>Astra</wydawca>
+  <zrodlo data="2004/07/09"/>
+</kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Nowacki.Z'><!-- *** Nowacki:Zdzisław# -->
+
+<kompozycja typ="solo">
+ <tytul>Preludium, w: L. Puchnowski, Szkoła miechowania i artykulacji</tytul>
+ <krotki.tytul>Preludium</krotki.tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1960</rok>
+ <wydawca>PWM</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Trio, w: L. Puchnowski, Szkoła miechowania i artykulacji</tytul>
+ <krotki.tytul>Trio</krotki.tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1960</rok>
+ <wydawca>PWM</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Walc, w: L. Puchnowski, Szkoła miechowania i artykulacji</tytul>
+ <krotki.tytul>Walc</krotki.tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1960</rok>
+ <wydawca>PWM</wydawca>
+</kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Nowak.W'><!-- *** Nowak:Wojciech# -->
+
+<kompozycja typ="solo">
+ <tytul>UFO</tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1982</rok>
+ <wydawca>EPNS</wydawca>
+ <nagranie>LP</nagranie>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Duo</tytul>
+ <xsklad>kontrabas i akordeon</xsklad>
+ 
+ <rok>1987</rok>
+ <sklad>acc, cb</sklad>
+ <wydawca>manus</wydawca>
+ <nagranie>KM</nagranie>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Trio</tytul>
+ <xsklad>saksofon, fortepian i akordeon</xsklad>
+ 
+ <rok>1988</rok>
+ <sklad>acc, sxf alto, pf</sklad>
+ <wydawca>manus</wydawca>
+ <nagranie>KM</nagranie>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Pneumatofania (Communio na uroczystość Zesłania Ducha Świętego</tytul>
+ <krotki.tytul>Pneumatofania</krotki.tytul>
+ <xsklad>organy, 2akordeony, recytator ad libitum</xsklad>
+ 
+ <rok>1991</rok>
+ <sklad>2 acc, org, recit ad lib</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Olczak.K'><!-- *** Olczak:Krzysztof# -->
+
+<kompozycja typ="solo">
+ <tytul>Taniec</tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1976</rok>
+ <wydawca>Astra</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Manualiter</tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1977</rok>
+ <wydawca>AA, EPNS</wydawca>
+ <nagranie>LP, CD</nagranie>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Fantasmagorie</tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1978</rok>
+ <wydawca>RIC, AA</wydawca>
+ <nagranie>KM, CD</nagranie>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Sonatina nr 1</tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1979</rok>
+ <wydawca>Astra</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Deszczyk</tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1980</rok>
+ <wydawca>SAL</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Maestoso mesto-postludium</tytul>
+ <xsklad>3 akordeony</xsklad>
+ 
+ <rok>1980</rok>
+ <sklad>3 acc</sklad>
+ <wydawca>manus</wydawca>
+ <nagranie>KM</nagranie>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Letnia suita </tytul>
+ <krotki.tytul>Suita!letnia</krotki.tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1980</rok>
+ <wydawca>Astra</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Zimowa suita</tytul>
+ <krotki.tytul>Suita!zimowa</krotki.tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1980</rok>
+ <wydawca>LIM, Ast</wydawca>
+ <nagranie>KM</nagranie>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Pozymk</tytul>
+ <xsklad>recytator, sopran solo, flet prosty, akordeon</xsklad>
+ 
+ <rok>1982</rok>
+ <sklad>acc, fl dolce sopr, recit, S solo</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Berceuse</tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1984</rok>
+ <wydawca>RIC</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Kantata</tytul>
+ <xsklad>sopran solo, 2 akordeony</xsklad>
+ 
+ <rok>1984</rok>
+ <sklad>2 acc, S solo</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Rząpielnik czyli szkicownik z Pomorza (Nasza nënka,  Szewc, Kôwôl,  Rëbacki tonc, Dzëk, Naspik)</tytul>
+ <krotki.tytul>Rząpielnik czyli szkicownik z Pomorza</krotki.tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1984</rok>
+ <wydawca>POM</wydawca>
+ <nagranie>KM</nagranie>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Preludium i fuga (1976–1985)</tytul>
+ <krotki.tytul>Preludium i fuga</krotki.tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1985</rok>
+ <wydawca>Astra</wydawca>
+ <nagranie>KM</nagranie>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Rondino</tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1985</rok>
+ <wydawca>LIM, Astra</wydawca>
+ <nagranie>KM</nagranie>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Sonatina nr 2</tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1985</rok>
+ <wydawca>Astra</wydawca>
+ <nagranie>KM</nagranie>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Belt the bellow</tytul>
+ <xsklad>tuba i akordeon</xsklad>
+ 
+ <rok>1986</rok>
+ <sklad>acc, tb</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Intervals</tytul>
+ <xsklad>organy, 2 akordeony</xsklad>
+ 
+ <rok>1987</rok>
+ <sklad>2 acc, org</sklad>
+ <wydawca>POM</wydawca>
+ <nagranie>LP</nagranie>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Trio</tytul>
+ <xsklad>skrzypce, gitara i akordeon</xsklad>
+ 
+ <rok>1987</rok>
+ <sklad>acc, v-no, chit</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="koncerty">
+ <tytul>Koncert na akordeon i orkiestrę</tytul>
+ <krotki.tytul>Koncert!na akordeon i orkiestrę</krotki.tytul>
+ 
+ <rok>1989</rok>
+ <sklad>2fl, 2ob, 2cl, 2fg-1tr, 2cr, 1tn-batt-acc solo-archi</sklad>
+ <wydawca>AM Gdańsk</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Piosenka o Panu Tralalińskim</tytul>
+ <xsklad>chór dziecięcy, tenor solo, akordeon, róg, skrzypce, wiolonczela</xsklad>
+ 
+ <rok>1989</rok>
+ <sklad>acc ossia synt, T solo, cr, batt, v-no, v-cello, recit, bambini</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="koncerty">
+ <tytul>Concerto grosso</tytul>
+    <xsklad>puzon basowy solo, tuba solo, akordeon solo, orkiestra dęta</xsklad>
+ 
+ <rok>1990</rok>
+ <sklad>4fl, 4ob, 3cl, 1cl basso, 3fg, 1cfg-5tr, 5cr, 5tn-tr basso solo, tb solo, batt solo, acc solo</sklad>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Suita dziecięca nr 3</tytul>
+ <krotki.tytul>Suita!dziecięca nr 3</krotki.tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1993</rok>
+ <wydawca>FATA</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Anioły ciemności</tytul>
+ <xsklad>4 akordeony</xsklad>
+ 
+ <rok>1998</rok>
+ <sklad>4 acc</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Intrada kościerska</tytul>
+ <xsklad>3 akordeony</xsklad>
+ 
+ <rok>1998</rok>
+ <sklad>3 acc</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="i.orkiestro">
+ <tytul>Kantata starogardzka na sopran, tenor, chór i orkiestrę kameralną</tytul>
+    <xsklad>1 akordeon w orkiestrze</xsklad>
+ 
+ <rok>1998</rok>
+ <sklad>1 acc</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+    <tytul>Wariacje na temat islandzkiej piosenki dziecięcej „Goba mamma”</tytul>
+    
+    <rok>2003</rok>
+  </kompozycja>
+<kompozycja typ="m.kameralna">
+  <tytul>Expedition</tytul>
+  <xsklad>kwintet o składzie mieszanym</xsklad>
+  
+  <rok>2010</rok>
+  <sklad>acc, fl, vc, chitt, pf</sklad>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+    <tytul>Anioły ciemności</tytul>
+  <xsklad>akordeon i kwartet smyczkowy</xsklad>
+    
+    <rok>2002</rok>
+  <sklad>acc,quartetto d’archi</sklad>
+  </kompozycja>
+<kompozycja typ="m.kameralna">
+    <tytul>Bahar Miayad</tytul>
+    <xsklad>tomak i akordeon</xsklad>
+    
+    <rok>2007</rok>
+    <sklad>acc, tombak</sklad>
+  </kompozycja>
+<kompozycja typ="solo">
+    <tytul>Trzy Etiudy</tytul>
+    
+    <rok>2000</rok>
+    <wydawca>Akademia Świętokrzyska</wydawca>
+  </kompozycja>
+<kompozycja typ="m.kameralna">
+  <tytul>Illur laekur eda heimasetan</tytul>
+  <xsklad>perkusja i akordeon</xsklad>
+  
+  <rok>2003</rok>
+  <sklad>acc, drum</sklad>
+  <wydawca/>
+  <zrodlo data="2004/07/09">informacja od kompozytora, prawykonanie 24.04.2003 w Dalvik (Islandia),
+  Paulina Olczak -- werbel, Krzysztof Olczak -- akordeon</zrodlo>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+  <tytul>Expedition</tytul>
+  <xsklad>flet, altówka, gitara, akordeon i fortepian</xsklad>
+  
+  <rok>2004</rok>
+  <sklad>acc, fl, v-la, chit, pfte</sklad>
+  <wydawca>manus</wydawca>
+  <zrodlo data="2005/01/12">prawykonanie 16.04.2004 na festiwalu Frühjahrstage für 
+  Zeitgönessische Musik w Weimarze,
+  partia akordeonu – Radosław Puszyło</zrodlo>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+    <tytul>Chanson</tytul>
+    <xsklad>akordeon i live electronics</xsklad>
+    
+    <rok>2008</rok>
+    <sklad>acc, live electronic</sklad>
+   </kompozycja>
+<kompozycja typ="m.kameralna">
+    <tytul>Trio z taśmą</tytul>
+    <xsklad>fortepian, akordeon, perkusja</xsklad>
+    <rok>2010</rok>
+    <sklad>pfte, acc, batt</sklad>
+  </kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Oleszkowicz.J'><!-- *** Oleszkowicz:Jan# -->
+
+<kompozycja typ="m.kameralna">
+ <tytul>Tzigane Concert</tytul>
+ <xsklad>kwartet smyczkowy i akordeon</xsklad>
+ 
+ <rok>2001</rok>
+ <sklad>acc, quartetto d’archi</sklad>
+ <wydawca>manus</wydawca>
+ </kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Olszamowski.S'><!-- *** Olszamowski:Sławomir# -->
+
+<kompozycja typ="m.kameralna">
+    <tytul>Quintett 144 MM</tytul>
+    <xsklad>kwartet smyczkowy i akordeon</xsklad>
+    
+    <rok>1999</rok>
+    <sklad>acc, quartetto d’archi</sklad>
+  </kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Opałka.T'><!-- *** Opałka:Tomasz Jakub# -->
+
+<kompozycja typ="solo">
+    <tytul>Five Cloudscapes</tytul>
+    
+    <rok/>
+  </kompozycja>
+<kompozycja typ="m.kameralna">
+    <tytul>x-Pose</tytul>
+    <xsklad>klarnet, akordeon, gitara elektryczna i wiolonczela</xsklad>
+    <rok>2010</rok>
+    <sklad>cl, acc, chit el, vc</sklad>
+  </kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Osada.R'><!-- *** Osada:Ryszard# -->
+
+<kompozycja typ="m.kameralna">
+    <tytul>E-motion</tytul>
+    <xsklad>2 akordeony i elektronika</xsklad>
+   
+    <rok>2001</rok>
+    <sklad>acc, live electronic</sklad>
+    <zrodlo data="2008/05/15">Uwaga jest podobny utwór Emotions, sprawdzić</zrodlo>
+  </kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Paciorek.C'><!-- *** Paciorek:Cezary# -->
+
+<kompozycja typ="solo">
+ <tytul>Sonatina</tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1993</rok>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+   <tytul>Suita polska</tytul>
+   <xsklad>2 akordeony</xsklad>
+   
+   <rok>2007</rok>
+   <sklad>2 acc</sklad>
+  </kompozycja>
+<kompozycja typ="m.kameralna">
+  <tytul>Toccata</tytul>
+  <xsklad>kwartet smyczkowy i akordeon</xsklad>
+  
+  <rok>2011</rok>
+  <sklad>acc, quartetto d’archi</sklad>
+</kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Paciorek.G'><!-- *** Paciorek:Grażyna# -->
+
+<kompozycja typ="m.kameralna">
+ <tytul>Muzyka napotkana</tytul>
+ <xsklad>obój i akordeon</xsklad>
+ 
+ <rok>1990</rok>
+ <sklad>acc, ob</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Paluch.P'><!-- *** Paluch:Paweł# -->
+
+<kompozycja typ="m.kameralna">
+ <tytul>Polonez na chór i zespół instrumentalny</tytul>
+ <xsklad>1 akordeonw zespole instrumentalnym</xsklad> 
+ 
+ <rok>2000</rok>
+ <sklad>acc, 3v-ni, 2 cl, fl, tr, c-basso, chór 4-gł</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+  <tytul>Kujawiak i oberek</tytul>
+  <xsklad>chór i zespół instrumentalny</xsklad>
+  
+  <rok>2001</rok>
+  <sklad/>
+  <wydawca/>
+  <zrodlo data="2004/07/09">Sprawozdanie Międzyuczelnianej Katedry Akordeonistyki</zrodlo>
+</kompozycja>
+
+</kompozytor>
+
+
+<kompozytor id='Palus.G#Miszczyszyn.G#Zimka.M'><!-- *** Palus/Miszczyszyn/Zimka:Grzegorz/Grzegorz/Michał# -->
+
+<kompozycja typ="m.kameralna">
+    <tytul>Zorza.Światłość</tytul>
+    <xsklad>3 akordeony</xsklad>
+    
+    <rok>2009</rok>
+    <sklad>3 acc</sklad>
+  </kompozycja>
+
+</kompozytor>
+
+
+<kompozytor id='Papara.J'><!-- *** Papara:Michał Jakub# -->
+
+<kompozycja typ="solo">
+    <tytul>Kamienie</tytul>
+    
+    <rok>2009</rok>
+  </kompozycja>
+<kompozycja typ="m.kameralna">
+    <tytul>Dziwadła i straszydlaki II</tytul>
+    <xsklad>sopran, alt, recytatora i zespół kameralny</xsklad>
+    
+    <rok>2009</rok>
+    <sklad>S, A, recit, fl, acc, batt</sklad>
+  </kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Partyka.J'><!-- *** Partyka:Jacek# -->
+
+<kompozycja typ="m.kameralna">
+    <tytul>Projekcja III</tytul>
+    <xsklad>flet, akordeon, 2 fortepiany, perkusja</xsklad>
+    <rok>1991</rok>
+    <sklad>fl, acc, 2 pfte, batt</sklad>
+  </kompozycja>
+
+<kompozycja typ="m.kameralna">
+    <tytul>Three New Styles, cz. I Space’s minimal na amplifikowany akordeon,
+    perkusję i tasmę</tytul>
+    <krotki.tytul>Three New Styles</krotki.tytul>
+    <xsklad>perkusja, akordeon, taśma</xsklad>
+    <rok>2000</rok>
+    <sklad>acc, batt, tape</sklad>
+  </kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Pater.J'><!-- *** Pater:Janusz# -->
+
+<kompozycja typ="m.kameralna">
+ <tytul>Ad note e corpe </tytul>
+ <xsklad>taśma i akordeon</xsklad>
+ 
+ <rok>1997</rok>
+ <sklad>acc, nastro</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Penherski.Z'><!-- *** Penherski:Zbigniew# -->
+
+<kompozycja typ="solo">
+ <tytul>Łatwe utwory (Scherzo, Smutny walc, Wprawka, Etiuda, Marsz)</tytul>
+ <krotki.tytul>Łatwe utwory</krotki.tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1962</rok>
+ <wydawca>PWM</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Muzyka uliczna</tytul>
+ <xsklad>klarnet, trąbka, 2 fortepiany, akordeon, perkusja</xsklad>
+ 
+ <rok>1966</rok>
+ <sklad>acc, cl, tr, batt, 2 pf a 4 mani</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>3 recitativi</tytul>
+ <xsklad>sopran solo, klarnet basowy, akordeon, perkusja </xsklad>
+ 
+ <rok>1987</rok>
+ <sklad>acc, cl basso, batt, S solo</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Intermezzo</tytul>
+ <xsklad>sopran solo, saksofon altowy, akordeon, perkusja</xsklad>
+ 
+ <rok>1990</rok>
+ <sklad>acc, sxf alto, batt, S solo</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Podobiński.J'><!-- *** Podobiński:Józef# -->
+
+<kompozycja typ="koncerty">
+ <tytul>Suita na akordeon i orkiestrę</tytul>
+ <krotki.tytul>Suita!na akordeon i orkiestrę</krotki.tytul>
+ 
+ <rok>1974</rok>
+ <sklad>acc solo, orch</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Polaczyk.J'><!-- *** Polaczyk:Jakub# -->
+
+<kompozycja typ="m.kameralna">
+    <tytul>Refraiend Wheel</tytul>
+    <xsklad>klawesyn, akordeon i kontrabas</xsklad>
+    
+    <rok>2007</rok>
+    <sklad>cmb, acc, cb</sklad>
+  </kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Poleski.B'><!-- *** Poleski:Bogdan# -->
+
+<kompozycja typ="m.kameralna">
+ <tytul>Alhambra</tytul>
+ <xsklad>flet i akordeon</xsklad>
+ 
+ <rok>1999</rok>
+ <sklad>1-2acc, fl</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+  <tytul>Kołysanka elegijna</tytul>
+  <xsklad>klarnet i akordeon</xsklad>
+  
+  <rok>2000</rok>
+  <sklad>acc, cl</sklad>
+  <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Suita „Mały książę”</tytul>
+ <xsklad>flet i akordeon</xsklad>
+ 
+ <rok>2000</rok>
+ <sklad>1-2acc, fl</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Precz.B'><!-- *** Precz:Bogdan# -->
+
+<kompozycja typ="solo">
+ <tytul>3-3-2</tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1986</rok>
+ <wydawca>Intermus</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Fantasia polacca</tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1987</rok>
+ <wydawca>BER</wydawca>
+ <nagranie>CD</nagranie>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Acco-duo</tytul>
+ <xsklad>2 akordeony</xsklad>
+ 
+ <rok>1988</rok>
+ <sklad>2 acc</sklad>
+ <wydawca>BER</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Fusion</tytul>
+ <xsklad>flet i akordeon</xsklad>
+ 
+ <rok>1988</rok>
+ <sklad>acc, fl</sklad>
+ <wydawca>Intermus</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Sonata no. 1</tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1989</rok>
+ <wydawca>Intermus</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Suite para niños no. 1</tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1989</rok>
+ <wydawca>Opera Tr</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Preambolo e toccata</tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1990</rok>
+ <wydawca>Opera Tres</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Suite para niños no. 2</tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1990</rok>
+ <wydawca>Berben</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Opowieść starego lirnika</tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1991</rok>
+ <wydawca>Berben</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Suite para niños no. 3</tytul>
+ <krotki.tytul>Suite!para niños no. 3</krotki.tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1991</rok>
+ <wydawca>Berben</wydawca>
+</kompozycja>
+<kompozycja typ="i.orkiestro">
+ <tytul>Tryphtongos na orkiestrę</tytul>
+    <xsklad>1 akordeon w orkiestrze</xsklad>
+ 
+ <rok>1991</rok>
+ <sklad>1 acc</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="koncerty">
+ <tytul>Concert</tytul>
+ 
+ <rok>1992</rok>
+ <sklad>acc solo, orch</sklad>
+ <wydawca>Berben</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Grafeld’s Impression</tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1993</rok>
+ <wydawca>Berben</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Six Studies</tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1993</rok>
+ <wydawca>Berben</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Sonata no. 2</tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1993</rok>
+ <wydawca>Berben</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Suite para niños no. 4</tytul>
+ <krotki.tytul>Suite!para niños no. 4</krotki.tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1993</rok>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Danza de la vida</tytul>
+ <xsklad>sopran solo, gitara, akordeon</xsklad>
+ 
+ <rok>1994</rok>
+ <sklad>acc, chitt, S solo</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Twelve in four – Painting Music Joan Miro III</tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1994</rok>
+ <wydawca>BER</wydawca>
+</kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Przezwański.P'><!-- *** Przezwański:Paweł# -->
+
+<kompozycja typ="m.kameralna">
+    <tytul>Między ciszą a lustrem ciszy</tytul>
+    <xsklad>głosy, aktorów, akordeon, perkusję i 2 saksofony</xsklad>
+    
+    <rok>2008</rok>
+    <sklad>3 voci, 2 act, acc, batt, 2 sxf </sklad>
+  </kompozycja>
+<kompozycja typ="m.kameralna">
+    <tytul>Kwiecień Plecień</tytul>
+    <xsklad>duże składy</xsklad>
+    <rok/>
+    <sklad>pfte, vn, cb, acc, cl, tr, cymbały, batt</sklad>
+  </kompozycja>
+<kompozycja typ="m.kameralna">
+    <tytul>Pneuma I</tytul>
+    <xsklad>klarnet, akordeon, gitara elektryczna i wiolonczela</xsklad>
+    <rok>2010</rok>
+    <sklad>cl b, vc, acc, chit(el)</sklad>
+    <zrodlo>utwór napisany dla Scontri Ensemble</zrodlo>
+  </kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Przybylski.B'><!-- *** Przybylski:Bronisław Kazimierz# -->
+
+<kompozycja typ="solo">
+ <tytul>Trzy utwory (Scherzo, Adagio, Rondo)</tytul>
+ <krotki.tytul>Trzy utwory</krotki.tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1963</rok>
+ <wydawca>PWM</wydawca>
+ <nagranie>KM</nagranie>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Scherzo concertante</tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1965</rok>
+ <wydawca>PWM</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Mikroświatek (Kwiaty ogrodowe – suita, Kwiaty polne – suita, Piotruś idzie do szkoły – temat z wariacjami, Na łące – suita)</tytul>
+ <krotki.tytul>Mikroświatek</krotki.tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1967</rok>
+ <wydawca>PWM</wydawca>
+ <nagranie>KM</nagranie>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Allegro</tytul>
+ <xsklad>5 akordeonów</xsklad>
+ 
+ <rok>1970</rok>
+ <sklad>4 acc, acc basso</sklad>
+ <wydawca>LIM</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Variabile</tytul>
+ <xsklad>5 akordeonów</xsklad>
+ 
+ <rok>1970</rok>
+ <sklad>4 acc, acc basso</sklad>
+ <wydawca>AA, RIC</wydawca>
+ <nagranie>LP</nagranie>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Die Spinnerin (Variationen über ein Thema von Stanisław Moniuszko)</tytul>
+ <krotki.tytul>Die Spinnerin</krotki.tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1972</rok>
+ <wydawca>DVM</wydawca>
+</kompozycja>
+<kompozycja typ="koncerty">
+ <tytul>Concerto polacco</tytul>
+ 
+ <rok>1973</rok>
+ <sklad>2fl, 2ob, 2cl, 2fg–2tr, 2cr, 2tn, 1tb-batt(3 esec)-acc solo-archi</sklad> <sklad>bat-acc solot-archi (II wersja)</sklad>
+ <wydawca>PWM (acc</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>La follia</tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1974</rok>
+ <wydawca>PWM</wydawca>
+ <nagranie>KM</nagranie>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Pory roku (Idzie zima do morza, Zbudź się, misiu! Pieśń pastuszka, Wakacje, wakacje! Łódeczka z kory, Z harcerzami na wycieczkę, Pożegnanie listka z drzewem, Papierowe latawce, Do widzenia, jaskółeczko! Taniec śnieżynek, Zabawy na śniegu, Sanna z dzwoneczkami!)</tytul>
+ <krotki.tytul>Pory roku</krotki.tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1976</rok>
+ <wydawca>PWM</wydawca>
+ <nagranie>KM</nagranie>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Bajki (Uparty osiołek, Jaś i Małgosia, Kot w butach, O krasnoludkach, Zaczarowana królewna, Dzielny rycerz, Brzydkie kaczątko)</tytul>
+ <krotki.tytul>Bajki</krotki.tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1977</rok>
+ <wydawca>PWM</wydawca>
+ <nagranie>KM</nagranie>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Toccatina</tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1977</rok>
+ <wydawca>GB</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Asteroidy</tytul>
+ <xsklad>5 akordeonów</xsklad>
+ 
+ <rok>1978</rok>
+ <sklad>4 acc, acc basso</sklad>
+ <wydawca>AA</wydawca>
+ <nagranie>LP, CD</nagranie>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Katzenmusik (kleine Suite)</tytul>
+ <krotki.tytul>Katzenmusik</krotki.tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1978</rok>
+ <wydawca>PKW, Accent</wydawca>
+ <nagranie>KM</nagranie>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Kleine Spartakiade (5 leichte Etüden)</tytul>
+ <krotki.tytul>Kleine Spartakiade</krotki.tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1978</rok>
+ <wydawca>PKW, Accent</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Miniaturen (12 leichte Stücke)</tytul>
+ <krotki.tytul>Miniaturen</krotki.tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1978</rok>
+ <wydawca>PKW, Accent</wydawca>
+</kompozycja>
+<kompozycja typ="ad.libitum">
+ <tytul>Tastiera for four keyboard Instruments</tytul>
+ 
+ <rok>1978</rok>
+ <wydawca>BM</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Vögel (7 leichte Stücke)</tytul>
+ <krotki.tytul>Vögel</krotki.tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1978</rok>
+ <wydawca>PKW, Accent</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Ostinato</tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1980</rok>
+ <wydawca>LIM,Astra</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Quasi una sonata</tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1980</rok>
+ <wydawca>PKW</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Quasi una sonata</tytul>
+ <xsklad>5 akordeonów</xsklad>
+ 
+ <rok>1980</rok>
+ <sklad>4 acc, acc basso</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Scherzino</tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1980</rok>
+ <wydawca>LIM,Astra</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Melody</tytul>
+ <xsklad>2-3 akordeony</xsklad> 
+ 
+ <rok>1981</rok>
+ <sklad>2–3 acc</sklad>
+ <wydawca>NORSK</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Song</tytul>
+ <xsklad>2-3 akordeony</xsklad>
+ 
+ <rok>1981</rok>
+ <sklad>2–3 acc</sklad>
+ <wydawca>NORSK</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>The Narrow Path</tytul>
+ <xsklad>2-3 akordeony</xsklad> 
+ 
+ <rok>1981</rok>
+ <sklad>2–3 acc</sklad>
+ <wydawca>NORSK</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Klingenthaler Impressionen</tytul>
+ <xsklad>gitara i akordeon</xsklad>
+ 
+ <rok>1982</rok>
+ <sklad>acc, chitt</sklad>
+ <wydawca>JP</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Aus einer Kindheit (7 Impressionen zu den Klingenthaler Harmonikatage)</tytul>
+ <krotki.tytul>Aus einer Kindheit</krotki.tytul>
+ <xsklad>gitara i akordeon</xsklad>
+ 
+ <rok>1983</rok>
+ <sklad>acc, chitt</sklad>
+ <wydawca>LIM</wydawca>
+ <nagranie>KM</nagranie>
+</kompozycja>
+<kompozycja typ="koncerty">
+ <tytul>Concertino</tytul>
+ 
+ <rok>1983</rok>
+ <sklad>fl, cl-xlf-acc solo-archi</sklad>
+ <wydawca>HE, MOW</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Drei Sonatinen (Sonatina giocosa, Sonatina scherzina, Sonatina burlesca)</tytul>
+ <krotki.tytul>Drei Sonatinen</krotki.tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1983</rok>
+ <wydawca>HE,MOW</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Play 1–5</tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1983</rok>
+ <wydawca>PKW</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Play for Two</tytul>
+ <xsklad>2 akordeony</xsklad>
+ 
+ <rok>1984</rok>
+ <sklad>2 acc</sklad>
+ <wydawca>BM</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Metamorphosen</tytul>
+ <xsklad>kwartet smyczkowy i akordeon</xsklad>
+ 
+ <rok>1985</rok>
+ <sklad>acc, quartetto d’archi</sklad>
+ <wydawca>JP</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Bimodal-piece</tytul>
+ <xsklad>10 akordeonów</xsklad>
+ 
+ <rok>1986</rok>
+ <sklad>8 acc, 2 acc basso</sklad>
+ <wydawca>BM</wydawca>
+</kompozycja>
+<kompozycja typ="koncerty">
+ <tytul>Concerto classico per fisarmonica e orchestra</tytul>
+ 
+ <rok>1986</rok>
+ <sklad>2fl, 2ob, 2cl, 2fg-2tr-batt(2 esec)-acc solo-archi</sklad> <sklad>batt(2 esec)-acc solo-archi (II wersja)</sklad>
+ <wydawca>PKW</wydawca>
+ <nagranie>CD</nagranie>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Constellation DDHE</tytul>
+ <xsklad>5 akordeonów</xsklad>
+ 
+ <rok>1986</rok>
+ <sklad>4 acc, acc basso</sklad>
+ <wydawca>BM</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Modal-piece 1</tytul>
+ <xsklad>5 akordeonów</xsklad>
+ 
+ <rok>1986</rok>
+ <sklad>4 acc, acc basso</sklad>
+ <wydawca>BM</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Modal-piece 2</tytul>
+ <xsklad>5 akordeonów</xsklad>
+ 
+ <rok>1986</rok>
+ <sklad>4 acc, acc basso</sklad>
+ <wydawca>BM</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Trio</tytul>
+ <xsklad>skrzypce, wiolonczela i akordeon</xsklad>
+ 
+ <rok>1986</rok>
+ <sklad>acc, vn, vc</sklad>
+ <wydawca>BM</wydawca>
+ <nagranie>KM</nagranie>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Double-play</tytul>
+ <xsklad>2 akordeony</xsklad>
+ 
+ <rok>1987</rok>
+ <sklad>2 acc</sklad>
+ <wydawca>BM</wydawca>
+ <nagranie>CD</nagranie>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Fünf Studien</tytul>
+ <krotki.tytul>Fünf Studien</krotki.tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1987</rok>
+ <wydawca>Travnice</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Rondinella</tytul>
+ <xsklad>2 akordeony</xsklad>
+ 
+ <rok>1987</rok>
+ <sklad>2 acc</sklad>
+ <wydawca>BM</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>...wieder zu Staub werden</tytul>
+ <krotki.tytul>wieder zu Staub werden@...wieder zu Staub werden</krotki.tytul>
+ <xsklad>flet i akordeon</xsklad>
+ 
+ <rok>1988</rok>
+ <sklad>acc, fl</sklad>
+ <wydawca>BM</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>A. B. Sonata</tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1988</rok>
+ <wydawca>BM</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Burleske</tytul>
+ <xsklad>flet i akordeon</xsklad>
+ 
+ <rok>1988</rok>
+ <sklad>acc, fl</sklad>
+ <wydawca>JP</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Holidays (5 leichte Stücke)</tytul>
+ <krotki.tytul>Holidays</krotki.tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1988</rok>
+ <wydawca>ABC</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Night Music</tytul>
+ <xsklad>flet, gitara i akordeon</xsklad>
+ 
+ <rok>1988</rok>
+ <sklad>acc, fl, chitt</sklad>
+ <wydawca>BM</wydawca>
+ <nagranie>KM</nagranie>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Ständchen</tytul>
+ <xsklad>flet, skrzypce i akordeon</xsklad>
+ 
+ <rok>1988</rok>
+ <sklad>acc, fl, vn</sklad>
+ <wydawca>PKW</wydawca>
+</kompozycja>
+<kompozycja typ="ad.libitum">
+ <tytul>Albertinum für 10 Harmonieinstrumente</tytul>
+ 
+ <rok>1989</rok>
+ <wydawca>BM</wydawca>
+</kompozycja>
+<kompozycja typ="orkiestra">
+ <tytul>Ein Frühlingstag</tytul>
+ 
+ <rok>1989</rok>
+ <wydawca>Jung</wydawca>
+</kompozycja>
+<kompozycja typ="ad.libitum">
+ <tytul>Gemälde Galerie für 5 Harmonieinstrumente</tytul>
+ 
+ <rok>1989</rok>
+ <wydawca>BM</wydawca>
+</kompozycja>
+<kompozycja typ="ad.libitum">
+ <tytul>Grünes Gewölbe für 5 Harmonieinstrumente</tytul>
+ 
+ <rok>1989</rok>
+ <wydawca>BM</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>In do</tytul>
+ <xsklad>2 akordeony</xsklad>
+ 
+ <rok>1989</rok>
+ <sklad>2 acc</sklad>
+ <wydawca>ABC</wydawca>
+</kompozycja>
+<kompozycja typ="orkiestra">
+ <tytul>Kindheit</tytul>
+ 
+ <rok>1989</rok>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Scherzo</tytul>
+ <xsklad>flet i akordeon</xsklad>
+ 
+ <rok>1989</rok>
+ <sklad>acc, fl</sklad>
+ <wydawca>BM</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Sonnenuhr</tytul>
+ <xsklad>flet i akordeon</xsklad>
+ 
+ <rok>1989</rok>
+ <sklad>acc, fl</sklad>
+ <wydawca>ABC, Ast</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Spring Sonata</tytul>
+ 
+ <rok>1989</rok>
+ <wydawca>BM</wydawca>
+ <nagranie>KM</nagranie>
+</kompozycja>
+<kompozycja typ="ad.libitum">
+ <tytul>Postludes for harmony instrument ze zbioru: Summer Multiplay</tytul>
+ 
+ <rok>1990</rok>
+ <wydawca>BM</wydawca>
+</kompozycja>
+<kompozycja typ="i.orkiestro">
+ <tytul>Scherzi na skrzypce i orkiestrę kameralną</tytul>
+ 
+ <rok>1990</rok>
+ <sklad>1 acc</sklad>
+ <wydawca>Astra</wydawca>
+</kompozycja>
+<kompozycja typ="ad.libitum">
+ <tytul>Six for Six – Six Phases for Six Instruments</tytul>
+ 
+ <rok>1990</rok>
+ <wydawca>BM</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Tre pezzi concertanti</tytul>
+ <xsklad>2 akordeony i perkusja</xsklad>
+ 
+ <rok>1990</rok>
+ <sklad>2 acc, batt</sklad>
+ <wydawca>BM</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Concerto della morte e della vita</tytul>
+ <xsklad>Utwory z udziałem akordeonu na tria o składzie mieszanym</xsklad>
+ 
+ <rok>1991</rok>
+ <sklad>ob (ossia sxf), 2 chitt (ossia cmb, 2 mbf, acc), vc</sklad>
+ <wydawca>BM</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Non omnis</tytul>
+ <xsklad>2 akordeony i perkusja</xsklad>
+ 
+ <rok>1991</rok>
+ <sklad>2 acc, batt</sklad>
+ <wydawca>BM</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Tableaux – hommage à Vincent van Gogh, Les Tournesols</tytul>
+ <krotki.tytul>Tableaux – Les Tournesols</krotki.tytul>
+ 
+ <rok>1991</rok>
+ <wydawca>Bala</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Scherzi-trio (wersja duńska)</tytul>
+ <xsklad>skrzypce, wiolonczela i akordeon</xsklad>
+ 
+ <rok>1992</rok>
+ <sklad>acc, vn, vc</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Scherzi-trio (wersja luksemburska)</tytul>
+ <xsklad>skrzypce, gitara i akordeon</xsklad>
+ 
+ <rok>1992</rok>
+ <sklad>acc, vn, chitt</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Nord-West z cyklu Winter Multiplay</tytul>
+ <xsklad>perkusja i akordeon</xsklad>
+ 
+ <rok>1993</rok>
+ <sklad>acc, batt</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Autumn Multiplay</tytul>
+ 
+ <rok>1994</rok>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Arabeska</tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1995</rok>
+ <wydawca>Astra</wydawca>
+</kompozycja>
+<kompozycja typ="orkiestra">
+ <tytul>Begegnungen</tytul>
+ 
+ <rok>1995</rok>
+ <wydawca>ABC</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Cztery wspomnienia lata</tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1995</rok>
+ <wydawca>Astra</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Die Eisenbahn, Variationen über ein Kinderliedchen</tytul>
+ <xsklad>2 akordeony</xsklad>
+ 
+ <rok>1995</rok>
+ <sklad>2 acc</sklad>
+ <wydawca>Jung</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>From Over for Violin (Cello) and Harmonietta</tytul>
+ <krotki.tytul>From Over</krotki.tytul>
+ <xsklad>4 akordeony w zespole instrumentalnym</xsklad>
+ 
+ <rok>1995</rok>
+ <sklad>vn (vc) solo, 3 acc, 1 acc basso, batt, 2 vni, vla, vc</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>From Over, Version 2 for Violin (Cello) and Accordion Ensemble</tytul>
+ <krotki.tytul>From Over, Version 2</krotki.tytul>
+ <xsklad>skrzypce(wiolonczela) solo, 10 akordeonów, perkusja</xsklad>
+ 
+ <rok>1995</rok>
+ <sklad>vn (vc) solo, 9 acc, 1 acc basso, batt</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Katedra w Oliwie</tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1995</rok>
+ <wydawca>Astra</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Logo</tytul>
+ <xsklad>5 akordeonów</xsklad>
+ 
+ <rok>1995</rok>
+ <sklad>4 acc, acc basso</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Maskerade (7 kleine Etüden in Variationsform)</tytul>
+ <krotki.tytul>Maskerade</krotki.tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1995</rok>
+ <wydawca>Jung</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Prząśniczka</tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1995</rok>
+ <wydawca>Astra</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Rondino</tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1995</rok>
+ <wydawca>Astra</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Sceny biblijne</tytul>
+ <xsklad>sopran solo i akordeon</xsklad>
+ 
+ <rok>1995</rok>
+ <sklad>acc, S solo</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Sonatina piccola</tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1995</rok>
+ <wydawca>Astra</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Suita tańców polskich</tytul>
+ <krotki.tytul>Suita!tańców polskich</krotki.tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1995</rok>
+ <wydawca>Astra</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Tancerka z porcelany</tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1995</rok>
+ <wydawca>Astra</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Trzy interludia</tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1995</rok>
+ <wydawca>Astra</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Trzy nocne obrazki</tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1995</rok>
+ <wydawca>Astra</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Trzy postludia</tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1995</rok>
+ <wydawca>Astra</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Trzy preludia</tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1995</rok>
+ <wydawca>Astra</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Śpiący niedźwiedź</tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1995</rok>
+ <wydawca>Astra</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>24 Capriccia</tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1996</rok>
+ <wydawca>Astra</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>24 Studi piccoli</tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1996</rok>
+ <wydawca>Astra</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Cadenza</tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1996</rok>
+ <wydawca>Astra</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Modus</tytul>
+ <xsklad>klarnet i akordeon</xsklad>
+ 
+ <rok>1996</rok>
+ <sklad>acc, cl</sklad>
+ <wydawca>Jung</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Sonatina burletta</tytul>
+ 
+ <rok>1996</rok>
+ <wydawca>Astra</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Sonatina fantasia</tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1996</rok>
+ <wydawca>Astra</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Sonatina polifonica</tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1996</rok>
+ <wydawca>Astra</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Sonatina ritmica</tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1996</rok>
+ <wydawca>Astra</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Sonatina rustica</tytul>
+ 
+ <rok>1996</rok>
+ <wydawca>Astra</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Sonatina sopresa</tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1996</rok>
+ <wydawca>Astra</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Sonatina velocita</tytul>
+ 
+ <rok>1996</rok>
+ <wydawca>Astra</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Sonatina vigorosa</tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1996</rok>
+ <wydawca>Astra</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Blaue Hortensie</tytul>
+ <xsklad>bas-baryron solo, 5 akordeonów, saksofon</xsklad>
+ 
+ <rok>1998</rok>
+ <sklad>5 acc, B-Brt, sxf(alto)</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Flashbacks, Version for Chamber Ensemble</tytul>
+ <krotki.tytul>Flashbacks</krotki.tytul>
+ <xsklad>2 akordeony, cymbały, kontrabas</xsklad>
+ 
+ <rok>1998</rok>
+ <sklad>2 acc, cimbalom or cmb or chitt or mbf, cb</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Flashbacks, Version 2</tytul>
+ <xsklad>flet, mamrimba i akordeon</xsklad>
+ 
+ <rok>1998</rok>
+ <sklad>acc, fl, mbf</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="koncerty">
+ <tytul>Re-Construction for Accordion and Orchestra</tytul>
+ <krotki.tytul>Re-Construction</krotki.tytul>
+ 
+ <rok>1999</rok>
+ <sklad>2fl, 2ob, 2cl, 2fg-3tr, 2cr, 2tn-batt(2 esec)-acc solo-archi </sklad>
+ <wydawca>Astra</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Deja vu Quintette</tytul>
+ <xsklad>kwartet smyczkowy i akordeon</xsklad>
+ 
+ <rok>2000</rok>
+ <sklad>acc, quartetto d’archi</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>For Young Persons</tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>2000</rok>
+ <wydawca>Jung</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Im Zauberwald</tytul>
+ <xsklad>flet i akordeon</xsklad>
+ 
+ <rok>2001</rok>
+ <sklad>acc, fl dolce</sklad>
+ <wydawca>HE</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>The Cockchafers</tytul>
+ <xsklad>4 wiolonczele i akordeon</xsklad>
+ 
+ <rok>2001</rok>
+ <sklad>acc, 4 v-celli</sklad>
+ <wydawca>Accent Edition</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>From the Life, Triptych for concert-accordion and string quartet)</tytul>
+  <krotki.tytul>From the Life</krotki.tytul>
+ <xsklad>kwartet smyczkowy i akordeon</xsklad>
+ 
+ <rok>2002</rok>
+ <sklad>acc, quartetto d’archi</sklad>
+ <wydawca>Accent Edition</wydawca>
+ </kompozycja>
+<kompozycja typ="solo">
+ <tytul>Supernova</tytul>
+ 
+ <rok>2001</rok>
+ <wydawca>Accent Edition</wydawca>
+ </kompozycja>
+<kompozycja typ="solo">
+    <tytul>Progress</tytul>
+    
+    <rok>2001</rok>
+    <wydawca>Accent Edition</wydawca>
+  </kompozycja>
+<kompozycja typ="m.kameralna">
+    <tytul>Movement I</tytul>
+    <xsklad>klarnet basowy i akordeon</xsklad>
+    
+    <rok>2004</rok>
+    <sklad>acc, cl basso</sklad>
+  </kompozycja>
+<kompozycja typ="m.kameralna">
+    <tytul>Movement II</tytul>
+    <xsklad>klarnet i akordeon</xsklad>
+    
+    <rok>2004</rok>
+    <sklad>acc, cl</sklad>
+  </kompozycja>
+<kompozycja typ="koncerty">
+    <tytul>Little Concerto</tytul>
+    
+    <rok>2005</rok>
+    <sklad>acc solo, archi</sklad>
+  </kompozycja>
+<kompozycja typ="koncerty">
+    <tytul>Children Concerto</tytul>
+    
+    <rok>2005</rok>
+    <sklad>acc solo, archi</sklad>
+  </kompozycja>
+<kompozycja typ="solo">
+    <tytul>Dominique - małe wariacje na akordeon</tytul>
+    
+    <rok>2005</rok>
+  </kompozycja>
+<kompozycja typ="m.kameralna">
+    <tytul>A-Na-Capri</tytul>
+    <xsklad>5 akordeonów</xsklad>
+    
+     <rok>2005</rok>
+    <sklad>4 acc, acc basso</sklad>
+  </kompozycja>
+<kompozycja typ="m.kameralna">
+    <tytul>Italian Summer</tytul>
+    <xsklad>obój i akordeon</xsklad>
+    
+    <rok/>
+    <sklad>acc, ob</sklad>
+  </kompozycja>
+<kompozycja typ="solo">
+    <tytul>So small...</tytul>
+    
+    <rok/>
+  </kompozycja>
+<kompozycja typ="solo">
+    <tytul>Italian delicatessen</tytul>
+    
+    <rok/>
+  </kompozycja>
+<kompozycja typ="m.kameralna">
+    <tytul>The Life of May-Bugs</tytul>
+    <xsklad>4 akordeony</xsklad>
+    
+    <rok>2005</rok>
+    <sklad>4 acc</sklad>
+  </kompozycja>
+<kompozycja typ="m.kameralna">
+    <tytul>Masurian Lakes</tytul>
+    <xsklad>5 akordeonów</xsklad>
+    
+    <rok>2005</rok>
+    <sklad>4 acc, acc basso</sklad>
+  </kompozycja>
+<kompozycja typ="m.kameralna">
+    <tytul>Atma-Multiplay</tytul>
+    <xsklad>obój i akordeon</xsklad>
+    
+    <rok>2006</rok>
+    <sklad>acc, ob</sklad>
+  </kompozycja>
+<kompozycja typ="m.kameralna">
+    <tytul>Astral Con-tact</tytul>
+    <xsklad>theremin i kwintet akordeonowy</xsklad>
+    
+    <rok>2006</rok>
+    <sklad>theremin, 5 acc</sklad>
+  </kompozycja>
+<kompozycja typ="m.kameralna">
+    <tytul>Sunrise AC</tytul>
+    <xsklad>4 akordeony</xsklad>
+    
+    <rok>2006</rok>
+    <sklad>4 acc</sklad>
+  </kompozycja>
+<kompozycja typ="m.kameralna">
+    <tytul>Atlantic AC</tytul>
+    <xsklad>4 kontrabasy i 4 akordeony</xsklad>
+    
+     <rok>2006</rok>
+    <sklad>4 acc, 4 cb</sklad>
+  </kompozycja>
+<kompozycja typ="m.kameralna">
+    <tytul>Tańce dworskie</tytul>
+    <xsklad>skrzypce, gitara i akordeon</xsklad>
+    
+     <rok>2007</rok>
+    <sklad>acc, vn, chitt</sklad>
+  </kompozycja>
+<kompozycja typ="m.kameralna">
+    <tytul>Tańce dworskie</tytul>
+    <xsklad>flet, marimba i akordeon</xsklad>
+    
+     <rok>2007</rok>
+    <sklad>acc, fl, mbf</sklad>
+  </kompozycja>
+<kompozycja typ="m.kameralna">
+    <tytul>Tańce dworskie</tytul>
+    <xsklad>skrzypce, marimba i akordeon</xsklad>
+    
+     <rok>2007</rok>
+    <sklad>acc, vn, mbf</sklad>
+  </kompozycja>
+<kompozycja typ="m.kameralna">
+    <tytul>Tańce dworskie</tytul>
+    <xsklad>obój, gitara i akordeon</xsklad>
+    
+     <rok>2007</rok>
+    <sklad>acc, ob, chitt</sklad>
+  </kompozycja>
+<kompozycja typ="m.kameralna">
+    <tytul>Tańce dworskie</tytul>
+    <xsklad>ksylofon, gitara i akordeon</xsklad>
+    
+    <rok>2007</rok>
+    <sklad>acc, xlf, chitt</sklad>
+  </kompozycja>
+<kompozycja typ="m.kameralna">
+    <tytul>Tańce dworskie</tytul>
+    <xsklad>obój, marimba i akordeon</xsklad>
+    
+    <rok/>
+    <sklad>acc, ob, mbf</sklad>
+  </kompozycja>
+<kompozycja typ="m.kameralna">
+    <tytul>Verwandlung 70</tytul>
+    <xsklad>saksofon i 2 kwartety akordeonowe</xsklad>
+    
+    <rok>2007</rok>
+    <sklad>8 acc, sxf solo</sklad>
+  </kompozycja>
+<kompozycja typ="m.kameralna">
+    <tytul>The New Astral Con-tact</tytul>
+    <xsklad>flet i kwintet akordeonowy</xsklad>
+    
+    <rok>2007</rok>
+    <sklad>5 acc, fl</sklad>
+  </kompozycja>
+<kompozycja typ="orkiestra">
+    <tytul>Cztery nokturny kurpiowskie</tytul>
+    <xsklad>harfa (gitara) i orkiestra akordeonowa</xsklad>
+    
+    <rok>1973</rok>
+    <sklad>ar/chitt, acc orch</sklad>
+  </kompozycja>
+<kompozycja typ="koncerty">
+    <tytul>Cztery nokturny kurpiowskie</tytul>
+    
+    <rok/>
+    <sklad>acc solo, archi</sklad>
+  </kompozycja>
+<kompozycja typ="m.kameralna">
+    <tytul>Concert Music</tytul>
+    <xsklad>3 akordeony i perkusja</xsklad>
+    
+    <rok>2007</rok>
+    <sklad>3 acc, batt</sklad>
+  </kompozycja>
+<kompozycja typ="m.kameralna">
+    <tytul>Night Birds</tytul>
+    <xsklad>akordeon i kwartet smyczkowy</xsklad>
+    
+    <rok>2007</rok>
+    <sklad>acc, quartetto d’archi</sklad>
+  </kompozycja>
+<kompozycja typ="m.kameralna">
+    <tytul>Night Birds</tytul>
+    <xsklad>akordeon i 4 wiolonczele</xsklad>
+    
+    <rok>2007</rok>
+    <sklad>acc, 4 vc</sklad>
+  </kompozycja>
+<kompozycja typ="m.kameralna">
+    <tytul>Night Birds</tytul>
+    <xsklad>akordeon i 4 kontrabasy</xsklad>
+    
+    <rok>2007</rok>
+    <sklad>acc, 4 cb</sklad>
+  </kompozycja>
+<kompozycja typ="m.kameralna">
+    <tytul>Night Birds</tytul>
+    <xsklad>marimba i 4 akordeony</xsklad>
+    
+    <rok>2007</rok>
+    <sklad>4 acc, mbf</sklad>
+  </kompozycja>
+<kompozycja typ="m.kameralna">
+    <tytul>The Night Flight</tytul>
+    <xsklad>orkiestra akordeonowa</xsklad>
+    
+    <rok>2008</rok>
+    <sklad>acc orch</sklad>
+  </kompozycja>
+<kompozycja typ="m.kameralna">
+    <tytul>Sun Plays</tytul>
+    <xsklad>4 akordeony</xsklad>
+    
+    <rok>2008</rok>
+    <sklad>4 acc</sklad>
+  </kompozycja>
+<kompozycja typ="m.kameralna">
+    <tytul>Interval Games</tytul>
+    <xsklad>4 akordeony</xsklad>
+    
+    <rok/>
+    <sklad>4 acc</sklad>
+  </kompozycja>
+<kompozycja typ="m.kameralna">
+    <tytul>Four Colour of the Sky</tytul>
+    <xsklad>4 akordeony</xsklad>
+    
+    <rok/>
+    <sklad>4 acc</sklad>
+  </kompozycja>
+<kompozycja typ="m.kameralna">
+    <tytul>Morning in the Garden</tytul>
+    <xsklad>4 akordeony</xsklad>
+    
+    <rok/>
+    <sklad>4 acc</sklad>
+  </kompozycja>
+<kompozycja typ="m.kameralna">
+    <tytul>Danza capricciosa</tytul>
+    <xsklad>klarnet, gitara i akordeon</xsklad>
+    
+    <rok/>
+    <sklad>acc, cl, chitt</sklad>
+  </kompozycja>
+<kompozycja typ="solo">
+    <tytul>Exoten</tytul>
+    
+    <rok/>
+  </kompozycja>
+<kompozycja typ="m.kameralna">
+    <tytul>Heilige Nacht</tytul>
+    <xsklad>orkiestra akordeonowa</xsklad>
+    
+    <rok/>
+    <sklad>acc orch</sklad>
+  </kompozycja>
+<kompozycja typ="m.kameralna">
+    <tytul>Vier Sonatinen</tytul>
+    <xsklad>flet (skrzypce) i akordeon</xsklad>
+    
+    <rok/>
+    <sklad>acc, fl/vn</sklad>
+  </kompozycja>
+<kompozycja typ="solo">
+  <tytul>Epiphaneia</tytul>
+  
+  <rok>2003</rok>
+  <wydawca>Accent Edition</wydawca>
+  <!-- utwór trwa ok. 6min-->
+  <zrodlo data="2004/04/04"/>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+  <tytul>Signs</tytul>
+  <xsklad>gitara i akordeon</xsklad>
+  
+  <rok>2003</rok>
+  <sklad>acc, chit</sklad>
+  <wydawca>Accent Edition</wydawca>
+  <zrodlo data="2003/12/21"/>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+  <tytul>Frülingsblumen (Wiosenne kwiaty)</tytul>
+  <xsklad>3 akordeony</xsklad>
+  
+  <rok>2000</rok>
+  <sklad>3 acc</sklad>
+  <wydawca>Musikverlag Ralf Jung</wydawca>
+  <zrodlo data="2004/07/09">katalog wydawnictwa Accent Edition</zrodlo>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+  <tytul>Bei den Heinzelmännchen (U krasnoludków)</tytul>
+  <xsklad>3 akordeony</xsklad>
+  
+  <rok>2000</rok>
+  <sklad>3 acc</sklad>
+  <wydawca>Musikverlag Ralf Jung</wydawca>
+  <zrodlo data="2004/07/09">katalog wydawnictwa Accent Edition</zrodlo>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+  <tytul>Ein Frülingstag (Wiosenny dzień)</tytul>
+  <xsklad>3 akordeony</xsklad>
+  
+  <rok>2000</rok>
+  <sklad>3 acc</sklad>
+  <wydawca>Musikverlag Ralf Jung</wydawca>
+  <zrodlo data="2004/07/09">katalog wydawnictwa Accent Edition</zrodlo>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+  <tytul>Windmühlen (Wiatraki)</tytul>
+  <xsklad>flet i akordeon</xsklad>
+  
+  <rok>1994</rok>
+  <sklad>acc, fl</sklad>
+  <wydawca>Musikverlag Ralf Jung</wydawca>
+  <zrodlo data="2004/07/09">katalog wydawnictwa Accent Edition</zrodlo>
+</kompozycja>
+<kompozycja typ="solo">
+  <tytul>Maskerade (Maskarada)</tytul>
+  <xsklad/>
+  
+  <rok>2000</rok>
+  <sklad>acc solo</sklad>
+  <wydawca>Musikverlag Ralf Jung</wydawca>
+  <zrodlo data="2004/07/09">katalog wydawnictwa Accent Edition</zrodlo>
+</kompozycja>
+<kompozycja typ="solo">
+  <tytul>Für junge Leute (Dla młodych)</tytul>
+  <xsklad/>
+  
+  <rok>2000</rok>
+  <sklad>acc solo</sklad>
+  <wydawca>Musikverlag Ralf Jung</wydawca>
+  <zrodlo data="2004/07/09">katalog wydawnictwa Accent Edition</zrodlo>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+  <tytul>Die Käfer (Chrząszcze)</tytul>
+  <xsklad>4 wiolonczele i akordeon</xsklad>
+  
+  <rok>1999</rok>
+  <sklad>acc, 4 vc</sklad>
+  <wydawca>Musikverlag Ralf Jung</wydawca>
+  <zrodlo data="2004/07/09">katalog wydawnictwa Accent Edition</zrodlo>
+</kompozycja>
+<kompozycja typ="solo">
+  <tytul>Rotkäpchen (Czerwony Kapturek)</tytul>
+  <xsklad/>
+  
+  <rok>2002</rok>
+  <sklad>acc solo</sklad>
+  <wydawca>Musikverlag Ralf Jung</wydawca>
+  <zrodlo data="2004/07/09">katalog wydawnictwa Accent Edition</zrodlo>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+  <tytul>Am Morgen (O poranku) – Sceny z życia rodzinnego)</tytul>
+  <xsklad>flet, skrzypce i akordeon</xsklad>
+  
+  <rok>2001</rok>
+  <sklad>acc, fl, v-no</sklad>
+  <wydawca>Musikverlag Ralf Jung</wydawca>
+  <zrodlo data="2004/07/09">katalog wydawnictwa Accent Edition</zrodlo>
+</kompozycja>
+<kompozycja typ="solo">
+  <tytul>Imaginary Dances</tytul>
+  <xsklad/>
+  
+  <rok>2002</rok>
+  <sklad>acc solo</sklad>
+  <wydawca>Accent Edition</wydawca>
+  <zrodlo data="2004/07/09">katalog wydawnictwa Accent Edition</zrodlo>
+</kompozycja>
+<kompozycja typ="ad.libitum">
+  <tytul>Autumn Multiplay</tytul>
+  <xsklad/>
+  
+  <rok>1994</rok>
+  <sklad>acc</sklad>
+  <wydawca>Accent Edition</wydawca>
+  <zrodlo data="2004/07/09">katalog wydawnictwa Accent Edition</zrodlo>
+</kompozycja>
+<kompozycja typ="solo">
+  <tytul>Sonatina Danza</tytul>
+  <xsklad/>
+  
+  <rok>2001</rok>
+  <sklad>acc solo</sklad>
+  <wydawca>Edition Harmonia Nova</wydawca>
+  <zrodlo data="2004/07/09">katalog wydawnictwa Accent Edition</zrodlo>
+</kompozycja>
+<kompozycja typ="solo">
+  <tytul>Sonatina Replica</tytul>
+  <xsklad/>
+  
+  <rok>2001</rok>
+  <sklad>acc solo</sklad>
+  <wydawca>Edition Harmonia Nova</wydawca>
+  <zrodlo data="2004/07/09">katalog wydawnictwa Accent Edition</zrodlo>
+</kompozycja>
+<kompozycja typ="solo">
+  <tytul>Sonatina Alternata</tytul>
+  <xsklad/>
+  
+  <rok>2002</rok>
+  <sklad>acc solo</sklad>
+  <wydawca>Edition Harmonia Nova</wydawca>
+  <zrodlo data="2004/07/09">katalog wydawnictwa Accent Edition</zrodlo>
+</kompozycja>
+<kompozycja typ="solo">
+  <tytul>Sonatina Toccatina</tytul>
+  <xsklad/>
+  
+  <rok>2002</rok>
+  <sklad>acc solo</sklad>
+  <wydawca>Edition Harmonia Nova</wydawca>
+  <zrodlo data="2004/07/09">katalog wydawnictwa Accent Edition</zrodlo>
+</kompozycja>
+<kompozycja typ="solo">
+  <tytul>Sonatina Parodia</tytul>
+  <xsklad/>
+  
+  <rok>2002</rok>
+  <sklad>acc solo</sklad>
+  <wydawca>Edition Harmonia Nova</wydawca>
+  <zrodlo data="2004/07/09">katalog wydawnictwa Accent Edition</zrodlo>
+</kompozycja>
+<kompozycja typ="solo">
+  <tytul>Pavana. Variationen über ein Thema von Luis Milán </tytul>
+  <xsklad/>
+  
+  <rok>2001</rok>
+  <sklad>acc solo</sklad>
+  <wydawca>Edition Harmonia Nova</wydawca>
+  <zrodlo data="2004/07/09">katalog wydawnictwa Accent Edition</zrodlo>
+</kompozycja>
+<kompozycja typ="solo">
+  <tytul>Galant. Variationen über einen altfranzösischen Volkstanz</tytul>
+  <xsklad/>
+  
+  <rok>2001</rok>
+  <sklad>acc</sklad>
+  <wydawca>Edition Harmonia Nova</wydawca>
+  <zrodlo data="2004/07/09">katalog wydawnictwa Accent Edition</zrodlo>
+</kompozycja>
+<kompozycja typ="solo">
+  <tytul>Chaconne</tytul>
+  <xsklad/>
+  
+  <rok>2000</rok>
+  <sklad>acc solo</sklad>
+  <wydawca>Edition Harmonia Nova</wydawca>
+  <zrodlo data="2004/07/09">katalog wydawnictwa Accent Edition</zrodlo>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+  <tytul>Il tempo</tytul>
+  <xsklad>perkusja i akordeon</xsklad>
+  
+  <rok>2001</rok>
+  <sklad>acc, batt (2 esec)</sklad>
+  <wydawca>Edition Harmonia Nova</wydawca>
+  <zrodlo data="2004/07/09">katalog wydawnictwa Accent Edition</zrodlo>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+  <tytul>Sonatina Giocosa</tytul>
+  <xsklad>flet (skrzypce) i akordeon</xsklad>
+  
+  <rok>2001</rok>
+  <sklad>acc, fl</sklad>
+  <sklad>acc, v-no</sklad>
+  <wydawca>Edition Harmonia Nova</wydawca>
+  <zrodlo data="2004/07/09">katalog wydawnictwa Accent Edition</zrodlo>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+  <tytul>Sonatina Sonatina Capricciosa</tytul>
+  <xsklad>flet (skrzypce) i akordeon</xsklad>
+  
+  <rok>2001</rok>
+  <sklad>acc, fl</sklad>
+  <sklad>acc, v-no</sklad>
+  <wydawca>Edition Harmonia Nova</wydawca>
+  <zrodlo data="2004/07/09">katalog wydawnictwa Accent Edition</zrodlo>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+  <tytul>Sonatina Illusoria</tytul>
+  <xsklad>flet (skrzypce) i akordeon</xsklad>
+  
+  <rok>2001</rok>
+  <sklad>acc, fl</sklad>
+  <sklad>acc, v-no</sklad>
+  <wydawca>Edition Harmonia Nova</wydawca>
+  <zrodlo data="2004/07/09">katalog wydawnictwa Accent Edition</zrodlo>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+  <tytul>Sonatina Festiva</tytul>
+  <xsklad>flet (skrzypce) i akordeon</xsklad>
+  
+  <rok>2001</rok>
+  <sklad>acc, fl</sklad>
+  <sklad>acc, v-no</sklad>
+  <wydawca>Edition Harmonia Nova</wydawca>
+  <zrodlo data="2004/07/09">katalog wydawnictwa Accent Edition</zrodlo>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+  <tytul>Eine Kleine Herbstmusik (Mała muzyka jesienna)</tytul>
+  <xsklad>gitara i akordeon</xsklad>
+  
+  <rok>2001</rok>
+  <sklad>acc, chit</sklad>
+  <wydawca>Edition Harmonia Nova</wydawca>
+  <zrodlo data="2004/07/09">katalog wydawnictwa Accent Edition</zrodlo>
+</kompozycja>
+
+<kompozycja typ="m.kameralna">
+  <tytul>Vier Stücke (Cztery Utwory)</tytul>
+  <xsklad>puzon i akordeon</xsklad>
+  
+  <rok>2001</rok>
+  <sklad>acc, tn</sklad>
+  <wydawca>Edition Harmonia Nova</wydawca>
+  <zrodlo data="2004/07/09">katalog wydawnictwa Accent Edition</zrodlo>
+</kompozycja>
+
+<kompozycja typ="solo">
+  <tytul>Seereise (Podróż morska</tytul>
+  <xsklad/>
+  
+  <rok>2001</rok>
+  <sklad>acc solo</sklad>
+  <wydawca>Edition Harmonia Nova</wydawca>
+  <zrodlo data="2004/07/09">katalog wydawnictwa Accent Edition</zrodlo>
+</kompozycja>
+<kompozycja typ="solo">
+  <tytul>Im Sonnenschein (W promieniach słońca)</tytul>
+  <xsklad/>
+  
+  <rok>2001</rok>
+  <sklad>acc solo</sklad>
+  <wydawca>Edition Harmonia Nova</wydawca>
+  <zrodlo data="2004/07/09">katalog wydawnictwa Accent Edition</zrodlo>
+</kompozycja>
+<kompozycja typ="solo">
+  <tytul>My Family</tytul>
+  <xsklad/>
+  
+  <rok>2001</rok>
+  <sklad>acc solo</sklad>
+  <wydawca>Accent Edition</wydawca>
+  <zrodlo data="2004/07/09">katalog wydawnictwa Accent Edition</zrodlo>
+</kompozycja>
+<kompozycja typ="solo">
+  <tytul>Little Preludes</tytul>
+  <xsklad/>
+  
+  <rok>2001</rok>
+  <sklad>acc solo</sklad>
+  <wydawca>Accent Edition</wydawca>
+  <zrodlo data="2004/07/09">katalog wydawnictwa Accent Edition</zrodlo>
+</kompozycja>
+<kompozycja typ="ad.libitum">
+  <tytul>Complesso</tytul>
+  
+  <rok>2003</rok>
+  <wydawca>Accent Edition</wydawca>
+  <zrodlo data="2004/07/09">katalog wydawnictwa Accent Edition</zrodlo>
+</kompozycja>
+<kompozycja typ="ad.libitum">
+  <tytul>Combi</tytul>
+  
+  <rok>2003</rok>
+  <wydawca>Accent Edition</wydawca>
+  <zrodlo data="2004/07/09">katalog wydawnictwa Accent Edition</zrodlo>
+</kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Przybylski.D'><!-- *** Przybylski:Dariusz# -->
+
+<kompozycja typ="m.kameralna">
+    <tytul>Discours II op.63</tytul>
+    <xsklad>klarnet, akordeon, gitara elektryczna i wiolonczela</xsklad>
+   <rok>2010</rok>
+   <sklad>cl b, vc, acc, chit(el)</sklad>
+ <zrodlo>utwór napisany dla Scontri Ensemble</zrodlo>
+  </kompozycja>
+<kompozycja typ="koncerty">
+    <tytul>Koncert na akordeon i orkiestrę „denn ich steure mit meinen Genossen über das dunkle Meer zu unverständlichen Völkern”</tytul>
+    
+    <rok>2011</rok>
+  </kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Przydworska.A'><!-- *** Przydworska:Anna Maria# -->
+
+<kompozycja typ="m.kameralna">
+  <tytul>Emocje na głos, akordeon, fortepian i wiolonczelę</tytul>
+  <krotki.tytul>Emocje</krotki.tytul>
+  <xsklad>głos, akordeon, fortepian i wiolonczela</xsklad>
+  
+  <rok>2072</rok>
+  <sklad>canto, acc, pfte, vc</sklad>
+</kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Ptaszyńska.M'><!-- *** Ptaszyńska:Marta# -->
+
+<kompozycja typ="m.kameralna">
+    <tytul>The Last Waltz in Vienna</tytul>
+    <xsklad>3 akordeony</xsklad>
+    
+    <rok>2001</rok>
+    <sklad>3 acc</sklad>
+  </kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Puchalska.B'><!-- *** Puchalska:Barbara# -->
+
+<kompozycja typ="solo">
+ <tytul>Sonata breve</tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1987</rok>
+ <wydawca>manus</wydawca>
+</kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Pyzik.K'><!-- *** Pyzik:Kazimierz# -->
+
+<kompozycja typ="solo">
+ <tytul>The Parts</tytul>
+ <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1979</rok>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="i.orkiestro">
+ <tytul>Action I na orkiestrę</tytul>
+    <xsklad>5 akordeonów w orkeistrze</xsklad>
+ 
+ <rok>1982</rok>
+ <sklad>5 acc</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="i.orkiestro">
+ <tytul>Action II z dyrygentem i bez dyrygenta attacca</tytul>
+    <xsklad>4 akordeony w orkiestrze</xsklad>
+ 
+ <rok>1983</rok>
+ <sklad>4 acc</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Canzona in F cis</tytul>
+ <xsklad>klarnet, marimba, akordeon, kontrabas</xsklad>
+ 
+ <rok>1984</rok>
+ <sklad>acc, cl, mbf, c-basso</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="koncerty">
+ <tytul>Holomorfic Figures</tytul>
+ 
+ <rok>1987</rok>
+ <sklad>12 fiatti-batt(2 esec)-acc solo</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Cykl 3</tytul>
+ <xsklad>flet, harfa, wiolonczela i akordeon</xsklad>
+ 
+ <rok>1988</rok>
+ <sklad>acc, fl, ar, vc</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Deferens</tytul>
+ <xsklad>perkusja i akordeon</xsklad>
+ 
+ <rok>1991</rok>
+ <sklad>acc, batt</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>SiPs</tytul>
+ <xsklad>kontrabas i akordeon</xsklad>
+ 
+ <rok>1991</rok>
+ <sklad>acc, cb</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Limes</tytul>
+ <xsklad>wiolonczela, kontrabas, akordeon, 2 syntezatory</xsklad>
+ 
+ <rok>1992</rok>
+ <sklad>acc, vc, cb, 2 synth</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Halucynacja nr 4</tytul>
+ <xsklad>kwartet smyczkowy i akordeon</xsklad>
+ 
+ <rok>1999</rok>
+ <sklad>acc, quaretto d’archi</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Cantata In Honorem Ioanni Brosci Curzeloviensis „Magna et vasta est rerum univeritas”</tytul>
+ <krotki.tytul>Cantata</krotki.tytul>
+ <xsklad>Utwory wokalno-instrumentalne</xsklad>
+ 
+ <rok>2000</rok>
+ <sklad>recit,   </sklad>
+ <wydawca>manus</wydawca>
+ </kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Rabiński.J'><!-- *** Rabiński:Jacek# -->
+
+<kompozycja typ="m.kameralna">
+ <tytul>Il vento sferza</tytul>
+ <xsklad>gitara i akordeon</xsklad>
+ 
+ <rok>1986</rok>
+ <sklad>acc, chitt</sklad>
+ <wydawca>HZ</wydawca>
+ <nagranie>CD</nagranie>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Erschaffungstanz</tytul>
+ <xsklad>2 klarnety, 2 fagoty i akordeon</xsklad>
+ 
+ <rok>1989</rok>
+ <sklad>acc, 2 cl, 2 fg</sklad>
+ <wydawca>HZ</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Tanz des Lebens</tytul>
+ <xsklad>2 klarnety, 2 fagoty i akordeon</xsklad>
+ 
+ <rok>1989</rok>
+ <sklad>acc, 2 cl, 2 fg</sklad>
+ <wydawca>HZ</wydawca>
+ <nagranie>CD</nagranie>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Totentanz</tytul>
+ <xsklad>2 klarnety, 2 fagoty i akordeon</xsklad>
+ 
+ <rok>1989</rok>
+ <sklad>acc, 2 cl, 2 fg</sklad>
+ <wydawca>HZ</wydawca>
+ <nagranie>CD</nagranie>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Fontaine de joie</tytul>
+ <xsklad>organy i 2 akordeony</xsklad>
+ 
+ <rok>1990</rok>
+ <sklad>2 acc, org</sklad>
+ <wydawca>HZ</wydawca>
+ <nagranie>CD</nagranie>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Joie de vivre</tytul>
+    <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1991</rok>
+ <wydawca>HZ</wydawca>
+ <nagranie>CD</nagranie>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Rosa dei venti</tytul>
+ <xsklad>gitara i akordeon</xsklad>
+ 
+ <rok>1994</rok>
+ <sklad>acc, chitt</sklad>
+ <wydawca>HZ</wydawca>
+ <nagranie>CD</nagranie>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Vento in calma</tytul>
+ <xsklad>gitara i akordeon</xsklad>
+ 
+ <rok>1995</rok>
+ <sklad>acc, chitt</sklad>
+ <wydawca>HZ</wydawca>
+ <nagranie>CD</nagranie>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Jeux pour deux</tytul>
+ <xsklad>2 akordeony</xsklad>
+ 
+ <rok>1996</rok>
+ <sklad>2 acc</sklad>
+ <wydawca>HZ</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+    <tytul>5 wariacji na temat „Sto lat”</tytul>
+    <xsklad>większy skład</xsklad>
+    
+    <rok>1996</rok>
+    <sklad>fl dolce, cl, sxf, cr, vn, vc, chitt, acc</sklad>
+  </kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Radkiewicz.W'><!-- *** Radkiewicz:Wiska# -->
+
+<kompozycja typ="solo">
+ <tytul>To Whom it May Concern</tytul>
+    <xsklad>akordeon solo</xsklad>
+ 
+ <rok>1983</rok>
+ <wydawca>manus</wydawca>
+</kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Rentowski.W'><!-- *** Rentowski:Wiesław# -->
+
+<kompozycja typ="m.kameralna">
+ <tytul>Two Faces</tytul>
+ <xsklad>3 akordeony</xsklad>
+ 
+ <rok>1983</rok>
+ <sklad>3 acc</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Por dia de anos</tytul>
+ <xsklad>organy i 2 akordeony</xsklad>
+ 
+ <rok>1987</rok>
+ <sklad>2 acc, org</sklad>
+ <wydawca>POM</wydawca>
+ <nagranie>LP</nagranie>
+</kompozycja>
+<kompozycja typ="i.orkiestro">
+ <tytul>Wayang, dla 19 wykonawców</tytul>
+    <xsklad>1 akordeon w zespole</xsklad>
+ 
+ <rok>1989</rok>
+ <sklad>1 acc</sklad>
+ <wydawca>manus</wydawca>
+ <nagranie>LP</nagranie>
+</kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Rudziński.W'><!-- *** Rudziński:Witold# -->
+
+<kompozycja typ="i.orkiestro">
+ <tytul>Chłopi, opera</tytul>
+    <xsklad>1 akordeon w orkiestrze</xsklad>
+ 
+ <rok>1972</rok>
+ <sklad>1 acc</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Rudziński.Z'><!-- *** Rudziński:Zbigniew# -->
+
+<kompozycja typ="m.kameralna">
+ <tytul>Trzy portrety romantyczne</tytul>
+ <xsklad>2 akordeony</xsklad>
+ 
+ <rok>1980</rok>
+ <sklad>2 acc</sklad>
+ <wydawca>AA</wydawca>
+</kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Rychlik.J'><!-- *** Rychlik:Józef# -->
+
+<kompozycja typ="m.kameralna">
+ <tytul>Buciki</tytul>
+ <xsklad>Utwory wokalno-instrumentalne</xsklad>
+ 
+ <rok>1993</rok>
+ <sklad>acc, v-no, v-cello, tre voci</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Rytel.P'><!-- *** Rytel:Piotr# -->
+
+<kompozycja typ="solo">
+    <tytul>Sześć preludiów</tytul>
+    
+    <rok>1950</rok>
+  </kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Sajka.J'><!-- *** Sajka:Jacek# -->
+
+<kompozycja typ="m.kameralna">
+    <tytul>Noumenon</tytul>
+    <xsklad>kwartet smyczkowy i akordeon</xsklad>
+    
+    <rok>1999</rok>
+    <sklad>acc, quaretto d’archi</sklad>
+  </kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Sarnecki.P'><!-- *** Sarnecki:Piotr# -->
+
+<kompozycja typ="m.kameralna">
+    <tytul>3 luty 1909</tytul>
+    <xsklad>kwartet smyczkowy i akordeon</xsklad>
+    
+    <rok>2009</rok>
+    <sklad>acc, quartetto d’archi</sklad>
+  </kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Sarwas.J'><!-- *** Sarwas:Jakub# -->
+
+<kompozycja typ="m.kameralna">
+    <tytul>Karawane</tytul>
+    <xsklad>sopran, klarnet, puzon, akordeon i gitara elektryczna</xsklad>
+    <rok>2004</rok>
+    <sklad>S, cl, tn, acc, chitt el</sklad>
+  </kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Sawa.M'><!-- *** Sawa:Marian# -->
+
+<kompozycja typ="m.kameralna">
+ <tytul>Suita</tytul>
+ <xsklad>organy i akordeon</xsklad>
+ 
+ <rok>1990</rok>
+ <sklad>acc, org</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+  <tytul>Sekwens</tytul>
+  
+  <rok>1995</rok>
+</kompozycja>
+<kompozycja typ="solo">
+  <tytul>Sonatina</tytul>
+  
+  <rok>1995</rok>
+</kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Schaeffer.B'><!-- *** Schaeffer:Bogusław# -->
+
+<kompozycja typ="koncerty">
+ <tytul>Koncert na akordeon i orkiestrę</tytul>
+ <krotki.tytul>Koncert!na akordeon i orkiestrę</krotki.tytul>
+ 
+ <rok>1985</rok>
+ <sklad>acc, orch</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Summer Music</tytul>
+ <xsklad>fortepian i akordeon</xsklad>
+ 
+ <rok>1989</rok>
+ <sklad>acc, pf</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Two</tytul>
+ <xsklad>Utwory z taśmą</xsklad>
+ 
+ <rok>1989</rok>
+ <sklad>acc, fl, batt, nastro, live el</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+
+<kompozycja typ="m.kameralna">
+ <tytul>Image sonore</tytul>
+ <xsklad>flet, saksofon i akordeon</xsklad>
+ <rok>2000</rok>
+ <sklad>acc, fl, sxf</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+
+<kompozycja typ="solo">
+ <tytul>Image Sonore II</tytul>
+ 
+ <rok>2000</rok>
+ <wydawca>manus</wydawca>
+ </kompozycja>
+<kompozycja typ="m.kameralna">
+    <tytul>CLACCO</tytul>
+    <xsklad>klarnet i akordeon</xsklad>
+    
+    <rok>2005</rok>
+    <sklad>acc, cl</sklad>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+    <tytul>Max Ernst Variations</tytul>
+    <xsklad>saksofon, akordeon, fortepian i komputer</xsklad>
+    
+    <rok>1998</rok>
+    <sklad>sxf, acc, pfte, computer</sklad>
+  </kompozycja>
+<kompozycja typ="m.kameralna">
+    <tytul>Kreuzweg 11</tytul>
+    <xsklad>saksofon, akordeon, perkusja i altówka</xsklad>
+    
+    <rok>2003</rok>
+    <sklad>sxf, acc, batt, vl</sklad>
+  </kompozycja>
+<kompozycja typ="m.kameralna">
+    <tytul>Kompozycja</tytul>
+    <xsklad>gitaaę i akordeon</xsklad>
+    
+    <rok>2004</rok>
+    <sklad>acc, chitt</sklad>
+  </kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Sielicki.E'><!-- *** Sielicki:Edward# -->
+
+<kompozycja typ="m.kameralna">
+ <tytul>Trio-sonata</tytul>
+ <xsklad>gitara, wibrafon i akordeon</xsklad>
+ 
+ <rok>1986</rok>
+ <sklad>acc, chitt, vbf</sklad>
+ <wydawca>AA</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Micrologus</tytul>
+ <xsklad>większy zespół</xsklad>
+ 
+ <rok>1987</rok>
+ <sklad>acc, cmb, 2 vni di barocco, vc di barocco ossia vla da gamba, 4 fl-ti dolci: soprano, alto, tenore, basso-2 esec</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+  <tytul>Baila</tytul>
+  <xsklad>saksofon, akordeon i kontrabas</xsklad>
+  
+  <rok>2000</rok>
+  <sklad>acc, sxf, cb</sklad>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+    <tytul>Fantazja polimorficzna</tytul>
+    <xsklad>akordeon i taśma</xsklad>
+    
+    <rok>2000</rok>
+    <sklad>acc, nastro</sklad>
+  </kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Skołyszewski.F'><!-- *** Skołyszewski:Franciszek# -->
+
+<kompozycja typ="solo">
+ <tytul>Krakowiaki, w: L. Puchnowski, Szkoła miechowania i artykulacji</tytul>
+ <krotki.tytul>Krakowiaki</krotki.tytul>
+ 
+ <rok>1960</rok>
+ <wydawca>PWM</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Polka, w: L. Puchnowski, Szkoła miechowania i artykulacji</tytul>
+ <krotki.tytul>Polka</krotki.tytul>
+ 
+ <rok>1960</rok>
+ <wydawca>PWM</wydawca>
+</kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Skrzypczak.B'><!-- *** Skrzypczak:Bettina# -->
+
+<kompozycja typ="solo">
+    <tytul>Mazurka</tytul>
+    
+    <rok>1999</rok>
+<wydawca>HBS Nepomuk</wydawca>
+  </kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Smolska.J'><!-- *** Smolska:Jolanta# -->
+
+<kompozycja typ="m.kameralna">
+    <tytul>A due</tytul>
+    <xsklad>klarnet i akordeon</xsklad>
+    <rok>2008</rok>
+    <sklad>cl, acc</sklad>
+  </kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Sotomski.J'><!-- *** Sotomski:Jacek# -->
+
+<kompozycja typ="m.kameralna">
+    <tytul>Paw Królowej na sopran i akordeon</tytul>
+    <xsklad>sopran i akordeon</xsklad>
+    <rok>2010</rok>
+    <sklad>S, acc</sklad>
+  </kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Sowa.A'><!-- *** Sowa:Aleksandra# -->
+
+<kompozycja typ="m.kameralna">
+    <tytul>Potrójne...</tytul>
+    <xsklad>3 saksofony, 3 akordeony</xsklad>
+    <rok>2010</rok>
+    <sklad>3 sxf A, 3 acc</sklad>
+  </kompozycja>
+
+</kompozytor>
+
+
+<kompozytor id='Stalmierski.J'><!-- *** Stamierski:Janusz# -->
+
+<kompozycja typ="koncerty">
+    <tytul>Klif</tytul>
+    
+    <rok>2008</rok>
+</kompozycja>
+
+</kompozytor>
+
+
+<kompozytor id='Stradomski.R'><!-- *** Stradomski:Rafał# -->
+
+<kompozycja typ="solo">
+ <tytul>Forma I</tytul>
+ 
+ <rok>1988</rok>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Forma I</tytul>
+ <xsklad>2 akordeony</xsklad>
+ 
+ <rok>1988</rok>
+ <sklad>2 acc ossia acc/pf/arm/cmb/org ad lib</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Stulgińska.A'><!-- *** Stulgińska:Agnieszka# -->
+
+<kompozycja typ="m.kameralna">
+    <tytul>Ori</tytul>
+    <xsklad>klarnet, akordeon, gitara elektryczna i wiolonczela</xsklad>
+    <rok>2011</rok>
+    <sklad>cl b, vc, acc, chit(el)</sklad>
+ <zrodlo>utwór napisany dla Scontri Ensemble</zrodlo>
+  </kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Stępień.J'><!-- *** Stępień:Jolanta# -->
+
+<kompozycja typ="m.kameralna">
+    <tytul>Jogging Music</tytul>
+    <xsklad>flet i akordeon</xsklad>
+    <rok>2002</rok>
+    <sklad>fl, acc</sklad>
+  </kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Stępniewska.K'><!-- *** Stępniewska:Katarzyna# -->
+
+<kompozycja typ="m.kameralna">
+ <tytul>Sny</tytul>
+ <xsklad>obój, harfa i akordeon</xsklad>
+ 
+ <rok>1994</rok>
+ <sklad>acc, ob, ar</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+  <tytul>Lot nad doliną</tytul>
+  <xsklad>flet i akordeon</xsklad>
+  
+  <rok>2005</rok>
+  <sklad>acc, fl</sklad>
+</kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Synowiec.E'><!-- *** Synowiec:Ewa# -->
+
+<kompozycja typ="solo">
+    <tytul>Omni modo</tytul>
+    
+    <rok>1982</rok>
+  </kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Szankin.D'><!-- *** Szankin:Dariusz# -->
+
+<kompozycja typ="solo">
+    <tytul>Suita milenijna</tytul>
+    
+    <rok>2001</rok>
+  </kompozycja>
+
+<kompozycja typ="m.kameralna">
+    <tytul>Taniec niderlandzki</tytul>
+    <xsklad>flet i akordeon</xsklad>
+    <rok>2001</rok>
+    <sklad>fl, acc</sklad>
+  </kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Szczyrba.J'><!-- *** Szczyrba:Jerzy# -->
+
+<kompozycja typ="koncerty">
+ <tytul>Koncert na akordeon i orkiestrę</tytul>
+ <krotki.tytul>Koncert na akordeon i orkiestrę</krotki.tytul>
+ 
+ <rok>1993</rok>
+ <sklad>4fl, 4ob, 4cl, 4fg-4tr, 4cr, 4tn-batt-acc solo-archi</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Suita taneczna</tytul>
+ <xsklad>2 akordeony</xsklad>
+ 
+ <rok>1997</rok>
+ <sklad>2 acc</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Duety akordeonowe (Rock, Samba, Galop)</tytul>
+  <krotki.tytul>Duety akordeonowe</krotki.tytul>
+ <xsklad>2 akordeony</xsklad>
+ 
+ <rok/>
+ <sklad>2 acc</sklad>
+ <wydawca>Akademia Świętokrzyska</wydawca>
+ </kompozycja>
+<kompozycja typ="koncerty">
+    <tytul>Tryptyk</tytul>
+    
+    <rok/>
+    <sklad>acc solo, orch</sklad>
+  </kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Szeligowski.A'><!-- *** Szeligowski:Aleksander Robert# -->
+
+<kompozycja typ="m.kameralna">
+ <tytul>Kantylena i fugato</tytul>
+ <xsklad>5 akordeonów</xsklad>
+ 
+ <rok>1976</rok>
+ <sklad>4 acc, acc basso</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="koncerty">
+ <tytul>Koncert dziecięcy w starym stylu</tytul>
+ <krotki.tytul>Koncert!dziecięcy w starym stylu</krotki.tytul>
+ 
+ <rok>1976</rok>
+ <sklad>acc solo-archi</sklad>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Suita</tytul>
+ <xsklad>5 akordeonów</xsklad>
+ 
+ <rok>1977</rok>
+ <sklad>4 acc, acc basso</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Allegro</tytul>
+ 
+ <rok>1980</rok>
+ <wydawca>manus</wydawca>
+</kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Szerniewicz.J'><!-- *** Szerniewicz:Jerzy# -->
+
+<kompozycja typ="solo">
+ <tytul>Studium</tytul>
+ 
+ <rok>1983</rok>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Malmaison</tytul>
+ 
+ <rok>1984</rok>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Motyvox</tytul>
+ <xsklad>5 akordeonów</xsklad>
+ 
+ <rok>1984</rok>
+ <sklad>4 acc, acc basso</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Scolex</tytul>
+ 
+ <rok>1984</rok>
+ <wydawca>manus</wydawca>
+</kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Szmerek.A'><!-- *** Szmerek:Adam# -->
+
+<kompozycja typ="koncerty">
+    <tytul>Suita „In Memory of Astor Piazzolla”</tytul>
+    
+    <rok>2006</rok>
+    <sklad>acc solo, 1 fl, 1 ob, 1 cl, batt, archi</sklad>
+  </kompozycja>
+<kompozycja typ="koncerty">
+    <tytul>Koncert</tytul>
+    
+    <rok/>
+    <sklad>acc solo, orch</sklad>
+  </kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Szoła.E'><!-- *** Szoła:E.# -->
+
+<kompozycja typ="solo">
+  <tytul>Humoreska</tytul>
+  <xsklad/>
+  
+  <rok>2001</rok>
+  <sklad>acc solo</sklad>
+  <wydawca/>
+  <zrodlo data="2004/07/09">Sprawozdanie Międzyuczelnianej Katedry Akordeonistyki</zrodlo>
+</kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Szreder.M'><!-- *** Szreder:Maria# -->
+
+<kompozycja typ="solo">
+ <tytul>Pranayama</tytul>
+ 
+ <rok>1988</rok>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Aleja sfinksów</tytul>
+ <xsklad>2 akordeony i perkusja</xsklad>
+ 
+ <rok>1989</rok>
+ <sklad>2 acc, batt-4 esec</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Szwajgier.K'><!-- *** Szwajgier:Krzysztof# -->
+
+<kompozycja typ="i.orkiestro">
+ <tytul>Na bosaka, opera kameralna</tytul>
+ 
+ <rok>1983</rok>
+ <sklad>1 acc</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Szwed.K'><!-- *** Szwed:Katarzyna# -->
+
+<kompozycja typ="m.kameralna">
+    <tytul>Sedno Oceanu</tytul>
+    <xsklad>Utwory wokalno-instrumentalne</xsklad>
+    
+    <rok>2007</rok>
+    <sklad>głos, chór kameralny, fl, vc, 2 acc</sklad>
+  </kompozycja>
+<kompozycja typ="m.kameralna">
+    <tytul>Muzyka do Przejść</tytul>
+<xsklad>skrzypce, wiolonczela, 2 oboje, fortepian, akordeon</xsklad>
+    
+    <rok>2007</rok>
+    <sklad>vn, vc, 2 ob, pfte, acc</sklad>
+  </kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Słowik.Z'><!-- *** Słowik:Zbigniew# -->
+
+<kompozycja typ="koncerty">
+    <tytul>Im Kinderraum</tytul>
+    <xsklad>Utwory wokalno-instrumentalne</xsklad>
+    
+    <rok>2004</rok>
+    <sklad>A, fl, ob, acc, archi</sklad>
+  </kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Słowiński.W'><!-- *** Słowiński:Władysław# -->
+
+<kompozycja typ="m.kameralna">
+ <tytul>Translacja</tytul>
+ <xsklad>2 akordeony i organy</xsklad>
+ 
+ <rok>1990</rok>
+ <sklad>2 acc, org</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Taborowska.K'><!-- *** Taborowska:Katarzyna# -->
+
+<kompozycja typ="m.kameralna">
+    <tytul>Sehepte</tytul>
+    <xsklad>Utwory na kwientet o składzie mieszanym</xsklad>
+    
+    <rok>2006</rok>
+    <sklad>acc, 2 v-ni, vc, batt</sklad>
+  </kompozycja>
+<kompozycja typ="m.kameralna">
+  <tytul>4/4 for four</tytul>
+  <xsklad>2 skrzypiec, akordeon, wiolonczela i taśma</xsklad>
+  
+  <rok>2004</rok>
+  <sklad>acc, 2 v-ni, vc, nastro</sklad>
+  <wydawca>manus</wydawca>
+  <zrodlo data="2005/01/12">prawykonanie 8.03.2004 w Akademii Muzycznej w Poznaniu</zrodlo>
+</kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Tesarowicz.S'><!-- *** Tesarowicz:Szczepan# -->
+
+<kompozycja typ="solo">
+ <tytul>Preludium lugubre</tytul>
+ 
+ <rok>1993</rok>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+  <tytul>Epitaphium 2004</tytul>
+  
+  <rok>2004</rok>
+  <zrodlo>III nagroda na konkursie kompozytorskim w ramach Festiwalu
+  Współczesnej Muzyki Dziecięcej i Młodzieżowej „Srebrna Szybka” 
+  w Krakowie</zrodlo>
+</kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Trojanowski.T'><!-- *** Trojanowski:Tadeusz# -->
+
+<kompozycja typ="solo">
+    <tytul>Obrazek</tytul>
+    
+    <rok>1993</rok>
+  </kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Tuchowski.A'><!-- *** Tuchowski:Andrzej# -->
+
+<kompozycja typ="solo">
+  <tytul>Sonata</tytul>
+  
+  <rok>1988</rok>
+  <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Ballada</tytul>
+ 
+ <rok>1998</rok>
+ <wydawca>Astra</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Jazz–Toccata</tytul>
+ 
+ <rok>1999</rok>
+ <wydawca>Astra</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Perpetuum mobile</tytul>
+ <xsklad>2 akordeony</xsklad>
+ 
+ <rok>2000</rok>
+ <sklad>2 acc</sklad>
+ <wydawca>Fonola</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Sonata II wersja</tytul>
+ 
+ <rok>2000</rok>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Te lucis ante terminum</tytul>
+ 
+ <rok>2000</rok>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+  <tytul>Suita Americana</tytul>
+  <xsklad>klarnet i akordeon</xsklad>
+  
+  <rok>2002</rok>
+  <sklad>acc, cl</sklad>
+  <wydawca/>
+  <zrodlo data="2004/07/09">Sprawozdanie Międzyuczelnianej Katedry Akordeonistyki</zrodlo>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+  <tytul>Jazz Suita „Americana”</tytul>
+  <xsklad>2 akordeony</xsklad>
+  
+  <rok>2005</rok>
+  <sklad>2 acc</sklad>
+  <zrodlo>Utwór skomponowany dla Świętokrzyskiego Duetu Akordeonowego
+  (Elwira Śliwkiewicz-Cisak, Jerzy Mądrawski); prawykonanie 14.5.2005 
+  w Lublinie</zrodlo>
+</kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Warzecha.P'><!-- *** Warzecha:Piotr# -->
+
+<kompozycja typ="m.kameralna">
+ <tytul>Momenty III</tytul>
+ <xsklad>5 akordeonów</xsklad>
+ 
+ <rok>1987</rok>
+ <sklad>4 acc, acc basso</sklad>
+ <wydawca>manus</wydawca>
+ <nagranie>KM, CD</nagranie>
+</kompozycja>
+<kompozycja typ="koncerty">
+    <tytul>Momenty III wersja B</tytul>
+    <xsklad>kwintet akordeonowy i orkiestra</xsklad>
+    
+    <rok/>
+  </kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Widłak.W'><!-- *** Widłak:Wojciech# -->
+
+<kompozycja typ="m.kameralna">
+    <tytul>Sonata</tytul>
+    <xsklad>kontrabas i akordeon</xsklad>
+    
+    <rok>1999</rok>
+    <sklad>cb, acc</sklad>
+  </kompozycja>
+<kompozycja typ="m.kameralna">
+    <tytul>Canzona da augurare</tytul>
+    <xsklad>klarnet fortepian i akordeon</xsklad>
+    
+    <rok>2001</rok>
+    <sklad>cl, pfte, acc</sklad>
+  </kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Wielecki.T'><!-- *** Wielecki:Tadeusz# -->
+
+<kompozycja typ="m.kameralna">
+ <tytul>Kaczuszka</tytul>
+ <xsklad>Utwory z udziałem akordeonu na kwartety o składzie mieszanym</xsklad>
+ 
+ <rok>1988</rok>
+ <sklad>acc, batt, pf, c-basso</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Gesty duszy</tytul>
+ <xsklad>większy zespół</xsklad>
+ 
+ <rok>1989</rok>
+ <sklad>acc, chitt, batt, org, synt</sklad>
+ <wydawca>manus</wydawca>
+ <nagranie>KM</nagranie>
+</kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Wierzbicki.M'><!-- *** Wierzbicki:Marcin# -->
+
+<kompozycja typ="m.kameralna">
+    <tytul>Ikebania</tytul>
+    <xsklad>głos i akordeon</xsklad>
+    
+    <rok>1992</rok>
+    <sklad>acc, S</sklad>
+  </kompozycja>
+<kompozycja typ="m.kameralna">
+  <tytul>...lo zefiro torna...</tytul>
+  <xsklad>flet i akordeon</xsklad>
+  
+  <rok>1993</rok>
+  <sklad>acc, fl</sklad>
+</kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Wiszniewski.Z'><!-- *** Wiszniewski:Zbigniew# -->
+
+<kompozycja typ="m.kameralna">
+ <tytul>Duo</tytul>
+
+ <xsklad>gitara i akordeon</xsklad>
+ 
+ <rok>1984</rok>
+ <sklad>acc, chitt</sklad>
+ <wydawca>AA</wydawca>
+ <nagranie>LP</nagranie>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Trio</tytul>
+ <xsklad>saksofon, perkusja i akordeon</xsklad>
+ 
+ <rok>1985</rok>
+ <sklad>acc, sxf alto, batt</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Trigonos</tytul>
+ <xsklad>2 akordeony i organy</xsklad>
+ 
+ <rok>1987</rok>
+ <sklad>2 acc, org</sklad>
+ <wydawca>POM</wydawca>
+ <nagranie>LP</nagranie>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Trio</tytul>
+ <xsklad>viola d’amore, organy i akordeon</xsklad>
+ 
+ <rok>1987</rok>
+ <sklad>acc, v-la d’amore, org</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Ballade des Dames du temps jadis</tytul>
+ <xsklad>Utwory wokalno-instrumentalne</xsklad>
+ 
+ <rok>1989</rok>
+ <sklad>acc, S solo, vbf</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="koncerty">
+ <tytul>Concerto doppio per la tromba e fisarmonica</tytul>
+ 
+ <rok>1989</rok>
+ <sklad>tn solo, acc solo, orch</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Duo</tytul>
+ <xsklad>puzon i akordeon</xsklad>
+ 
+ <rok>1990</rok>
+ <sklad>acc, tn</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Wojciechowski.S'><!-- *** Wojciechowski:Sławomir# -->
+
+<kompozycja typ="m.kameralna">
+    <tytul>Ge-sheng</tytul>
+    <xsklad>flet, klarnet, skrzypce, altówka, wiolonczela, akordeon</xsklad>
+    
+    <rok>2008</rok>
+    <sklad>fl, acc, cl, vn, vl, vc</sklad>
+  </kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Woś.Ł'><!-- *** Woś:Łukasz# -->
+
+<kompozycja typ="solo">
+ <tytul>Mała suita</tytul>
+ 
+ <rok>1996</rok>
+ <wydawca>Astra</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Sonatina klasyczna</tytul>
+ 
+ <rok>1997</rok>
+ <wydawca>Astra</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Sonatina</tytul>
+ 
+ <rok>1999</rok>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="solo">
+ <tytul>Suita dziecięca</tytul>
+ 
+ <rok>1999</rok>
+ <wydawca>Akademia Świętokrzyska</wydawca>
+</kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Wróbel.P'><!-- *** Wróbel:Piotr# -->
+
+<kompozycja typ="koncerty">
+  <tytul>Poemat Refleksyjny „Las” na akordeon i smyczki</tytul>
+  
+  <rok>2003</rok>
+  <sklad>2 acc, archi</sklad>
+  <wydawca>manus</wydawca>
+  <zrodlo data="2005/01/12">prawykonanie 2.12.2003 w Warszawie, Jerzy Łukasiewicz, Wiesław Strombek 
+  – akordeon, Camerata Vistula</zrodlo>
+</kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Wróblewski.W'><!-- *** Wróblewski:Waldemar# -->
+
+<kompozycja typ="solo">
+ <tytul>Ballada-sonata</tytul>
+ 
+ <rok>1977</rok>
+ <wydawca>PKW</wydawca>
+</kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Zagajewski.A'><!-- *** Zagajewski:Artur# -->
+
+<kompozycja typ="m.kameralna">
+    <tytul>Glassmusic-motet na głos żeński, wiolonczelę, akordeon i taśmę</tytul>
+    <xsklad>głos żeński, akordeon, fortepian, wiolonczela, taśma</xsklad>
+    <rok>2006</rok>
+    <sklad>acc, voice, vc, pfte, nastro</sklad>
+    <zrodlo>II nagroda na 48 Konkursie Młodych Kompozytorów im. Tadeusza Bairda w 2007 roku</zrodlo>
+  </kompozycja>
+
+<kompozycja typ="m.kameralna">
+    <tytul>Glassmusic-motet (wersja II)</tytul>
+    <xsklad>2 akordeony, wiolonczela, fortepian, taśma</xsklad>
+    <rok>2006</rok>
+    <sklad>2 acc, vc, pfte, nastro</sklad>
+  </kompozycja>
+<kompozycja typ="m.kameralna">
+    <tytul>Birds</tytul>
+    <xsklad>2 akordeony i taśma</xsklad>
+    <rok>2008</rok>
+    <sklad>2 acc, nastro</sklad>
+  </kompozycja>
+
+  <kompozycja typ='i.orkiestro'>
+    <tytul>Unhum na orkiestrę symfoniczną</tytul>
+    <xsklad>1 akordeon w orkiestrze</xsklad>
+    
+    <rok>2009</rok>
+  </kompozycja>
+<kompozycja typ="koncerty">
+    <tytul>Lichtspiele in der Oberkirche na akordeon solo i orkiestrę smyczkową</tytul>
+    <krotki.tytul>Lichtspiele in der Oberkirche</krotki.tytul>
+    <rok>2006</rok>
+    <sklad>acc solo, archi</sklad>
+    <zrodlo>III Internationaler Komponistenwettbewerb  Rundfunk 
+    Berlin -- Brandenburg (RBB) 16.09.2006, solista Grzegorz Klemba, 
+    Streichorchester des Stadttheater Cottbus, dyr. Reinhardt Petersen</zrodlo>
+  </kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Zajączek.R'><!-- *** Zajączek:Roman# -->
+
+<kompozycja typ="m.kameralna">
+ <tytul>Retours</tytul>
+ <xsklad>Utwory wokalno-instrumentalne</xsklad>
+ 
+ <rok>1986</rok>
+ <sklad>acc, cl alto Es/cl basso-1 esec, batt, Mz solo</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Zamuszko.S'><!-- *** Zamuszko:Sławomir# -->
+
+<kompozycja typ="m.kameralna">
+    <tytul>Ostinati</tytul>
+    <xsklad>altówka i akordeon</xsklad>
+    <rok>1997</rok>
+    <sklad>vla, acc</sklad>
+  </kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Zastawny.M'><!-- *** Zastawny:M.# -->
+
+<kompozycja typ="m.kameralna">
+    <tytul>Oratio II</tytul>
+    <xsklad>klawesyn i akordeon</xsklad>
+    <rok/>
+    <sklad>cmb, acc</sklad>
+  </kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Zawadzka-Gołosz.A'><!-- *** Zawadzka-Gołosz:Anna# -->
+
+<kompozycja typ="m.kameralna">
+ <tytul>Witraż II</tytul>
+ <xsklad>klarnet, wibrafon, wiolonczela i akordeon</xsklad>
+ 
+ <rok>1988</rok>
+ <sklad>acc, cl, vbf, vc</sklad>
+ <wydawca>manus</wydawca>
+ <nagranie>KM</nagranie>
+</kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Zdrojek-Suchodolska.A'><!-- *** Zdrojek-Suchodolska:Agnieszka# -->
+
+<kompozycja typ="solo">
+    <tytul>Tchnienia</tytul>
+    
+    <rok>2010</rok>
+ </kompozycja>
+<kompozycja typ="solo">
+    <tytul>Tango</tytul>
+    
+    <rok>2011</rok>
+  </kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Zgraja.K'><!-- *** Zgraja:Krzysztof# -->
+
+<kompozycja typ="m.kameralna">
+  <tytul>A due</tytul>
+  <xsklad>perkusja i akordeon</xsklad>
+  
+  <rok>1984</rok>
+  <sklad>acc, vbf</sklad>
+  <wydawca>Intermusik Schmülling</wydawca>
+  <zrodlo data="2004/07/09"/>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+  <tytul>Alex-funky</tytul>
+  <xsklad>perkusja i akordeon</xsklad>
+  
+  <rok>1984</rok>
+  <sklad>acc, vbf</sklad>
+  <wydawca>Intermusik Schmülling</wydawca>
+  <zrodlo data="2004/07/09"/>
+</kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Zielińska.L'><!-- *** Zielińska:Lidia# -->
+
+<kompozycja typ="m.kameralna">
+ <tytul>Sonet o Tatrach</tytul>
+ <xsklad>większy zespół</xsklad>
+ 
+ <rok>1985</rok>
+ <sklad>acc, tr, tn, cmpl, vn</sklad>
+ <wydawca>AA</wydawca>
+ <nagranie>LP</nagranie>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Dwa pudy</tytul>
+ <xsklad>większy zespół</xsklad>
+ 
+ <rok>1989</rok>
+ <sklad>acc, act, fl picc, tn, synt, delay box</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+    <tytul>Fago</tytul>
+    <xsklad>fagot, kontrabas i akordeon</xsklad>
+        
+    <rok>1992</rok>
+    <sklad>fg, cb, acc</sklad>
+  </kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Zieliński.M'><!-- *** Zieliński:Maciej# -->
+
+<kompozycja typ="solo">
+ <tytul>Sonata</tytul>
+ 
+ <rok>1993</rok>
+ <wydawca>PWM</wydawca>
+</kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Zimmermann.K'><!-- *** Zimmermann:Krzysztof# -->
+
+<kompozycja typ="m.kameralna">
+  <tytul>Changeling</tytul>
+  <xsklad>saksofon, marimba i akordeon</xsklad>
+  
+  <rok>2002</rok>
+  <sklad>acc, sxf, mbf</sklad>
+  <wydawca/>
+  <zrodlo data="2004/07/09">program koncertu z dnia 20.1.2003, AM w Gdańsku</zrodlo>
+</kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Zubel.A'><!-- *** Zubel:Agata# -->
+
+<kompozycja typ="koncerty">
+ <tytul>Lentille</tytul>
+ 
+ <rok>2001</rok>
+ <sklad>S solo, acc solo, archi</sklad>
+ <wydawca>manus</wydawca>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+    <tytul>Unisono II</tytul>
+    <xsklad>Utwory wokalno-instrumentalne</xsklad>
+    <xsklad>Utwory z taśmą</xsklad>
+    
+    <rok>2003</rok>
+    <sklad>acc, voice, computer</sklad>
+  </kompozycja>
+<kompozycja typ="m.kameralna">
+  <tytul>Unisono</tytul>
+  <xsklad>sopran solo, akordeon i live electronic</xsklad>
+  
+  <rok>2004</rok>
+  <sklad>acc, S, live el</sklad>
+  <wydawca/>
+  <zrodlo data="2004/07/09">program XXIV Festiwalu „Musica Polonica Nova” </zrodlo>
+</kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Zuchowicz.E'><!-- *** Zuchowicz:Ewa# -->
+
+<kompozycja typ="solo">
+ <tytul>Bez tytułu</tytul>
+ 
+ <rok>1984</rok>
+ <wydawca>manus</wydawca>
+</kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Zych.W'><!-- *** Zych:Wojciech Ziemowit# -->
+
+<kompozycja typ="m.kameralna">
+    <tytul>Kooperatywa</tytul>
+    <xsklad>saksofon i akordeon</xsklad>
+    
+    <rok>2005</rok>
+    <sklad>acc, sxf alt</sklad>
+  </kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Łukaszewski.W'><!-- *** Łukaszewski:Wojciech# -->
+
+<kompozycja typ="solo">
+    <tytul>Preludium</tytul>
+    
+    <rok>1978</rok>
+  </kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Łukowiec.P'><!-- *** Łukowiec:Paweł# -->
+
+<kompozycja typ="solo">
+    <tytul>Miniatury</tytul>
+    
+    <rok>2006</rok>
+  </kompozycja>
+<kompozycja typ="solo">
+  <tytul>Transformations harmoniques</tytul>
+  <xsklad/>
+  
+  <rok>2003</rok>
+  <sklad>acc solo</sklad>
+  <wydawca>Astra</wydawca>
+  <zrodlo data="2004/07/09"/>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+    <tytul>Les Images</tytul>
+    <xsklad>sopran, flet, akordeon i perkusja</xsklad>
+    
+    <rok>1997</rok>
+    <sklad>S, fl, acc, batt</sklad>
+  </kompozycja>
+<kompozycja typ="solo">
+    <tytul>Rhythmic Sequences</tytul>
+    
+    <rok>2007</rok>
+  </kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Śleziak.E'><!-- *** Śleziak:Eugeniusz# -->
+
+<kompozycja typ="m.kameralna">
+    <tytul>Spielmusik</tytul>
+    <xsklad>klarnet, akordeon, gitara elektryczna i wiolonczela</xsklad>
+   <rok>2010</rok>
+   <sklad>cl b, vc, acc, chit(el)</sklad>
+ <zrodlo>utwór napisany dla Scontri Ensemble</zrodlo>
+  </kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Świder.J'><!-- *** Świder:Józef# -->
+
+<kompozycja typ="m.kameralna">
+ <tytul>Suita</tytul>
+ <xsklad>5 akordeonów</xsklad>
+ 
+ <rok>1979</rok>
+ <sklad>4 acc, acc basso</sklad>
+ <wydawca>manus</wydawca>
+ <nagranie>CD</nagranie>
+</kompozycja>
+<kompozycja typ="m.kameralna">
+ <tytul>Suita</tytul>
+ <xsklad>kwartet smyczkowy i akordeon</xsklad>
+ 
+ <rok>1979</rok>
+ <sklad>acc, quartetto d’archi</sklad>
+ <wydawca>Amtel</wydawca>
+</kompozycja>
+
+</kompozytor>
+
+
+
+
+<kompozytor id='Żuchowski.A'><!-- *** Żuchowski:Artur# -->
+
+<kompozycja typ="solo">
+    <tytul>Zamiast listu</tytul>
+    
+    <rok/>
+  </kompozycja>
+<kompozycja typ="solo">
+    <tytul>Sonata</tytul>
+    
+    <rok>2005</rok>
+  </kompozycja>
+<kompozycja typ="solo">
+    <tytul>Postmodernwaltz</tytul>
+    
+    <rok>2006</rok>
+  </kompozycja>
+<kompozycja typ="m.kameralna">
+    <tytul>Wiele za wiele</tytul>
+<xsklad>sopran, akordeon, taśma</xsklad>
+    <xsklad>Utwory z taśmą</xsklad>
+    
+    <rok>2007</rok>
+    <sklad>S, acc, nastro</sklad>
+  </kompozycja>
+<kompozycja typ="solo">
+    <tytul>I Sonata </tytul>
+    
+    <rok>2003--2005</rok>
+  </kompozycja>
+<kompozycja typ="koncerty">
+    <tytul>Koncert na akordeon, saksofon altowy i orkiestrę</tytul>
+    
+    <rok>2007--2008</rok>
+  </kompozycja>
+<kompozycja typ="m.kameralna">
+    <tytul>Koncert kameralny nr 2</tytul>
+    
+    <rok>2009</rok>
+  </kompozycja>
+<kompozycja typ="koncerty">
+    <tytul>Koncert na akordeon i orkiestrę</tytul>
+    
+    <rok>2009</rok>
+  </kompozycja>
+<kompozycja typ="m.kameralna">
+    <tytul>Duo na skrzypce i akordeon</tytul>
+    <xsklad>skrzypce i akordeon</xsklad>
+    <rok>2009</rok>
+    <sklad>vn, acc</sklad>
+  </kompozycja>
+<kompozycja typ="solo">
+    <tytul>II sonata „Smętek”</tytul>
+    
+    <rok>2010</rok>
+  </kompozycja>
+
+<kompozycja typ="m.kameralna">
+    <tytul>Walc luster na zespół kameralny</tytul>
+    
+    <rok>2011</rok>
+  </kompozycja>
+
+</kompozytor>
+
+</lista.kompozycji>
+<!-- Keep this comment at the end of the file
+Local variables:
+mode: xml
+encoding: utf-8
+End:
+-->

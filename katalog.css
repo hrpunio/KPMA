@@ -1,0 +1,11 @@
+body { font-family : sans-serif }
+h3, h4 { color : #0e0672 ; font-weight : bold ; font-family : sans-serif  }
+h3 { font-size : 120% }
+h4 { font-size : 100% ; margin-bottom : .4em }
+
+table.head { background : #dbd9f7 ; color : #0e0672 ; border: 1px dotted; font-family : sans-serif ; }
+thead { background : #dbd9f7 }
+td { padding: 3px 6px 3px 6px ;  }
+
+div.ls { font-family : sans-serif ; text-align : right }
+.ops { font-size : 80% }
